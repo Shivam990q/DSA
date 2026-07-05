@@ -1,0 +1,69 @@
+# DSA — Second Brain
+
+> A machine-readable memory system over this project's knowledge base.
+> This file maps the corpus for LLMs and AI agents.
+> Full index: `.second-brain/manifest.json`.
+
+## DSA-Grandmaster-Codex
+
+- [00-PHILOSOPHY-AND-DOCTRINE](DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md): Before any algorithm. Before any data structure. Before any line of code — the **mindset**
+- [01-LEVELS-PROGRESSION](DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/00-Index.md): This folder defines the **complete progression** from absolute zero (Level 0) to algorithm
+- [02-PROGRAMMING-FOUNDATIONS](DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/00-Index.md): This universe contains the foundational mental models, paradigms, and computational concep
+- [03-PROBLEM-SOLVING-FOUNDATIONS](DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/00-Index.md): This universe teaches **how to attack any problem you've never seen before**. It's the met
+- [04-DATA-STRUCTURES-UNIVERSE](DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md): The complete kingdom of data structures, from `int x = 5` to Link-Cut Trees. For each: int
+- [05-ALGORITHMS-UNIVERSE](DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/00-Index.md): 1. [`01-Searching.md`](./01-Searching.md) — Linear, binary, ternary, exponential, BS-on-an
+- [06-DYNAMIC-PROGRAMMING-UNIVERSE](DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/00-Index.md): The complete bible of dynamic programming — now with a deep file for every family.
+- [07-GRAPH-THEORY-UNIVERSE](DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/00-Index.md): 1. [`01-Graph-Foundations.md`](./01-Graph-Foundations.md) — Definitions, representations, 
+- [08-STRING-UNIVERSE](DSA-Grandmaster-Codex/08-STRING-UNIVERSE/00-Index.md): 1. [`01-String-Foundations.md`](./01-String-Foundations.md) — Fundamentals, naive matching
+- [09-MATHEMATICS-UNIVERSE](DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/00-Index.md): 1. [`01-Number-Theory.md`](./01-Number-Theory.md) — GCD, primes, sieve, modular, Fermat/Eu
+- [10-GEOMETRY-UNIVERSE](DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/00-Index.md): 1. [`01-Computational-Geometry-Foundations.md`](./01-Computational-Geometry-Foundations.md
+- [11-ADVANCED-PARADIGMS-UNIVERSE](DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/00-Index.md): Randomized Algorithms (Las Vegas, Monte Carlo, Karger, Miller-Rabin), Approximation (verte
+- [12-COMPETITIVE-PROGRAMMING-UNIVERSE](DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/00-Index.md): 1. [`01-Codeforces-Mastery.md`](./01-Codeforces-Mastery.md) — How to climb to Grandmaster
+- [13-INTERVIEW-DSA-UNIVERSE](DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/00-Index.md): 1. [`01-FAANG-Preparation-Roadmap.md`](./01-FAANG-Preparation-Roadmap.md)
+- [14-ALGORITHM-DESIGN-SCIENCE](DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/00-Index.md): This universe teaches the meta-skill: **how new algorithms are invented**.
+- [15-CASE-STUDIES-LEGENDARY](DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md): For each case study: **Problem → Brute Force → Better Approach → Optimal Approach → Why It
+- [16-MENTAL-MODELS-AND-FRAMEWORKS](DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/00-Index.md): 1. [`01-Divide-Thinking.md`](./01-Divide-Thinking.md) — The split-and-solve worldview
+- [17-EXECUTION-SYSTEMS](DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/00-Index.md): 1. [`01-Daily-Training-System.md`](./01-Daily-Training-System.md)
+- [18-SIMULATIONS-AND-LABS](DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/00-Index.md): 1. [`01-FAANG-Interview-Simulation.md`](./01-FAANG-Interview-Simulation.md) — Live intervi
+- [19-TEMPLATES-AND-IMPLEMENTATIONS](DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/00-Index.md): All templates are battle-ready. Study them, adapt to your style, and stress-test before re
+- [20-RESOURCES-AND-REFERENCES](DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md): 1. [`01-Books-By-Level.md`](./01-Books-By-Level.md) — book recommendations per level (0-10
+- [21-MASTERY-VERIFICATION](DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/00-Index.md): 1. [`00-The-Trials.md`](./00-The-Trials.md) — The complete trial system, level by level ⭐
+- [22-COMPANY-PREP-TRACKS](DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/00-Index.md): This universe gives you a **complete, tailored preparation track for every category of com
+- [23-SOLVED-PROBLEMS-VAULT](DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/00-Index.md): This is the missing half of the Codex. Everywhere else teaches concepts and points you to 
+- [24-MASTER-SYLLABUS-AND-ROADMAP](DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/00-Index.md): This is the **map of the entire Codex**. If you ever feel lost ("kya padhun, kis order me,
+- [MASTER-INDEX.md](DSA-Grandmaster-Codex/MASTER-INDEX.md): If you are absolutely new:
+- [README.md](DSA-Grandmaster-Codex/README.md): This is **not a DSA course**. This is a **civilization-scale knowledge system** — a comple
+
+## FULLSTACK-AI-GRANDMASTER-CODEX
+
+- [00-ROADMAP-AND-PHILOSOPHY](FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/00-Index.md): 1. [`01-The-Engineer-Mindset.md`](./01-The-Engineer-Mindset.md) — How to think like a buil
+- [01-WEB-FOUNDATIONS](FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/00-Index.md): This is the bedrock of the entire codex. Everything — React, Next.js, Node, deployment, ev
+- [02-JAVASCRIPT-MASTERY](FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/00-Index.md): The language of the web — and increasingly, of the server, the build tools, the desktop, a
+- [03-TYPESCRIPT](FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/00-Index.md): TypeScript is JavaScript with a **static type system** bolted on top. You write types; the
+- [04-JAVA-MASTERY](FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md): You write `.java` source files; the JDK turns them into runnable programs. You need the **
+- [05-REACT](FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md): React is a **library**, not a runtime. You need **Node.js** installed (Node 18+ recommende
+- [06-NEXTJS](FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md): Next.js is a Node.js framework. You need **Node.js 18.18+** (the App Router and modern fea
+- [07-NODEJS-EXPRESS](FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md): You write `.js` (or `.ts`) source files; Node executes them. You need **Node** itself, npm
+- [08-SQL-DATABASES](FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md): You need a server (the database itself) and a client (something that sends SQL to it).
+- [09-NOSQL-MONGODB](FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/00-Index.md): You write queries in **mongosh** (the shell) or in your app (via a driver / Mongoose). Beh
+- [10-MERN-STACK](FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md): Everything in this section builds **one** application, layer by layer: **TaskFlow**, a col
+- [11-FULLSTACK-ENGINEERING](FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md): 1. **Build a "production-grade" version of one app.** Take an API from [`07-NODEJS-EXPRESS
+- [README.md](FULLSTACK-AI-GRANDMASTER-CODEX/README.md): A **civilization-scale, build-everything knowledge system** that takes you from "I can wri
+
+## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX
+
+- [00-PHILOSOPHY-AND-DOCTRINE](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md): Before the grammars and the garbage collectors, the mindset. This section is the *why*: wh
+- [01-LANGUAGE-FOUNDATIONS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/00-Index.md): The atoms of every programming language. Before paradigms, types, and runtimes, you must u
+- [02-PARADIGMS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/00-Index.md): A **programming paradigm** is a fundamental style of structuring computation — a different
+- [03-TYPE-SYSTEMS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md): A **type** classifies values by what they are and what you can do with them. A **type syst
+- [04-MEMORY-AND-RUNTIME](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md): Where do values actually live? Who allocates them, and who frees them? The answer to "how 
+- [MASTER-INDEX.md](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md): 1. Read [`README.md`](./README.md) for the big picture.
+- [README.md](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md): This is the **third sibling codex**. Where `DSA-Grandmaster-Codex` teaches the *algorithmi
+
+## Second Brain tooling
+
+- [Manifest](.second-brain/manifest.json): full inventory of all docs
+- [Knowledge graph](.second-brain/graph/knowledge-graph.json): nodes + edges
+- [Outline](.second-brain/outline.md): every heading in the corpus
+- [Glossary](.second-brain/glossary.md): concept → defining docs
+- [Brain CLI](.second-brain/brain.py): offline search/related/outline

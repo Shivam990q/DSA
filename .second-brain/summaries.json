@@ -1,0 +1,1492 @@
+{
+  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "codices": {
+    "DSA-Grandmaster-Codex": {
+      "documents": 460,
+      "sections": {
+        "00-PHILOSOPHY-AND-DOCTRINE": {
+          "documents": 9,
+          "titles": [
+            "🕉️ Philosophy & Doctrine — The Eternal Foundation",
+            "🪔 The Eternal Mindset",
+            "🔬 The Doctrine of First Principles",
+            "⚔️ The Grandmaster Code — 21 Commandments",
+            "🛤️ The Path of Mastery — Stages of Skill Acquisition",
+            "☠️ The Anti-Patterns — What Kills Progress",
+            "🗡️ The War Manual — Sun Tzu for Problem Solvers",
+            "📿 The Geeta of Problem Solving",
+            "🧘 The Discipline System — Daily Practice Doctrine"
+          ],
+          "key_topics": [
+            "the fundamental truth",
+            "the five pillars of the algorithmic mind",
+            "the three lies you must unlearn",
+            "the bhagavad geeta of dsa",
+            "the four stages of understanding",
+            "the grandmaster's daily vow",
+            "the five enemies",
+            "the sacred loop",
+            "the promise of the codex",
+            "the opening mantra",
+            "what first-principles thinking is",
+            "why most people never escape memorization"
+          ],
+          "summary": "9 documents covering: the fundamental truth, the five pillars of the algorithmic mind, the three lies you must unlearn, the bhagavad geeta of dsa, the four stages of understanding, the grandmaster's daily vow, the five enemies, the sacred loop, the promise of the codex, the opening mantra, what first-principles thinking is, why most people never escape memorization."
+        },
+        "01-LEVELS-PROGRESSION": {
+          "documents": 12,
+          "titles": [
+            "🪜 The 11-Level Mastery Ladder",
+            "🌱 Level 0 — Programming Foundations (The Genesis)",
+            "🌿 Level 1 — Beginner DSA (The First Steps)",
+            "🌳 Level 2 — Academic / B.Tech DSA (The Scholar)",
+            "🎯 Level 3 — Placement DSA (The Job-Ready Engineer)",
+            "🦄 Level 4 — Product-Based DSA (The Unicorn-Ready)",
+            "👑 Level 5 — FAANG / MAANG DSA (The FAANG Crusher)",
+            "⚔️ Level 6 — Competitive Programming (The Codeforces Warrior)",
+            "🌌 Level 7 — Elite Competitive Programming (The Grandmaster Aspirant)",
+            "🏗️ Level 8 — Algorithm Engineering (The Production Architect)",
+            "🔬 Level 9 — Research-Level Algorithms (The Researcher)",
+            "🌠 Level 10 — Algorithm Designer / Grandmaster (The Inventor)"
+          ],
+          "key_topics": [
+            "prerequisite",
+            "⏱ estimated time",
+            "on completion",
+            "outcome",
+            "exit test",
+            "problem volume",
+            "the ladder",
+            "approximate time investment",
+            "the skip-level rule",
+            "the journey begins",
+            "outcome (after completing this level)",
+            "curriculum (8 modules, ~50 hours)"
+          ],
+          "summary": "12 documents covering: prerequisite, ⏱ estimated time, on completion, outcome, exit test, problem volume, the ladder, approximate time investment, the skip-level rule, the journey begins, outcome (after completing this level), curriculum (8 modules, ~50 hours)."
+        },
+        "02-PROGRAMMING-FOUNDATIONS": {
+          "documents": 11,
+          "titles": [
+            "🌱 Programming Foundations Universe",
+            "🧠 Computational Thinking",
+            "🧠 Memory Models — Where Data Lives",
+            "🎭 Programming Paradigms",
+            "🌀 Recursion Thinking — The Self-Similar Mind",
+            "🎚️ State Modeling — The Bookkeeping of Reality",
+            "📈 Complexity Thinking — The Asymptotic Worldview",
+            "➗ Mathematics for Programmers",
+            "🧮 Logic & Discrete Math — The Crystalline Foundations",
+            "🪜 Abstraction & Decomposition — The Two Superpowers",
+            "⚙️ Compilation & Execution — From Source to Silicon"
+          ],
+          "key_topics": [
+            "the final truth",
+            "the four pillars of computational thinking",
+            "the mind of a computer",
+            "the algorithmic mindset",
+            "the problem translation hierarchy",
+            "essential habits",
+            "the computational unconscious",
+            "exercise: translate english math",
+            "the memory hierarchy",
+            "stack vs heap",
+            "cache lines & locality",
+            "array vs linked list: a memory story"
+          ],
+          "summary": "11 documents covering: the final truth, the four pillars of computational thinking, the mind of a computer, the algorithmic mindset, the problem translation hierarchy, essential habits, the computational unconscious, exercise: translate english math, the memory hierarchy, stack vs heap, cache lines & locality, array vs linked list: a memory story."
+        },
+        "03-PROBLEM-SOLVING-FOUNDATIONS": {
+          "documents": 13,
+          "titles": [
+            "🧠 Problem Solving Foundations Universe",
+            "📖 How to Read a Problem — The Forensic Discipline",
+            "🔍 Constraint Analysis — The Whisper of Algorithms",
+            "🔬 Observation Extraction — Finding the Hidden Insight",
+            "🎯 Pattern Recognition — Compressed Experience",
+            "🔨 Brute Force First — The Sacred Starting Point",
+            "🚀 Optimization Thinking — From Naive to Optimal",
+            "🎚️ State Design — The Architecture of Solutions",
+            "⚖️ Invariant Discovery — What Never Changes is What Guides You",
+            "📐 Proof Construction — Conviction without Doubt",
+            "🛡️ Edge Case Analysis — Where Lazy Minds Die",
+            "🧙 The Polya Method — The Eternal Four Steps",
+            "⚔️ The Problem Attack Protocol"
+          ],
+          "key_topics": [
+            "the final truth",
+            "exercises",
+            "the three-read rule",
+            "the problem anatomy",
+            "the restate-in-your-words test",
+            "the example-verification drill",
+            "keywords that trigger patterns",
+            "the note-taking discipline",
+            "the 5-minute rule",
+            "red flags while reading",
+            "the final protocol",
+            "the master table"
+          ],
+          "summary": "13 documents covering: the final truth, exercises, the three-read rule, the problem anatomy, the restate-in-your-words test, the example-verification drill, keywords that trigger patterns, the note-taking discipline, the 5-minute rule, red flags while reading, the final protocol, the master table."
+        },
+        "04-DATA-STRUCTURES-UNIVERSE": {
+          "documents": 9,
+          "titles": [
+            "🏛️ Data Structures Universe",
+            "🪨 Arrays — The Atomic Data Structure",
+            "🗺️ Hash Tables — The O(1) Magic",
+            "📐 Segment Tree — The Range Query Workhorse",
+            "🔗 Disjoint Set Union (Union-Find)",
+            "🌌 Advanced & Exotic Data Structures Compendium",
+            "🔥 Heaps & Range Query Compendium",
+            "📚 Linear Structures Compendium",
+            "🌳 Trees Compendium"
+          ],
+          "key_topics": [
+            "the idea",
+            "extensions",
+            "the complete structure list (53 structures)",
+            "deep reference",
+            "what is an array?",
+            "static vs dynamic",
+            "amortized analysis of dynamic array",
+            "operations complexity",
+            "memory layout & cache",
+            "multi-dimensional arrays",
+            "essential operations patterns",
+            "interview problems (top 30)"
+          ],
+          "summary": "9 documents covering: the idea, extensions, the complete structure list (53 structures), deep reference, what is an array?, static vs dynamic, amortized analysis of dynamic array, operations complexity, memory layout & cache, multi-dimensional arrays, essential operations patterns, interview problems (top 30)."
+        },
+        "05-ALGORITHMS-UNIVERSE": {
+          "documents": 10,
+          "titles": [
+            "⚙️ Algorithms Universe",
+            "🔍 Searching Algorithms",
+            "🔢 Sorting Algorithms",
+            "⚔️ Divide and Conquer — The Recursive Worldview",
+            "💎 Greedy Algorithms — When Local is Global",
+            "🌀 Backtracking — Systematic State-Space Search",
+            "🎯 Branch and Bound",
+            "🎯 Two Pointers & Sliding Window",
+            "🎯 Bit Manipulation",
+            "⚙️ Advanced Algorithm Paradigms Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "the paradigm",
+            "complexity",
+            "the algorithm paradigms (big picture)",
+            "deep reference",
+            "linear search — o(n)",
+            "binary search — o(log n)",
+            "binary search on answer",
+            "ternary search — o(log n)",
+            "exponential / galloping search — o(log p) where p is target position",
+            "interpolation search — o(log log n) for uniform distribution",
+            "jump search — o(√n)"
+          ],
+          "summary": "10 documents covering: problems, the paradigm, complexity, the algorithm paradigms (big picture), deep reference, linear search — o(n), binary search — o(log n), binary search on answer, ternary search — o(log n), exponential / galloping search — o(log p) where p is target position, interpolation search — o(log log n) for uniform distribution, jump search — o(√n)."
+        },
+        "06-DYNAMIC-PROGRAMMING-UNIVERSE": {
+          "documents": 22,
+          "titles": [
+            "🧬 Dynamic Programming Universe",
+            "🧬 DP Foundations — The 5-Step Framework",
+            "1️⃣ 1D Dynamic Programming",
+            "🧬 2D DP & Grid Problems",
+            "🧬 The Knapsack Family",
+            "🧬 The LIS Family (Longest Increasing Subsequence)",
+            "🧬 The LCS Family (Longest Common Subsequence)",
+            "🧬 Edit Distance Family",
+            "🧬 Stock DP (State-Machine DP)",
+            "🧬 Interval DP",
+            "🧬 Tree DP",
+            "🧬 DP on Graphs (DAGs)",
+            "🧬 Bitmask DP",
+            "🧬 Digit DP",
+            "🧬 Probability & Expected-Value DP",
+            "🧬 DP Optimizations",
+            "🧬 SOS DP (Sum Over Subsets)",
+            "🧬 Profile DP (Broken Profile DP)",
+            "🧬 DP with Data Structures",
+            "🧬 DP Cheatsheet — Recognition & Recall",
+            "🧬 The 50 Classic DP Problems",
+            "📜 Classical DP Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "complexity",
+            "space optimization",
+            "the shape",
+            "note",
+            "the family",
+            "when to use",
+            "the idea",
+            "the problem type",
+            "learning order",
+            "the must-do",
+            "deep reference"
+          ],
+          "summary": "22 documents covering: problems, complexity, space optimization, the shape, note, the family, when to use, the idea, the problem type, learning order, the must-do, deep reference."
+        },
+        "07-GRAPH-THEORY-UNIVERSE": {
+          "documents": 21,
+          "titles": [
+            "🌐 Graph Theory Universe",
+            "🌐 Graph Foundations",
+            "🌐 BFS & DFS — The Two Universal Traversals",
+            "🌐 Topological Sort",
+            "🌐 Cycle Detection",
+            "🌐 Connected Components",
+            "🌐 Shortest Paths",
+            "🌐 Minimum Spanning Tree (MST)",
+            "🌐 Bridges & Articulation Points",
+            "🌐 Strongly Connected Components (SCC)",
+            "🌐 2-SAT",
+            "🌐 Eulerian & Hamiltonian Paths",
+            "🌐 Bipartite Matching",
+            "🌐 General Graph Matching (Blossom)",
+            "🌐 Network Flow (Max Flow / Min Cut)",
+            "🌐 Min-Cost Max-Flow (MCMF)",
+            "🌐 Lowest Common Ancestor (LCA)",
+            "🌐 Heavy-Light Decomposition & Centroid Decomposition",
+            "🌐 Dynamic Graphs",
+            "🌐 Planar Graphs",
+            "🌐 The Complete Graph Algorithms Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "complexity",
+            "applications",
+            "note",
+            "the problem",
+            "definitions",
+            "definition",
+            "complexity summary",
+            "learning order",
+            "the must-do",
+            "deep reference",
+            "representations"
+          ],
+          "summary": "21 documents covering: problems, complexity, applications, note, the problem, definitions, definition, complexity summary, learning order, the must-do, deep reference, representations."
+        },
+        "08-STRING-UNIVERSE": {
+          "documents": 15,
+          "titles": [
+            "🔤 String Universe",
+            "🔤 String Foundations",
+            "🔤 String Hashing — Polynomial Rolling Hash",
+            "🔤 KMP — Knuth-Morris-Pratt",
+            "🔤 Z-Algorithm",
+            "🔤 Rabin-Karp — Hashing-Based Pattern Matching",
+            "🔤 Aho-Corasick — Multi-Pattern Matching",
+            "🔤 Manacher's Algorithm — Palindromes in O(n)",
+            "🔤 Suffix Array + LCP Array",
+            "🔤 Suffix Automaton (SAM)",
+            "🔤 Suffix Tree",
+            "🔤 Palindromic Tree (Eertree)",
+            "🔤 String DP",
+            "🔤 Trie Applications",
+            "🔤 Complete String Algorithms Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "applications",
+            "template",
+            "the problem",
+            "implementation",
+            "complexity",
+            "note",
+            "what is it",
+            "the idea",
+            "problems (curated)",
+            "learning order",
+            "deep reference"
+          ],
+          "summary": "15 documents covering: problems, applications, template, the problem, implementation, complexity, note, what is it, the idea, problems (curated), learning order, deep reference."
+        },
+        "09-MATHEMATICS-UNIVERSE": {
+          "documents": 12,
+          "titles": [
+            "📐 Mathematics Universe",
+            "🔢 Number Theory",
+            "🔢 Combinatorics",
+            "🔢 Probability & Expected Value",
+            "🔢 Linear Algebra for CP",
+            "🔢 FFT & NTT — Fast Polynomial Multiplication",
+            "🔢 Modular Arithmetic",
+            "🔢 Möbius Function & Inversion",
+            "🔢 Euler's Totient Function φ(n)",
+            "🔢 Game Theory (Combinatorial Games)",
+            "🔢 Generating Functions",
+            "📐 Complete Math Toolkit Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "note",
+            "template",
+            "applications",
+            "the idea",
+            "definition",
+            "learning order",
+            "deep reference",
+            "divisibility & gcd",
+            "extended euclidean",
+            "primes",
+            "modular arithmetic"
+          ],
+          "summary": "12 documents covering: problems, note, template, applications, the idea, definition, learning order, deep reference, divisibility & gcd, extended euclidean, primes, modular arithmetic."
+        },
+        "10-GEOMETRY-UNIVERSE": {
+          "documents": 9,
+          "titles": [
+            "📐 Geometry Universe",
+            "📐 Computational Geometry Foundations",
+            "📐 Convex Hull",
+            "📐 Line Sweep (Sweep Line)",
+            "📐 Closest Pair of Points",
+            "📐 Polygon Operations",
+            "📐 KD-Tree",
+            "📐 Voronoi Diagrams & Delaunay Triangulation",
+            "📐 Computational Geometry Compendium"
+          ],
+          "key_topics": [
+            "problems",
+            "the problem",
+            "learning order",
+            "precision first",
+            "deep reference",
+            "points & vectors",
+            "the cross product (the most important tool)",
+            "the dot product",
+            "distances",
+            "precision (the eternal hazard)",
+            "orientation-based primitives",
+            "common operations"
+          ],
+          "summary": "9 documents covering: problems, the problem, learning order, precision first, deep reference, points & vectors, the cross product (the most important tool), the dot product, distances, precision (the eternal hazard), orientation-based primitives, common operations."
+        },
+        "11-ADVANCED-PARADIGMS-UNIVERSE": {
+          "documents": 2,
+          "titles": [
+            "🌌 Advanced Paradigms Universe",
+            "🌌 Advanced Paradigms Compendium"
+          ],
+          "key_topics": [
+            "topic map (all in the compendium)",
+            "deep reference",
+            "01 — randomized algorithms",
+            "02 — approximation algorithms",
+            "03 — online algorithms",
+            "04 — streaming algorithms",
+            "05 — parallel algorithms",
+            "06 — distributed algorithms",
+            "07 — quantum algorithms (intro)",
+            "08 — recommended reading"
+          ],
+          "summary": "2 documents covering: topic map (all in the compendium), deep reference, 01 — randomized algorithms, 02 — approximation algorithms, 03 — online algorithms, 04 — streaming algorithms, 05 — parallel algorithms, 06 — distributed algorithms, 07 — quantum algorithms (intro), 08 — recommended reading."
+        },
+        "12-COMPETITIVE-PROGRAMMING-UNIVERSE": {
+          "documents": 13,
+          "titles": [
+            "🏆 Competitive Programming Universe",
+            "🏆 Codeforces Mastery",
+            "🎌 AtCoder Mastery",
+            "🏆 ICPC Systems — Team Contest Playbook",
+            "🥇 IOI Systems — Olympiad Training",
+            "⚔️ Contest Strategy",
+            "🔄 Upsolving Framework",
+            "📖 Editorial Reading",
+            "📈 Rating Climbing Systems",
+            "🛡️ Anti-Hack Thinking",
+            "🧪 Stress Testing — The Bug Murderer",
+            "🛠️ Template Engineering",
+            "🏆 Competitive Programming Wisdom — The Complete Compendium"
+          ],
+          "key_topics": [
+            "the mindset",
+            "tools",
+            "the format",
+            "the discipline",
+            "start here",
+            "the rating tiers",
+            "what to practice at each tier",
+            "the climb strategy",
+            "the problem-difficulty diet",
+            "contest participation",
+            "the plateau-breakers",
+            "the timeline (realistic)"
+          ],
+          "summary": "13 documents covering: the mindset, tools, the format, the discipline, start here, the rating tiers, what to practice at each tier, the climb strategy, the problem-difficulty diet, contest participation, the plateau-breakers, the timeline (realistic)."
+        },
+        "13-INTERVIEW-DSA-UNIVERSE": {
+          "documents": 12,
+          "titles": [
+            "💼 Interview DSA Universe",
+            "🗺️ FAANG Preparation Roadmap",
+            "🎯 The 25 Interview Patterns — The Complete Bible",
+            "🎯 LeetCode Strategy",
+            "🗣️ Interview Communication",
+            "🚀 Optimization Narration",
+            "✍️ Whiteboard Coding",
+            "🎭 Mock Interview System",
+            "🤝 Behavioral Integration — STAR & Company Values",
+            "🌉 System Design ↔ DSA Bridge",
+            "🏢 Top Problems Per Company",
+            "💼 Interview Mastery — The Complete FAANG/MAANG Compendium"
+          ],
+          "key_topics": [
+            "practice",
+            "the timeline overview",
+            "phase 1: foundation (months 1-3)",
+            "phase 2: depth (months 4-6)",
+            "phase 3: polish (months 7-9)",
+            "phase 4: apply (months 9+)",
+            "the resource stack",
+            "the weekly template",
+            "realistic expectations",
+            "fast-track (if experienced, 3 months)",
+            "sliding window",
+            "two pointers"
+          ],
+          "summary": "12 documents covering: practice, the timeline overview, phase 1: foundation (months 1-3), phase 2: depth (months 4-6), phase 3: polish (months 7-9), phase 4: apply (months 9+), the resource stack, the weekly template, realistic expectations, fast-track (if experienced, 3 months), sliding window, two pointers."
+        },
+        "14-ALGORITHM-DESIGN-SCIENCE": {
+          "documents": 9,
+          "titles": [
+            "🔬 Algorithm Design Science",
+            "🔬 How Algorithms Are Invented",
+            "🔄 Algorithmic Reduction — The Art of Conversion",
+            "⬇️ Lower-Bound Reasoning — Proving \"No Faster Algorithm Exists\"",
+            "🔍 Discovering Invariants",
+            "🔮 The Inventor Mindset",
+            "🗜️ Compression as Discovery",
+            "📄 Reading Research Papers",
+            "✍️ Writing Original Algorithms"
+          ],
+          "key_topics": [
+            "exercises",
+            "the inventor's method",
+            "the five ways to invent algorithms",
+            "the observations that birthed algorithms",
+            "the inventor's checklist",
+            "the form of an original contribution",
+            "exercises — invent mini-algorithms",
+            "the grandmaster's daily habit",
+            "what is a reduction?",
+            "the two directions",
+            "reductions for solving (the practical use)",
+            "classic reduction chains"
+          ],
+          "summary": "9 documents covering: exercises, the inventor's method, the five ways to invent algorithms, the observations that birthed algorithms, the inventor's checklist, the form of an original contribution, exercises — invent mini-algorithms, the grandmaster's daily habit, what is a reduction?, the two directions, reductions for solving (the practical use), classic reduction chains."
+        },
+        "15-CASE-STUDIES-LEGENDARY": {
+          "documents": 16,
+          "titles": [
+            "📚 Case Studies — Legendary Problems Dissected",
+            "📖 ICPC: The \"Hello World\" of Hard Problems",
+            "📖 ICPC World Finals — Greatest Hits",
+            "📖 IOI Legends: Mecho, Cake, and the Art of Subtasks",
+            "📖 IOI \"Aliens\" and the Birth of the Aliens Trick",
+            "📖 Codeforces Greatest Hits",
+            "📖 Case Study: The Story of FFT",
+            "📖 Case Study: The Story of KMP",
+            "📖 Case Study: The Story of Dijkstra's Algorithm",
+            "📖 Case Study: Tarjan and the Power of DFS",
+            "📖 Recent Algorithmic Breakthroughs",
+            "📖 Studying Tourist's Solutions",
+            "📖 Studying Errichto's Editorials",
+            "📖 Google's Hardest Interview Problems",
+            "📖 Meta's Hardest Interview Problems",
+            "📚 Legendary Patterns — Compendium of Famous Problems"
+          ],
+          "key_topics": [
+            "the problem",
+            "applications",
+            "mental model",
+            "where to practice",
+            "the meta-lesson",
+            "further reading",
+            "problems to practice",
+            "preparation",
+            "what makes an icpc problem hard",
+            "a classic icpc archetype: \"the necklace\" (graph + euler)",
+            "another archetype: \"interval scheduling with weights\"",
+            "the icpc problem-solving method"
+          ],
+          "summary": "16 documents covering: the problem, applications, mental model, where to practice, the meta-lesson, further reading, problems to practice, preparation, what makes an icpc problem hard, a classic icpc archetype: \"the necklace\" (graph + euler), another archetype: \"interval scheduling with weights\", the icpc problem-solving method."
+        },
+        "16-MENTAL-MODELS-AND-FRAMEWORKS": {
+          "documents": 14,
+          "titles": [
+            "🧠 Mental Models & Frameworks Universe",
+            "✂️ Divide Thinking",
+            "🌀 Recursive Thinking",
+            "🌐 Graph Thinking",
+            "🧬 DP Thinking",
+            "💎 Greedy Thinking",
+            "➗ Mathematical Thinking",
+            "🚀 Optimization Thinking",
+            "🎚️ State Thinking",
+            "🏗️ Systems Thinking",
+            "🎲 Probabilistic Thinking",
+            "📐 Geometric Thinking",
+            "🔢 Algebraic Thinking",
+            "🧠 The Mental Models Compendium"
+          ],
+          "key_topics": [
+            "the worldview",
+            "the triggers",
+            "exercise",
+            "manifestations",
+            "key tools",
+            "key concepts",
+            "the template",
+            "the master theorem connection",
+            "when to use",
+            "the leap of faith",
+            "the three parts",
+            "recursion dp"
+          ],
+          "summary": "14 documents covering: the worldview, the triggers, exercise, manifestations, key tools, key concepts, the template, the master theorem connection, when to use, the leap of faith, the three parts, recursion dp."
+        },
+        "17-EXECUTION-SYSTEMS": {
+          "documents": 11,
+          "titles": [
+            "⚙️ Execution Systems — How to Train",
+            "📅 Daily Training System",
+            "📅 Weekly Training System",
+            "📅 Monthly Training System",
+            "🗓️ Quarterly & Yearly Planning",
+            "🏁 Contest Training System",
+            "💼 Interview Training System",
+            "📓 The Mistake Log — Your Personal Feedback Loop",
+            "📔 The Pattern Journal — Your Compressed Experience",
+            "⏱️ Time & Energy Management",
+            "📉📈 Plateaus & Recovery"
+          ],
+          "key_topics": [
+            "the final truth",
+            "the daily minimum (non-negotiable)",
+            "the optimal daily routine (3 hours)",
+            "the daily checklist",
+            "the problem-solving ritual (per problem)",
+            "what to solve when",
+            "energy management",
+            "the 5-minute warmup",
+            "avoiding excuses",
+            "the daily metrics",
+            "the 365-day promise",
+            "the weekly arc"
+          ],
+          "summary": "11 documents covering: the final truth, the daily minimum (non-negotiable), the optimal daily routine (3 hours), the daily checklist, the problem-solving ritual (per problem), what to solve when, energy management, the 5-minute warmup, avoiding excuses, the daily metrics, the 365-day promise, the weekly arc."
+        },
+        "18-SIMULATIONS-AND-LABS": {
+          "documents": 11,
+          "titles": [
+            "🎯 Simulations & Labs",
+            "🎬 FAANG Interview Simulation Lab",
+            "🏆 ICPC Contest Simulation",
+            "⚔️ Codeforces Round Simulation",
+            "🎌 AtCoder Round Simulation",
+            "🥇 IOI-Style Simulation",
+            "🏗️ System Design Simulation",
+            "🗣️ Behavioral Interview Simulation",
+            "🔥 Pressure Lab — Solving Under Stress",
+            "✍️ Whiteboard Lab — Solving Without an IDE",
+            "💥 Fail-Forward Lab — Learning From Artificial Failure"
+          ],
+          "key_topics": [
+            "the format",
+            "post-simulation debrief",
+            "post-round",
+            "simulate",
+            "evaluation rubric",
+            "the 5-round simulation (full day)",
+            "simulation setup",
+            "the evaluation rubric",
+            "weekly mock schedule (pre-faang)",
+            "sample 5-round script",
+            "calibration",
+            "the mock ladder"
+          ],
+          "summary": "11 documents covering: the format, post-simulation debrief, post-round, simulate, evaluation rubric, the 5-round simulation (full day), simulation setup, the evaluation rubric, weekly mock schedule (pre-faang), sample 5-round script, calibration, the mock ladder."
+        },
+        "19-TEMPLATES-AND-IMPLEMENTATIONS": {
+          "documents": 1,
+          "titles": [
+            "🛠️ Templates & Implementations"
+          ],
+          "key_topics": [
+            "available files",
+            "templates to add as you advance",
+            "reference libraries",
+            "the rule"
+          ],
+          "summary": "1 documents covering: available files, templates to add as you advance, reference libraries, the rule."
+        },
+        "20-RESOURCES-AND-REFERENCES": {
+          "documents": 34,
+          "titles": [
+            "📚 Resources & References Universe",
+            "📚 The Complete Library — Resources & References",
+            "📖 Books By Level",
+            "🎓 Online Courses",
+            "📺 YouTube Channels",
+            "🏋️ Practice Platforms",
+            "🔬 Research Papers Canon",
+            "💬 Communities",
+            "🛠️ Tools & IDEs",
+            "📅 Contest Calendar",
+            "📦 Code Libraries (CP)",
+            "📋 Curated Practice Sheets — The Complete Catalog",
+            "📋 Striver Sheets — Complete Guide",
+            "📋 NeetCode & Blind 75 — Complete Guide",
+            "📋 LeetCode Lists — Complete Guide",
+            "📋 CP Ladders & CSES — Competitive Programming Paths",
+            "📊 Sheet Tracker Template",
+            "📡 Channels & Communities — Telegram, Discord, YouTube, Blogs",
+            "📺 YouTube Channels — The Complete Categorized List",
+            "📱 Telegram Channels — A Safe Guide",
+            "💬 Discord Servers",
+            "✍️ Blogs & Newsletters",
+            "🔔 Job Alert Channels — Finding Opportunities",
+            "🎓 CS Core Subjects — The Other Half of Placements",
+            "🖥️ Operating Systems — Interview Prep",
+            "🗄️ DBMS — Interview Prep",
+            "🌐 Computer Networks — Interview Prep",
+            "🧩 OOP — Interview Prep",
+            "🧮 Aptitude & Reasoning — Written Round Prep",
+            "🗃️ SQL Practice — For Coding + Data Roles",
+            "🐙 GitHub Repositories — The Open-Source Goldmine",
+            "⚖️ Online Judges & Platforms — The Complete Map",
+            "🏗️ System Design Resources — Complete Guide",
+            "🔗 Master Link Directory — Every Real URL"
+          ],
+          "key_topics": [
+            "system design",
+            "the principle",
+            "the warning",
+            "the top 20 interview questions",
+            "practice platforms",
+            "in this folder",
+            "the syllabus (interview-relevant)",
+            "prep plan (5 days)",
+            "the selectivity principle",
+            "interview prep",
+            "competitive programming",
+            "the discipline"
+          ],
+          "summary": "34 documents covering: system design, the principle, the warning, the top 20 interview questions, practice platforms, in this folder, the syllabus (interview-relevant), prep plan (5 days), the selectivity principle, interview prep, competitive programming, the discipline."
+        },
+        "21-MASTERY-VERIFICATION": {
+          "documents": 8,
+          "titles": [
+            "🏆 Mastery Verification",
+            "🏆 The Trials — Mastery Verification",
+            "🥉 Implementation Trial Bank",
+            "🥈 Problem Trial Bank",
+            "🥇 Teaching Trial Bank",
+            "🔄 Weekly Micro-Trials",
+            "🎓 Mastery Certificate Template",
+            "🔁 Re-Verification Rhythm"
+          ],
+          "key_topics": [
+            "the final word",
+            "the trial protocol",
+            "the three trials",
+            "the trials by level",
+            "the weekly micro-trial",
+            "the mastery certificate (self-awarded)",
+            "re-verification rhythm",
+            "level 0-1 (each <10 min)",
+            "level 2 (each <15 min)",
+            "level 3-4 (each <20 min)",
+            "level 5 (faang patterns, each <20 min)",
+            "level 6 (each <15 min)"
+          ],
+          "summary": "8 documents covering: the final word, the trial protocol, the three trials, the trials by level, the weekly micro-trial, the mastery certificate (self-awarded), re-verification rhythm, level 0-1 (each <10 min), level 2 (each <15 min), level 3-4 (each <20 min), level 5 (faang patterns, each <20 min), level 6 (each <15 min)."
+        },
+        "22-COMPANY-PREP-TRACKS": {
+          "documents": 12,
+          "titles": [
+            "🏢 Company Preparation Tracks — Tackle Every Company in the Market",
+            "👑 FAANG / MAANG Track",
+            "🌍 Global Big Tech Track",
+            "🦄 Unicorns & Product Startups Track",
+            "🇮🇳 Indian Product Companies Track",
+            "🏢 Service Companies Track",
+            "💹 Fintech & Quant/Trading Track",
+            "🔧 Core & Hardware / Systems Track",
+            "🚀 Startups & Early-Stage Track",
+            "🎯 Off-Campus & Referrals Track",
+            "📄 Resume & Profile Building",
+            "🔄 The Universal Hiring Funnel"
+          ],
+          "key_topics": [
+            "the resource stack",
+            "the strategy",
+            "the hiring funnel",
+            "the bar",
+            "what they test",
+            "company flavors",
+            "the prep plan (4-6 months)",
+            "role types",
+            "the tracks",
+            "the company tier map",
+            "how to use this universe",
+            "the universal truth"
+          ],
+          "summary": "12 documents covering: the resource stack, the strategy, the hiring funnel, the bar, what they test, company flavors, the prep plan (4-6 months), role types, the tracks, the company tier map, how to use this universe, the universal truth."
+        },
+        "23-SOLVED-PROBLEMS-VAULT": {
+          "documents": 168,
+          "titles": [
+            "💎 SOLVED PROBLEMS VAULT — Full Editorials",
+            "🗂️ Arrays & Hashing — Problem Set",
+            "Contains Duplicate",
+            "Valid Anagram",
+            "Two Sum",
+            "Group Anagrams",
+            "Top K Frequent Elements",
+            "Product of Array Except Self",
+            "Longest Consecutive Sequence",
+            "Valid Sudoku",
+            "🗂️ Two Pointers — Problem Set",
+            "Valid Palindrome",
+            "Two Sum II – Input Array Is Sorted",
+            "3Sum",
+            "Container With Most Water",
+            "Trapping Rain Water",
+            "🗂️ Sliding Window — Problem Set",
+            "Best Time to Buy and Sell Stock",
+            "Longest Substring Without Repeating Characters",
+            "Longest Repeating Character Replacement",
+            "Permutation in String",
+            "Minimum Window Substring",
+            "Sliding Window Maximum",
+            "🗂️ Stack — Problem Set",
+            "Valid Parentheses",
+            "Min Stack",
+            "Evaluate Reverse Polish Notation",
+            "Generate Parentheses",
+            "Daily Temperatures",
+            "Car Fleet",
+            "Largest Rectangle in Histogram",
+            "🗂️ Binary Search — Problem Set",
+            "Binary Search",
+            "Search a 2D Matrix",
+            "Koko Eating Bananas",
+            "Find Minimum in Rotated Sorted Array",
+            "Search in Rotated Sorted Array",
+            "Time Based Key-Value Store",
+            "Median of Two Sorted Arrays",
+            "🗂️ Linked List — Problem Set",
+            "Reverse Linked List",
+            "Merge Two Sorted Lists",
+            "Linked List Cycle",
+            "Reorder List",
+            "Remove Nth Node From End of List",
+            "Copy List With Random Pointer",
+            "Add Two Numbers",
+            "Find the Duplicate Number",
+            "LRU Cache",
+            "Merge K Sorted Lists",
+            "Reverse Nodes in K-Group",
+            "🌳 Trees — Problem Set",
+            "Invert Binary Tree",
+            "Maximum Depth of Binary Tree",
+            "Diameter of Binary Tree",
+            "Balanced Binary Tree",
+            "Same Tree",
+            "Subtree of Another Tree",
+            "Lowest Common Ancestor of a Binary Search Tree",
+            "Binary Tree Level Order Traversal",
+            "Binary Tree Right Side View",
+            "Count Good Nodes in Binary Tree",
+            "Validate Binary Search Tree",
+            "Kth Smallest Element in a BST",
+            "Construct Binary Tree from Preorder and Inorder Traversal",
+            "Binary Tree Maximum Path Sum",
+            "Serialize and Deserialize Binary Tree",
+            "🗂️ Tries — Problem Set",
+            "Implement Trie (Prefix Tree)",
+            "Design Add and Search Words Data Structure",
+            "Word Search II",
+            "🗂️ Heap / Priority Queue — Problem Set",
+            "Kth Largest Element in a Stream",
+            "Last Stone Weight",
+            "K Closest Points to Origin",
+            "Kth Largest Element in an Array",
+            "Task Scheduler",
+            "Design Twitter",
+            "Find Median from Data Stream",
+            "🗂️ Backtracking — Problem Set",
+            "Subsets",
+            "Combination Sum",
+            "Combination Sum II",
+            "Permutations",
+            "Subsets II",
+            "Word Search",
+            "Palindrome Partitioning",
+            "Letter Combinations of a Phone Number",
+            "N-Queens",
+            "🗂️ Graphs — Problem Set",
+            "Number of Islands",
+            "Max Area of Island",
+            "Clone Graph",
+            "Rotting Oranges",
+            "Pacific Atlantic Water Flow",
+            "Surrounded Regions",
+            "Course Schedule",
+            "Course Schedule II",
+            "Number of Connected Components in an Undirected Graph",
+            "Redundant Connection",
+            "Word Ladder",
+            "Walls and Gates",
+            "Graph Valid Tree",
+            "🗂️ Advanced Graphs — Problem Set",
+            "Network Delay Time",
+            "Cheapest Flights Within K Stops",
+            "Min Cost to Connect All Points",
+            "Swim in Rising Water",
+            "Reconstruct Itinerary",
+            "Number of Operations to Make Network Connected",
+            "🗂️ 1D Dynamic Programming — Problem Set",
+            "Climbing Stairs",
+            "Min Cost Climbing Stairs",
+            "House Robber",
+            "House Robber II",
+            "Longest Palindromic Substring",
+            "Palindromic Substrings",
+            "Decode Ways",
+            "Coin Change",
+            "Maximum Product Subarray",
+            "Word Break",
+            "Longest Increasing Subsequence",
+            "Partition Equal Subset Sum",
+            "🗂️ 2D Dynamic Programming — Problem Set",
+            "Unique Paths",
+            "Longest Common Subsequence",
+            "Edit Distance",
+            "Coin Change II",
+            "Target Sum",
+            "Maximal Square",
+            "Interleaving String",
+            "Longest Increasing Path in a Matrix",
+            "Best Time to Buy and Sell Stock with Cooldown",
+            "0/1 Knapsack (Classic)",
+            "Distinct Subsequences",
+            "🗂️ Greedy — Problem Set",
+            "Maximum Subarray",
+            "Jump Game",
+            "Jump Game II",
+            "Gas Station",
+            "Hand of Straights",
+            "Merge Triplets to Form Target",
+            "Partition Labels",
+            "Valid Parenthesis String",
+            "🗂️ Intervals — Problem Set",
+            "Insert Interval",
+            "Merge Intervals",
+            "Non-Overlapping Intervals",
+            "Meeting Rooms",
+            "Meeting Rooms II",
+            "Minimum Interval to Include Each Query",
+            "🗂️ Math & Geometry — Problem Set",
+            "Rotate Image",
+            "Spiral Matrix",
+            "Set Matrix Zeroes",
+            "Pow(x, n)",
+            "Multiply Strings",
+            "Happy Number",
+            "Plus One",
+            "Detect Squares",
+            "🗂️ Bit Manipulation — Problem Set",
+            "Single Number",
+            "Number of 1 Bits",
+            "Counting Bits",
+            "Reverse Bits",
+            "Missing Number",
+            "Sum of Two Integers",
+            "Reverse Integer"
+          ],
+          "key_topics": [
+            "problem statement",
+            "understanding the problem",
+            "approach comparison",
+            "edge cases & pitfalls",
+            "related problems",
+            "problems",
+            "the pattern family",
+            "approach 1 — top-down memoization",
+            "approach 2 — bottom-up 2d table",
+            "approach 1 — brute force (all pairs)",
+            "edge cases",
+            "approach 1 — brute force"
+          ],
+          "summary": "168 documents covering: problem statement, understanding the problem, approach comparison, edge cases & pitfalls, related problems, problems, the pattern family, approach 1 — top-down memoization, approach 2 — bottom-up 2d table, approach 1 — brute force (all pairs), edge cases, approach 1 — brute force."
+        },
+        "24-MASTER-SYLLABUS-AND-ROADMAP": {
+          "documents": 4,
+          "titles": [
+            "🧭 MASTER SYLLABUS & ROADMAP — \"Nothing Left\" Edition",
+            "📦 The Complete DSA Syllabus — \"Nothing Left\" Edition",
+            "🛤️ The Sequenced Path — Exact Order, Step by Step",
+            "🎯 FAANG / MAANG Reality Check — DSA is Necessary, Not Sufficient"
+          ],
+          "key_topics": [
+            "the three documents",
+            "the 60-second answer (for the impatient)",
+            "how the codex maps to the syllabus",
+            "tier 1 — core (interview-ready: leetcode easy/medium, most hard)",
+            "tier 2 — advanced (codeforces div2/3, faang l4-l5, harder rounds)",
+            "tier 3 — expert (icpc / codeforces div1 / research)",
+            "the 13 universal patterns (the real \"syllabus\")",
+            "not in the syllabus (stop wasting time)",
+            "the \"nothing left\" completion checklist",
+            "phase 1 — foundations (steps 1-4) · ~2 weeks",
+            "phase 2 — tier 1 core (steps 5-16) · ~6 weeks",
+            "phase 3 — dynamic programming (steps 17-20) · ~3 weeks"
+          ],
+          "summary": "4 documents covering: the three documents, the 60-second answer (for the impatient), how the codex maps to the syllabus, tier 1 — core (interview-ready: leetcode easy/medium, most hard), tier 2 — advanced (codeforces div2/3, faang l4-l5, harder rounds), tier 3 — expert (icpc / codeforces div1 / research), the 13 universal patterns (the real \"syllabus\"), not in the syllabus (stop wasting time), the \"nothing left\" completion checklist, phase 1 — foundations (steps 1-4) · ~2 weeks, phase 2 — tier 1 core (steps 5-16) · ~6 weeks, phase 3 — dynamic programming (steps 17-20) · ~3 weeks."
+        },
+        "MASTER-INDEX.md": {
+          "documents": 1,
+          "titles": [
+            "🗺️ DSA-GRANDMASTER-CODEX — Master Index"
+          ],
+          "key_topics": [
+            "start here",
+            "the sibling codex (the engineering half)",
+            "all 22 folders",
+            "by goal — recommended paths",
+            "by topic — deep dives",
+            "quick-reference compendiums",
+            "the complete prep ecosystem (career & resources)",
+            "the philosophy you carry",
+            "the daily touchpoints",
+            "the final vow"
+          ],
+          "summary": "1 documents covering: start here, the sibling codex (the engineering half), all 22 folders, by goal — recommended paths, by topic — deep dives, quick-reference compendiums, the complete prep ecosystem (career & resources), the philosophy you carry, the daily touchpoints, the final vow."
+        },
+        "README.md": {
+          "documents": 1,
+          "titles": [
+            "🕉️ DSA-GRANDMASTER-CODEX"
+          ],
+          "key_topics": [
+            "*the geeta of problem solving · the bible of algorithms · the art of war of competitive programming*",
+            "the sibling codex (the engineering half)",
+            "the complete preparation ecosystem (added in v1.1)",
+            "the 11 levels (mastery ladder)",
+            "the 15 universes",
+            "navigation",
+            "begin the journey"
+          ],
+          "summary": "1 documents covering: *the geeta of problem solving · the bible of algorithms · the art of war of competitive programming*, the sibling codex (the engineering half), the complete preparation ecosystem (added in v1.1), the 11 levels (mastery ladder), the 15 universes, navigation, begin the journey."
+        }
+      }
+    },
+    "FULLSTACK-AI-GRANDMASTER-CODEX": {
+      "documents": 90,
+      "sections": {
+        "00-ROADMAP-AND-PHILOSOPHY": {
+          "documents": 5,
+          "titles": [
+            "🗺️ Roadmap & Philosophy",
+            "🧠 The Engineer's Mindset",
+            "🗺️ The Master Roadmap",
+            "🌍 How The Web Works — The Overview",
+            "🧭 Choosing Your Path"
+          ],
+          "key_topics": [
+            "what an engineer actually is",
+            "build to learn (the central law)",
+            "the debugging mindset",
+            "fundamentals over frameworks",
+            "mental models that compound",
+            "how to learn efficiently",
+            "professional habits (start these on day one)",
+            "how to read this roadmap",
+            "the dependency graph (the \"why this order\")",
+            "the stages in detail",
+            "sample calendars",
+            "rules for using the roadmap"
+          ],
+          "summary": "5 documents covering: what an engineer actually is, build to learn (the central law), the debugging mindset, fundamentals over frameworks, mental models that compound, how to learn efficiently, professional habits (start these on day one), how to read this roadmap, the dependency graph (the \"why this order\"), the stages in detail, sample calendars, rules for using the roadmap."
+        },
+        "01-WEB-FOUNDATIONS": {
+          "documents": 7,
+          "titles": [
+            "🌐 Web Foundations",
+            "🌐 How The Internet Works",
+            "📨 HTTP and HTTPS",
+            "🖥️ Browsers and Rendering",
+            "📄 HTML Essentials",
+            "🎨 CSS Essentials",
+            "⚡🔒 Web Performance and Security Basics"
+          ],
+          "key_topics": [
+            "the internet is a network of networks",
+            "ip addresses — every device has a number",
+            "dns — the internet's phone book",
+            "packets — messages broken into pieces",
+            "the tcp/ip model — layers of responsibility",
+            "ports — many doors on one address",
+            "putting it all together — a url becomes a page",
+            "isps and the physical internet",
+            "the request–response model",
+            "anatomy of an http request",
+            "anatomy of an http response",
+            "http methods (verbs)"
+          ],
+          "summary": "7 documents covering: the internet is a network of networks, ip addresses — every device has a number, dns — the internet's phone book, packets — messages broken into pieces, the tcp/ip model — layers of responsibility, ports — many doors on one address, putting it all together — a url becomes a page, isps and the physical internet, the request–response model, anatomy of an http request, anatomy of an http response, http methods (verbs)."
+        },
+        "02-JAVASCRIPT-MASTERY": {
+          "documents": 9,
+          "titles": [
+            "⚡ JavaScript Mastery",
+            "🧱 JavaScript Fundamentals",
+            "🔧 Functions, Scope & Closures",
+            "📦 Objects & Arrays",
+            "🎯 The `this` Keyword & Prototypes",
+            "⏳ Asynchronous JavaScript",
+            "🚀 ES6+ Modern Features",
+            "🌳 The DOM & Events",
+            "🧙 Advanced JavaScript Patterns"
+          ],
+          "key_topics": [
+            "how to run these examples",
+            "what is javascript?",
+            "variables: `let`, `const`, `var`",
+            "the data types",
+            "operators",
+            "type coercion — the rules behind the weirdness",
+            "truthy and falsy",
+            "functions are first-class values",
+            "ways to define a function",
+            "parameters & arguments",
+            "scope — where a variable lives",
+            "hoisting — why you can sometimes use things early"
+          ],
+          "summary": "9 documents covering: how to run these examples, what is javascript?, variables: `let`, `const`, `var`, the data types, operators, type coercion — the rules behind the weirdness, truthy and falsy, functions are first-class values, ways to define a function, parameters & arguments, scope — where a variable lives, hoisting — why you can sometimes use things early."
+        },
+        "03-TYPESCRIPT": {
+          "documents": 5,
+          "titles": [
+            "🔷 TypeScript",
+            "🔷 Why TypeScript & Setup",
+            "🧩 Types & Interfaces",
+            "🧬 Generics & Advanced Types",
+            "⚛️ TypeScript with React"
+          ],
+          "key_topics": [
+            "what problem does typescript solve?",
+            "how typescript works — the mental model",
+            "installing & compiling",
+            "`tsconfig.json` — the project's brain",
+            "a first real taste",
+            "primitive & basic types",
+            "arrays & tuples",
+            "object types",
+            "interfaces vs type aliases",
+            "union & intersection types",
+            "enums",
+            "type narrowing"
+          ],
+          "summary": "5 documents covering: what problem does typescript solve?, how typescript works — the mental model, installing & compiling, `tsconfig.json` — the project's brain, a first real taste, primitive & basic types, arrays & tuples, object types, interfaces vs type aliases, union & intersection types, enums, type narrowing."
+        },
+        "04-JAVA-MASTERY": {
+          "documents": 9,
+          "titles": [
+            "☕ Java Mastery",
+            "☕ 01 — Java Fundamentals",
+            "☕ 02 — Object-Oriented Programming in Java ⭐",
+            "☕ 03 — The Collections Framework ⭐",
+            "☕ 04 — Generics & Functional Java ⭐",
+            "☕ 05 — Exceptions & I/O",
+            "☕ 06 — Concurrency & Multithreading ⭐",
+            "☕ 07 — Spring Boot Essentials ⭐",
+            "☕ 08 — Spring Boot Data & JPA"
+          ],
+          "key_topics": [
+            "setup — get a working jdk",
+            "what java actually is (and why it won)",
+            "anatomy of a java program",
+            "variables and data types",
+            "operators",
+            "strings",
+            "control flow",
+            "arrays",
+            "input and output",
+            "methods",
+            "scope, comments, and style",
+            "a complete little program"
+          ],
+          "summary": "9 documents covering: setup — get a working jdk, what java actually is (and why it won), anatomy of a java program, variables and data types, operators, strings, control flow, arrays, input and output, methods, scope, comments, and style, a complete little program."
+        },
+        "05-REACT": {
+          "documents": 12,
+          "titles": [
+            "⚛️ React",
+            "⚛️ 01 — React Fundamentals & JSX",
+            "⚛️ 02 — Components & Props",
+            "⚛️ 03 — State & Events",
+            "⚛️ 04 — Hooks Deep Dive ⭐",
+            "⚛️ 05 — Context & State Management ⭐",
+            "⚛️ 06 — Forms & Controlled Components",
+            "⚛️ 07 — Data Fetching & Effects ⭐",
+            "⚛️ 08 — Performance Optimization ⭐",
+            "⚛️ 09 — React Patterns & Best Practices ⭐",
+            "⚛️ 10 — Routing With React Router",
+            "⚛️ 11 — Testing & TypeScript with React ⭐"
+          ],
+          "key_topics": [
+            "setup — a working react project",
+            "what react actually is",
+            "the virtual dom & reconciliation",
+            "jsx — javascript that looks like html",
+            "rendering react to the page",
+            "conditional rendering",
+            "rendering lists with `.map()`",
+            "keys — the most misunderstood rule in react",
+            "a complete little component",
+            "what a component is",
+            "props — passing data down",
+            "the `children` prop — composition's secret weapon"
+          ],
+          "summary": "12 documents covering: setup — a working react project, what react actually is, the virtual dom & reconciliation, jsx — javascript that looks like html, rendering react to the page, conditional rendering, rendering lists with `.map()`, keys — the most misunderstood rule in react, a complete little component, what a component is, props — passing data down, the `children` prop — composition's secret weapon."
+        },
+        "06-NEXTJS": {
+          "documents": 9,
+          "titles": [
+            "▲ Next.js",
+            "▲ 01 — Why Next.js & Setup",
+            "▲ 02 — App Router & Routing",
+            "▲ 03 — Server & Client Components",
+            "▲ 04 — Rendering Strategies: SSR, SSG, ISR & Caching",
+            "▲ 05 — Data Fetching & Mutations",
+            "▲ 06 — API Routes & Route Handlers",
+            "▲ 07 — Auth & Full-Stack Next.js",
+            "▲ 08 — Optimization & Deployment"
+          ],
+          "key_topics": [
+            "setup — scaffold a project",
+            "what next.js actually is",
+            "the problems next.js solves",
+            "app router vs pages router",
+            "project structure",
+            "file conventions — the special filenames",
+            "running the app — dev, build, start",
+            "a quick two-page app",
+            "file-based routing — the core idea",
+            "dynamic segments — `[param]`",
+            "catch-all and optional segments",
+            "route groups — `(folder)`"
+          ],
+          "summary": "9 documents covering: setup — scaffold a project, what next.js actually is, the problems next.js solves, app router vs pages router, project structure, file conventions — the special filenames, running the app — dev, build, start, a quick two-page app, file-based routing — the core idea, dynamic segments — `[param]`, catch-all and optional segments, route groups — `(folder)`."
+        },
+        "07-NODEJS-EXPRESS": {
+          "documents": 9,
+          "titles": [
+            "🟢 Node.js & Express",
+            "🟢 01 — The Node.js Runtime",
+            "🟢 02 — Modules & NPM",
+            "🟢 03 — Core Modules & Async",
+            "🟢 04 — Express Fundamentals",
+            "🟢 05 — Building REST APIs",
+            "🟢 06 — Middleware & Error Handling",
+            "🟢 07 — Authentication & Security",
+            "🟢 08 — Advanced Node & Deployment"
+          ],
+          "key_topics": [
+            "setup — get a working node toolchain",
+            "opinionated starter stack (used in this section)",
+            "what node.js actually is",
+            "v8 — the engine",
+            "libuv — the async heart",
+            "the event loop",
+            "non-blocking i/o — the whole point",
+            "`process` and `global`",
+            "the node cli — the tools you'll actually use",
+            "when node is the right tool — and when it isn't",
+            "a tiny http server — no frameworks",
+            "the event loop in one worked example"
+          ],
+          "summary": "9 documents covering: setup — get a working node toolchain, opinionated starter stack (used in this section), what node.js actually is, v8 — the engine, libuv — the async heart, the event loop, non-blocking i/o — the whole point, `process` and `global`, the node cli — the tools you'll actually use, when node is the right tool — and when it isn't, a tiny http server — no frameworks, the event loop in one worked example."
+        },
+        "08-SQL-DATABASES": {
+          "documents": 9,
+          "titles": [
+            "🗄️ SQL & Relational Databases",
+            "🗄️ 01 — Relational Model & Database Design",
+            "🗄️ 02 — SQL Basics: DDL & DML",
+            "🗄️ 03 — Querying Data: `SELECT`",
+            "🗄️ 04 — Joins & Relationships",
+            "🗄️ 05 — Aggregation & Advanced Queries",
+            "🗄️ 06 — Indexing & Query Optimization",
+            "🗄️ 07 — Transactions & Concurrency",
+            "🗄️ 08 — Advanced SQL & Production"
+          ],
+          "key_topics": [
+            "setup — get a working database",
+            "what the relational model actually is",
+            "keys — the five flavors",
+            "entity-relationship (er) modeling",
+            "relationships in sql",
+            "normalization — 1nf bcnf, explained",
+            "denormalization — breaking the rules, on purpose",
+            "naming conventions that save future-you",
+            "a worked design — a real bookstore",
+            "design smells — the things we never do",
+            "the three families of sql",
+            "ddl — defining schema"
+          ],
+          "summary": "9 documents covering: setup — get a working database, what the relational model actually is, keys — the five flavors, entity-relationship (er) modeling, relationships in sql, normalization — 1nf bcnf, explained, denormalization — breaking the rules, on purpose, naming conventions that save future-you, a worked design — a real bookstore, design smells — the things we never do, the three families of sql, ddl — defining schema."
+        },
+        "09-NOSQL-MONGODB": {
+          "documents": 3,
+          "titles": [
+            "🍃 NoSQL & MongoDB",
+            "🍃 01 — NoSQL & MongoDB Fundamentals",
+            "🍃 02 — CRUD Operations & Query Operators"
+          ],
+          "key_topics": [
+            "setup — get a working mongodb toolchain",
+            "what \"nosql\" actually means",
+            "the four families of nosql",
+            "nosql vs sql — when to pick which",
+            "the cap theorem — the law that created nosql",
+            "acid vs base",
+            "mongodb — the 30,000-foot view",
+            "bson — the binary document format",
+            "the `_id` field and `objectid`",
+            "connection strings",
+            "mongosh — the shell you'll live in",
+            "inserting and reading — a first taste"
+          ],
+          "summary": "3 documents covering: setup — get a working mongodb toolchain, what \"nosql\" actually means, the four families of nosql, nosql vs sql — when to pick which, the cap theorem — the law that created nosql, acid vs base, mongodb — the 30,000-foot view, bson — the binary document format, the `_id` field and `objectid`, connection strings, mongosh — the shell you'll live in, inserting and reading — a first taste."
+        },
+        "10-MERN-STACK": {
+          "documents": 6,
+          "titles": [
+            "🔗 MERN Stack",
+            "🔗 01 — The MERN Architecture",
+            "🛠️ 02 — Building The Backend API",
+            "⚛️ 03 — Building The React Frontend",
+            "🔐 04 — Authentication Across The Stack",
+            "🔄 05 — State, File Uploads, And Real-Time"
+          ],
+          "key_topics": [
+            "what we are building",
+            "the project — \"taskflow\"",
+            "prerequisites — do not skip",
+            "setup — tools for the whole stack",
+            "what mern actually is",
+            "the full request / data-flow — a browser click to a database row and back",
+            "where mern sits — spa vs server-rendered",
+            "why this stack — and the honest tradeoffs",
+            "project structure — monorepo vs separate repos",
+            "the folder layout we will build",
+            "the dev environment — two processes, one command",
+            "the contract — json and the api shape"
+          ],
+          "summary": "6 documents covering: what we are building, the project — \"taskflow\", prerequisites — do not skip, setup — tools for the whole stack, what mern actually is, the full request / data-flow — a browser click to a database row and back, where mern sits — spa vs server-rendered, why this stack — and the honest tradeoffs, project structure — monorepo vs separate repos, the folder layout we will build, the dev environment — two processes, one command, the contract — json and the api shape."
+        },
+        "11-FULLSTACK-ENGINEERING": {
+          "documents": 6,
+          "titles": [
+            "🏗️ Full-Stack Engineering",
+            "🔐 01 — Authentication & Authorization",
+            "🛡️ 02 — Web Security",
+            "🧪 03 — Testing Strategies",
+            "🌿 04 — Git & Collaboration",
+            "🐳 05 — Docker & Containers"
+          ],
+          "key_topics": [
+            "authentication vs authorization — the two questions",
+            "stateful sessions — the server remembers you",
+            "stateless jwt — the token carries the truth",
+            "sessions vs jwt — a real tradeoff, not a winner",
+            "access vs refresh tokens — rotation & reuse detection",
+            "token storage — cookies vs localstorage",
+            "oauth2 — delegated authorization",
+            "openid connect — authentication on top of oauth2",
+            "sso — single sign-on (saml vs oidc)",
+            "rbac vs abac — deciding what's allowed",
+            "password hashing — bcrypt & argon2",
+            "mfa / 2fa and totp"
+          ],
+          "summary": "6 documents covering: authentication vs authorization — the two questions, stateful sessions — the server remembers you, stateless jwt — the token carries the truth, sessions vs jwt — a real tradeoff, not a winner, access vs refresh tokens — rotation & reuse detection, token storage — cookies vs localstorage, oauth2 — delegated authorization, openid connect — authentication on top of oauth2, sso — single sign-on (saml vs oidc), rbac vs abac — deciding what's allowed, password hashing — bcrypt & argon2, mfa / 2fa and totp."
+        },
+        "README.md": {
+          "documents": 1,
+          "titles": [
+            "🌐 FULLSTACK-AI-GRANDMASTER-CODEX"
+          ],
+          "key_topics": [
+            "*the complete software engineer + ai engineer operating system*",
+            "the learning paths"
+          ],
+          "summary": "1 documents covering: *the complete software engineer + ai engineer operating system*, the learning paths."
+        }
+      }
+    },
+    "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": {
+      "documents": 26,
+      "sections": {
+        "00-PHILOSOPHY-AND-DOCTRINE": {
+          "documents": 4,
+          "titles": [
+            "🪔 Philosophy & Doctrine",
+            "🌋 Why Languages Exist",
+            "🧭 The Polyglot Mindset",
+            "⚖️ Language Tradeoffs — The Eternal Dials"
+          ],
+          "key_topics": [
+            "why start here",
+            "the primordial problem",
+            "the tower of abstraction",
+            "what a language actually buys you",
+            "the three eternal questions every language answers",
+            "why there are thousands of languages",
+            "the lesson",
+            "why most people learn languages slowly",
+            "the universal language template",
+            "the language families",
+            "the 3-day protocol for a new language",
+            "what transfers and what doesn't"
+          ],
+          "summary": "4 documents covering: why start here, the primordial problem, the tower of abstraction, what a language actually buys you, the three eternal questions every language answers, why there are thousands of languages, the lesson, why most people learn languages slowly, the universal language template, the language families, the 3-day protocol for a new language, what transfers and what doesn't."
+        },
+        "01-LANGUAGE-FOUNDATIONS": {
+          "documents": 6,
+          "titles": [
+            "🧱 Language Foundations",
+            "📐 What Is a Programming Language",
+            "🔤 Syntax vs Semantics",
+            "🌳 Grammars and Parsing",
+            "🏷️ Values, Bindings, and Scope",
+            "🔀 Expressions, Statements, and Control Flow"
+          ],
+          "key_topics": [
+            "the formal definition",
+            "the anatomy (what every language is made of)",
+            "specification vs implementation",
+            "two ways to give a language meaning",
+            "what makes a language \"turing complete\"",
+            "the practical takeaway",
+            "the distinction",
+            "the two kinds of semantics",
+            "the error ladder (when things get caught)",
+            "why the distinction matters practically",
+            "syntactic sugar — same meaning, nicer form",
+            "the grandmaster lens"
+          ],
+          "summary": "6 documents covering: the formal definition, the anatomy (what every language is made of), specification vs implementation, two ways to give a language meaning, what makes a language \"turing complete\", the practical takeaway, the distinction, the two kinds of semantics, the error ladder (when things get caught), why the distinction matters practically, syntactic sugar — same meaning, nicer form, the grandmaster lens."
+        },
+        "02-PARADIGMS": {
+          "documents": 6,
+          "titles": [
+            "🌌 Paradigms — The Great Families of Thought",
+            "⚙️ Imperative and Procedural Programming",
+            "🧩 Object-Oriented Programming",
+            "λ Functional Programming",
+            "🔮 Logic and Declarative Programming",
+            "🌊 Concurrent and Reactive Programming"
+          ],
+          "key_topics": [
+            "the core idea",
+            "the paradigms at a glance",
+            "the big truth: most languages are multi-paradigm",
+            "procedural — imperative with procedures",
+            "state — the power and the peril",
+            "the structured programming revolution",
+            "when to reach for imperative style",
+            "the four pillars",
+            "how polymorphism actually works (the vtable)",
+            "the great debate: inheritance vs composition",
+            "solid — the oop design principles",
+            "strengths, weaknesses, and when to use it"
+          ],
+          "summary": "6 documents covering: the core idea, the paradigms at a glance, the big truth: most languages are multi-paradigm, procedural — imperative with procedures, state — the power and the peril, the structured programming revolution, when to reach for imperative style, the four pillars, how polymorphism actually works (the vtable), the great debate: inheritance vs composition, solid — the oop design principles, strengths, weaknesses, and when to use it."
+        },
+        "03-TYPE-SYSTEMS": {
+          "documents": 5,
+          "titles": [
+            "🛡️ Type Systems — The Science of Preventing Bad Programs",
+            "⚖️ Static vs Dynamic Typing",
+            "🔎 Type Inference",
+            "🔷 Polymorphism and Generics",
+            "🧿 Advanced Types — The Frontier"
+          ],
+          "key_topics": [
+            "why this section matters most",
+            "two independent axes (not one)",
+            "the weak-typing hall of shame",
+            "the case for static typing",
+            "the case for dynamic typing",
+            "why the industry is drifting toward static",
+            "type soundness — the promise (and when it breaks)",
+            "the idea",
+            "local vs global inference",
+            "hindley–milner — how global inference works",
+            "where inference stops (and you must annotate)",
+            "the tradeoffs"
+          ],
+          "summary": "5 documents covering: why this section matters most, two independent axes (not one), the weak-typing hall of shame, the case for static typing, the case for dynamic typing, why the industry is drifting toward static, type soundness — the promise (and when it breaks), the idea, local vs global inference, hindley–milner — how global inference works, where inference stops (and you must annotate), the tradeoffs."
+        },
+        "04-MEMORY-AND-RUNTIME": {
+          "documents": 3,
+          "titles": [
+            "🧠 Memory and Runtime",
+            "🗄️ Stack, Heap, and Memory Layout",
+            "♻️ Garbage Collection"
+          ],
+          "key_topics": [
+            "the three memory-management strategies",
+            "the process memory map",
+            "the stack — fast, automatic, scoped",
+            "the heap — flexible, manual, slower",
+            "values vs references (revisited at the memory level)",
+            "the catastrophic memory bugs (manual management's price)",
+            "stack allocation is an optimization lever",
+            "the problem gc solves",
+            "strategy 1 — reference counting",
+            "strategy 2 — tracing gc (mark & sweep)",
+            "the key insight — generational gc",
+            "modern gc — minimizing pauses"
+          ],
+          "summary": "3 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses."
+        },
+        "MASTER-INDEX.md": {
+          "documents": 1,
+          "titles": [
+            "🗺️ PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX — Master Index"
+          ],
+          "key_topics": [
+            "start here",
+            "all 13 sections",
+            "by goal",
+            "quick-reference compendiums"
+          ],
+          "summary": "1 documents covering: start here, all 13 sections, by goal, quick-reference compendiums."
+        },
+        "README.md": {
+          "documents": 1,
+          "titles": [
+            "🧬 PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX"
+          ],
+          "key_topics": [
+            "*the theory, design, internals, and mastery of every programming language*",
+            "the three-codex civilization",
+            "the 13 universes"
+          ],
+          "summary": "1 documents covering: *the theory, design, internals, and mastery of every programming language*, the three-codex civilization, the 13 universes."
+        }
+      }
+    }
+  }
+}

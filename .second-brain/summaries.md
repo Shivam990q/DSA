@@ -1,0 +1,152 @@
+# 🧾 Hierarchical Summaries (auto-generated)
+
+Rolled up doc → section → codex, so an agent can read the whole
+codex at any zoom level without loading full text.
+
+
+## DSA-Grandmaster-Codex  ·  460 docs · 27 sections
+
+### 00-PHILOSOPHY-AND-DOCTRINE
+9 documents covering: the fundamental truth, the five pillars of the algorithmic mind, the three lies you must unlearn, the bhagavad geeta of dsa, the four stages of understanding, the grandmaster's daily vow, the five enemies, the sacred loop, the promise of the codex, the opening mantra, what first-principles thinking is, why most people never escape memorization.
+
+### 01-LEVELS-PROGRESSION
+12 documents covering: prerequisite, ⏱ estimated time, on completion, outcome, exit test, problem volume, the ladder, approximate time investment, the skip-level rule, the journey begins, outcome (after completing this level), curriculum (8 modules, ~50 hours).
+
+### 02-PROGRAMMING-FOUNDATIONS
+11 documents covering: the final truth, the four pillars of computational thinking, the mind of a computer, the algorithmic mindset, the problem translation hierarchy, essential habits, the computational unconscious, exercise: translate english math, the memory hierarchy, stack vs heap, cache lines & locality, array vs linked list: a memory story.
+
+### 03-PROBLEM-SOLVING-FOUNDATIONS
+13 documents covering: the final truth, exercises, the three-read rule, the problem anatomy, the restate-in-your-words test, the example-verification drill, keywords that trigger patterns, the note-taking discipline, the 5-minute rule, red flags while reading, the final protocol, the master table.
+
+### 04-DATA-STRUCTURES-UNIVERSE
+9 documents covering: the idea, extensions, the complete structure list (53 structures), deep reference, what is an array?, static vs dynamic, amortized analysis of dynamic array, operations complexity, memory layout & cache, multi-dimensional arrays, essential operations patterns, interview problems (top 30).
+
+### 05-ALGORITHMS-UNIVERSE
+10 documents covering: problems, the paradigm, complexity, the algorithm paradigms (big picture), deep reference, linear search — o(n), binary search — o(log n), binary search on answer, ternary search — o(log n), exponential / galloping search — o(log p) where p is target position, interpolation search — o(log log n) for uniform distribution, jump search — o(√n).
+
+### 06-DYNAMIC-PROGRAMMING-UNIVERSE
+22 documents covering: problems, complexity, space optimization, the shape, note, the family, when to use, the idea, the problem type, learning order, the must-do, deep reference.
+
+### 07-GRAPH-THEORY-UNIVERSE
+21 documents covering: problems, complexity, applications, note, the problem, definitions, definition, complexity summary, learning order, the must-do, deep reference, representations.
+
+### 08-STRING-UNIVERSE
+15 documents covering: problems, applications, template, the problem, implementation, complexity, note, what is it, the idea, problems (curated), learning order, deep reference.
+
+### 09-MATHEMATICS-UNIVERSE
+12 documents covering: problems, note, template, applications, the idea, definition, learning order, deep reference, divisibility & gcd, extended euclidean, primes, modular arithmetic.
+
+### 10-GEOMETRY-UNIVERSE
+9 documents covering: problems, the problem, learning order, precision first, deep reference, points & vectors, the cross product (the most important tool), the dot product, distances, precision (the eternal hazard), orientation-based primitives, common operations.
+
+### 11-ADVANCED-PARADIGMS-UNIVERSE
+2 documents covering: topic map (all in the compendium), deep reference, 01 — randomized algorithms, 02 — approximation algorithms, 03 — online algorithms, 04 — streaming algorithms, 05 — parallel algorithms, 06 — distributed algorithms, 07 — quantum algorithms (intro), 08 — recommended reading.
+
+### 12-COMPETITIVE-PROGRAMMING-UNIVERSE
+13 documents covering: the mindset, tools, the format, the discipline, start here, the rating tiers, what to practice at each tier, the climb strategy, the problem-difficulty diet, contest participation, the plateau-breakers, the timeline (realistic).
+
+### 13-INTERVIEW-DSA-UNIVERSE
+12 documents covering: practice, the timeline overview, phase 1: foundation (months 1-3), phase 2: depth (months 4-6), phase 3: polish (months 7-9), phase 4: apply (months 9+), the resource stack, the weekly template, realistic expectations, fast-track (if experienced, 3 months), sliding window, two pointers.
+
+### 14-ALGORITHM-DESIGN-SCIENCE
+9 documents covering: exercises, the inventor's method, the five ways to invent algorithms, the observations that birthed algorithms, the inventor's checklist, the form of an original contribution, exercises — invent mini-algorithms, the grandmaster's daily habit, what is a reduction?, the two directions, reductions for solving (the practical use), classic reduction chains.
+
+### 15-CASE-STUDIES-LEGENDARY
+16 documents covering: the problem, applications, mental model, where to practice, the meta-lesson, further reading, problems to practice, preparation, what makes an icpc problem hard, a classic icpc archetype: "the necklace" (graph + euler), another archetype: "interval scheduling with weights", the icpc problem-solving method.
+
+### 16-MENTAL-MODELS-AND-FRAMEWORKS
+14 documents covering: the worldview, the triggers, exercise, manifestations, key tools, key concepts, the template, the master theorem connection, when to use, the leap of faith, the three parts, recursion dp.
+
+### 17-EXECUTION-SYSTEMS
+11 documents covering: the final truth, the daily minimum (non-negotiable), the optimal daily routine (3 hours), the daily checklist, the problem-solving ritual (per problem), what to solve when, energy management, the 5-minute warmup, avoiding excuses, the daily metrics, the 365-day promise, the weekly arc.
+
+### 18-SIMULATIONS-AND-LABS
+11 documents covering: the format, post-simulation debrief, post-round, simulate, evaluation rubric, the 5-round simulation (full day), simulation setup, the evaluation rubric, weekly mock schedule (pre-faang), sample 5-round script, calibration, the mock ladder.
+
+### 19-TEMPLATES-AND-IMPLEMENTATIONS
+1 documents covering: available files, templates to add as you advance, reference libraries, the rule.
+
+### 20-RESOURCES-AND-REFERENCES
+34 documents covering: system design, the principle, the warning, the top 20 interview questions, practice platforms, in this folder, the syllabus (interview-relevant), prep plan (5 days), the selectivity principle, interview prep, competitive programming, the discipline.
+
+### 21-MASTERY-VERIFICATION
+8 documents covering: the final word, the trial protocol, the three trials, the trials by level, the weekly micro-trial, the mastery certificate (self-awarded), re-verification rhythm, level 0-1 (each <10 min), level 2 (each <15 min), level 3-4 (each <20 min), level 5 (faang patterns, each <20 min), level 6 (each <15 min).
+
+### 22-COMPANY-PREP-TRACKS
+12 documents covering: the resource stack, the strategy, the hiring funnel, the bar, what they test, company flavors, the prep plan (4-6 months), role types, the tracks, the company tier map, how to use this universe, the universal truth.
+
+### 23-SOLVED-PROBLEMS-VAULT
+168 documents covering: problem statement, understanding the problem, approach comparison, edge cases & pitfalls, related problems, problems, the pattern family, approach 1 — top-down memoization, approach 2 — bottom-up 2d table, approach 1 — brute force (all pairs), edge cases, approach 1 — brute force.
+
+### 24-MASTER-SYLLABUS-AND-ROADMAP
+4 documents covering: the three documents, the 60-second answer (for the impatient), how the codex maps to the syllabus, tier 1 — core (interview-ready: leetcode easy/medium, most hard), tier 2 — advanced (codeforces div2/3, faang l4-l5, harder rounds), tier 3 — expert (icpc / codeforces div1 / research), the 13 universal patterns (the real "syllabus"), not in the syllabus (stop wasting time), the "nothing left" completion checklist, phase 1 — foundations (steps 1-4) · ~2 weeks, phase 2 — tier 1 core (steps 5-16) · ~6 weeks, phase 3 — dynamic programming (steps 17-20) · ~3 weeks.
+
+### MASTER-INDEX.md
+1 documents covering: start here, the sibling codex (the engineering half), all 22 folders, by goal — recommended paths, by topic — deep dives, quick-reference compendiums, the complete prep ecosystem (career & resources), the philosophy you carry, the daily touchpoints, the final vow.
+
+### README.md
+1 documents covering: *the geeta of problem solving · the bible of algorithms · the art of war of competitive programming*, the sibling codex (the engineering half), the complete preparation ecosystem (added in v1.1), the 11 levels (mastery ladder), the 15 universes, navigation, begin the journey.
+
+## FULLSTACK-AI-GRANDMASTER-CODEX  ·  90 docs · 13 sections
+
+### 00-ROADMAP-AND-PHILOSOPHY
+5 documents covering: what an engineer actually is, build to learn (the central law), the debugging mindset, fundamentals over frameworks, mental models that compound, how to learn efficiently, professional habits (start these on day one), how to read this roadmap, the dependency graph (the "why this order"), the stages in detail, sample calendars, rules for using the roadmap.
+
+### 01-WEB-FOUNDATIONS
+7 documents covering: the internet is a network of networks, ip addresses — every device has a number, dns — the internet's phone book, packets — messages broken into pieces, the tcp/ip model — layers of responsibility, ports — many doors on one address, putting it all together — a url becomes a page, isps and the physical internet, the request–response model, anatomy of an http request, anatomy of an http response, http methods (verbs).
+
+### 02-JAVASCRIPT-MASTERY
+9 documents covering: how to run these examples, what is javascript?, variables: `let`, `const`, `var`, the data types, operators, type coercion — the rules behind the weirdness, truthy and falsy, functions are first-class values, ways to define a function, parameters & arguments, scope — where a variable lives, hoisting — why you can sometimes use things early.
+
+### 03-TYPESCRIPT
+5 documents covering: what problem does typescript solve?, how typescript works — the mental model, installing & compiling, `tsconfig.json` — the project's brain, a first real taste, primitive & basic types, arrays & tuples, object types, interfaces vs type aliases, union & intersection types, enums, type narrowing.
+
+### 04-JAVA-MASTERY
+9 documents covering: setup — get a working jdk, what java actually is (and why it won), anatomy of a java program, variables and data types, operators, strings, control flow, arrays, input and output, methods, scope, comments, and style, a complete little program.
+
+### 05-REACT
+12 documents covering: setup — a working react project, what react actually is, the virtual dom & reconciliation, jsx — javascript that looks like html, rendering react to the page, conditional rendering, rendering lists with `.map()`, keys — the most misunderstood rule in react, a complete little component, what a component is, props — passing data down, the `children` prop — composition's secret weapon.
+
+### 06-NEXTJS
+9 documents covering: setup — scaffold a project, what next.js actually is, the problems next.js solves, app router vs pages router, project structure, file conventions — the special filenames, running the app — dev, build, start, a quick two-page app, file-based routing — the core idea, dynamic segments — `[param]`, catch-all and optional segments, route groups — `(folder)`.
+
+### 07-NODEJS-EXPRESS
+9 documents covering: setup — get a working node toolchain, opinionated starter stack (used in this section), what node.js actually is, v8 — the engine, libuv — the async heart, the event loop, non-blocking i/o — the whole point, `process` and `global`, the node cli — the tools you'll actually use, when node is the right tool — and when it isn't, a tiny http server — no frameworks, the event loop in one worked example.
+
+### 08-SQL-DATABASES
+9 documents covering: setup — get a working database, what the relational model actually is, keys — the five flavors, entity-relationship (er) modeling, relationships in sql, normalization — 1nf bcnf, explained, denormalization — breaking the rules, on purpose, naming conventions that save future-you, a worked design — a real bookstore, design smells — the things we never do, the three families of sql, ddl — defining schema.
+
+### 09-NOSQL-MONGODB
+3 documents covering: setup — get a working mongodb toolchain, what "nosql" actually means, the four families of nosql, nosql vs sql — when to pick which, the cap theorem — the law that created nosql, acid vs base, mongodb — the 30,000-foot view, bson — the binary document format, the `_id` field and `objectid`, connection strings, mongosh — the shell you'll live in, inserting and reading — a first taste.
+
+### 10-MERN-STACK
+6 documents covering: what we are building, the project — "taskflow", prerequisites — do not skip, setup — tools for the whole stack, what mern actually is, the full request / data-flow — a browser click to a database row and back, where mern sits — spa vs server-rendered, why this stack — and the honest tradeoffs, project structure — monorepo vs separate repos, the folder layout we will build, the dev environment — two processes, one command, the contract — json and the api shape.
+
+### 11-FULLSTACK-ENGINEERING
+6 documents covering: authentication vs authorization — the two questions, stateful sessions — the server remembers you, stateless jwt — the token carries the truth, sessions vs jwt — a real tradeoff, not a winner, access vs refresh tokens — rotation & reuse detection, token storage — cookies vs localstorage, oauth2 — delegated authorization, openid connect — authentication on top of oauth2, sso — single sign-on (saml vs oidc), rbac vs abac — deciding what's allowed, password hashing — bcrypt & argon2, mfa / 2fa and totp.
+
+### README.md
+1 documents covering: *the complete software engineer + ai engineer operating system*, the learning paths.
+
+## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX  ·  26 docs · 7 sections
+
+### 00-PHILOSOPHY-AND-DOCTRINE
+4 documents covering: why start here, the primordial problem, the tower of abstraction, what a language actually buys you, the three eternal questions every language answers, why there are thousands of languages, the lesson, why most people learn languages slowly, the universal language template, the language families, the 3-day protocol for a new language, what transfers and what doesn't.
+
+### 01-LANGUAGE-FOUNDATIONS
+6 documents covering: the formal definition, the anatomy (what every language is made of), specification vs implementation, two ways to give a language meaning, what makes a language "turing complete", the practical takeaway, the distinction, the two kinds of semantics, the error ladder (when things get caught), why the distinction matters practically, syntactic sugar — same meaning, nicer form, the grandmaster lens.
+
+### 02-PARADIGMS
+6 documents covering: the core idea, the paradigms at a glance, the big truth: most languages are multi-paradigm, procedural — imperative with procedures, state — the power and the peril, the structured programming revolution, when to reach for imperative style, the four pillars, how polymorphism actually works (the vtable), the great debate: inheritance vs composition, solid — the oop design principles, strengths, weaknesses, and when to use it.
+
+### 03-TYPE-SYSTEMS
+5 documents covering: why this section matters most, two independent axes (not one), the weak-typing hall of shame, the case for static typing, the case for dynamic typing, why the industry is drifting toward static, type soundness — the promise (and when it breaks), the idea, local vs global inference, hindley–milner — how global inference works, where inference stops (and you must annotate), the tradeoffs.
+
+### 04-MEMORY-AND-RUNTIME
+3 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses.
+
+### MASTER-INDEX.md
+1 documents covering: start here, all 13 sections, by goal, quick-reference compendiums.
+
+### README.md
+1 documents covering: *the theory, design, internals, and mastery of every programming language*, the three-codex civilization, the 13 universes.

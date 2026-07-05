@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Second Brain · Knowledge Graph</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+  html,body{margin:0;height:100%;background:#0d1117;color:#e6edf3;font-family:system-ui,sans-serif}
+  #bar{position:fixed;top:0;left:0;right:0;padding:10px 14px;background:#161b22;
+       border-bottom:1px solid #30363d;z-index:10;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  #bar h1{font-size:15px;margin:0;font-weight:600}
+  #bar input{background:#0d1117;border:1px solid #30363d;color:#e6edf3;padding:6px 10px;border-radius:6px;width:260px}
+  #bar span{color:#7d8590;font-size:12px}
+  #net{position:absolute;top:52px;bottom:0;left:0;right:0}
+  #info{position:fixed;bottom:14px;right:14px;max-width:340px;background:#161b22;
+        border:1px solid #30363d;border-radius:8px;padding:12px;font-size:13px;display:none}
+  a{color:#58a6ff}
+</style>
+</head>
+<body>
+<div id="bar">
+  <h1>🧠 Second Brain — Knowledge Graph</h1>
+  <input id="q" placeholder="search & focus a node…"/>
+  <span id="stats"></span>
+</div>
+<div id="net"></div>
+<div id="info"></div>
+<script>
+fetch('knowledge-graph.json').then(r=>r.json()).then(g=>{
+  document.getElementById('stats').textContent =
+    g.stats.nodes+' nodes · '+g.stats.edges+' edges';
+  const palette={};let hue=0;
+  function color(grp){if(!palette[grp]){palette[grp]='hsl('+(hue=(hue+47)%360)+',65%,55%)';}return palette[grp];}
+  const nodes=new vis.DataSet(g.nodes.map(n=>({
+    id:n.id,label:n.label,value:n.size,group:n.group,
+    color:{background:color(n.group),border:'#0d1117'},
+    font:{color:'#e6edf3',size:n.type==='codex'?20:(n.type==='section'?14:11)},
+    shape:n.type==='document'?'dot':'box',path:n.path
+  })));
+  const edges=new vis.DataSet(g.edges.map(e=>({
+    from:e.source,to:e.target,
+    color:{color:e.type==='links'?'#3fb950':'#30363d',opacity:e.type==='links'?0.7:0.35},
+    dashes:e.type==='links',arrows:e.type==='links'?'to':undefined
+  })));
+  const net=new vis.Network(document.getElementById('net'),{nodes,edges},{
+    physics:{stabilization:true,barnesHut:{gravitationalConstant:-8000,springLength:120}},
+    interaction:{hover:true,tooltipDelay:120}
+  });
+  const info=document.getElementById('info');
+  net.on('click',p=>{
+    if(!p.nodes.length){info.style.display='none';return;}
+    const n=nodes.get(p.nodes[0]);
+    info.style.display='block';
+    info.innerHTML='<b>'+n.label+'</b><br><span style="color:#7d8590">'+(n.group||'')+'</span>'+
+      (n.path?'<br><br><code>'+n.path+'</code>':'');
+  });
+  document.getElementById('q').addEventListener('input',e=>{
+    const term=e.target.value.toLowerCase();if(!term)return;
+    const hit=g.nodes.find(n=>n.label.toLowerCase().includes(term));
+    if(hit){net.focus(hit.id,{scale:1.2,animation:true});net.selectNodes([hit.id]);}
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,245 @@
+{
+  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "count": 14,
+  "by_language": {
+    "cpp": 12,
+    "py": 2
+  },
+  "files": [
+    {
+      "id": "code:04102f3a9ab0",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/bit.cpp",
+      "title": "bit.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 23,
+      "symbols": [
+        "BIT",
+        "query",
+        "range",
+        "update"
+      ]
+    },
+    {
+      "id": "code:042859f3a032",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/competitive-programming-template.cpp",
+      "title": "competitive-programming-template.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 93,
+      "symbols": [
+        "CustomHash",
+        "_print",
+        "main",
+        "modInv",
+        "modPow",
+        "solve",
+        "splitmix64"
+      ]
+    },
+    {
+      "id": "code:2ea036c7638b",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/competitive-programming-template.py",
+      "title": "competitive-programming-template.py",
+      "lang": "py",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 45,
+      "symbols": [
+        "integer",
+        "ints",
+        "main",
+        "solve",
+        "word",
+        "words"
+      ]
+    },
+    {
+      "id": "code:901260edc707",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/dsu.cpp",
+      "title": "dsu.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 29,
+      "symbols": [
+        "DSU",
+        "connected",
+        "find",
+        "unite"
+      ]
+    },
+    {
+      "id": "code:8803dc3eb21a",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/graph-algorithms.cpp",
+      "title": "graph-algorithms.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 118,
+      "symbols": [
+        "DSU",
+        "bellmanFord",
+        "bfs",
+        "dfs",
+        "dijkstra",
+        "find",
+        "floydWarshall",
+        "kruskal",
+        "prim",
+        "topoSort",
+        "unite"
+      ]
+    },
+    {
+      "id": "code:0664b4d3eecb",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/hash-table.cpp",
+      "title": "hash-table.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 30,
+      "symbols": [
+        "CustomHash",
+        "PairHash",
+        "splitmix64"
+      ]
+    },
+    {
+      "id": "code:d6b2cc3fc5f7",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/heap.cpp",
+      "title": "heap.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 61,
+      "symbols": [
+        "IndexedPQ",
+        "contains",
+        "decreaseKey",
+        "down",
+        "empty",
+        "extractMin",
+        "insert",
+        "keyOf",
+        "up"
+      ]
+    },
+    {
+      "id": "code:c9af168961fe",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/number-theory.cpp",
+      "title": "number-theory.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 108,
+      "symbols": [
+        "C",
+        "Combinatorics",
+        "extGcd",
+        "gcd",
+        "lcm",
+        "millerRabin",
+        "modInv",
+        "modPow",
+        "phi",
+        "sieve"
+      ]
+    },
+    {
+      "id": "code:5ddbbc54abf2",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/segment-tree-lazy.cpp",
+      "title": "segment-tree-lazy.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 54,
+      "symbols": [
+        "LazySegTree",
+        "build",
+        "push",
+        "query",
+        "update"
+      ]
+    },
+    {
+      "id": "code:93c05e5f9a28",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/segment-tree.cpp",
+      "title": "segment-tree.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 74,
+      "symbols": [
+        "SegTreeIter",
+        "SegTreeRec",
+        "build",
+        "n",
+        "query",
+        "update"
+      ]
+    },
+    {
+      "id": "code:aae69f5d2c4c",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/sparse-table.cpp",
+      "title": "sparse-table.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 30,
+      "symbols": [
+        "SparseTable",
+        "query"
+      ]
+    },
+    {
+      "id": "code:142932a01b56",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/string-algorithms.cpp",
+      "title": "string-algorithms.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 84,
+      "symbols": [
+        "StringHash",
+        "computeFail",
+        "get",
+        "kmpSearch",
+        "longestPalindrome",
+        "zFunction"
+      ]
+    },
+    {
+      "id": "code:6692cc5107c0",
+      "path": "DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/trie.cpp",
+      "title": "trie.cpp",
+      "lang": "cpp",
+      "codex": "DSA-Grandmaster-Codex",
+      "section": "19-TEMPLATES-AND-IMPLEMENTATIONS",
+      "lines": 82,
+      "symbols": [
+        "BinaryTrie",
+        "Node",
+        "Trie",
+        "TrieNode",
+        "countWithPrefix",
+        "insert",
+        "maxXor",
+        "search",
+        "startsWith"
+      ]
+    },
+    {
+      "id": "code:a521fae8de53",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/_verify.py",
+      "title": "_verify.py",
+      "lang": "py",
+      "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
+      "section": "_verify.py",
+      "lines": 20,
+      "symbols": []
+    }
+  ]
+}

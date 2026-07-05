@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "count": 12,
+  "bridges": [
+    {
+      "concept": "THE IDEA",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md",
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md",
+          "DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/06-Branch-And-Bound.md",
+          "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/12-Bitmask-DP.md",
+          "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/18-DP-with-Data-Structures.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/02-Type-Inference.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE PROBLEM",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md",
+          "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/16-SOS-DP.md",
+          "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md",
+          "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/10-2-SAT.md",
+          "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/13-General-Matching.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md"
+        ]
+      }
+    },
+    {
+      "concept": "Performance",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md",
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md",
+          "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md"
+        ],
+        "FULLSTACK-AI-GRANDMASTER-CODEX": [
+          "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md"
+        ]
+      }
+    },
+    {
+      "concept": "START HERE",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/00-Index.md",
+          "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/00-Index.md",
+          "DSA-Grandmaster-Codex/MASTER-INDEX.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE CORE IDEA",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/06-Compression-As-Discovery.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/01-Imperative-and-Procedural.md",
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md",
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE META-LESSON",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/05-CF-Greatest-Hits.md",
+          "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/12-Errichto-Editorials-Studied.md",
+          "DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/17-Math-and-Geometry/00-Index.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md"
+        ]
+      }
+    },
+    {
+      "concept": "ABSTRACTION",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md"
+        ]
+      }
+    },
+    {
+      "concept": "Strings",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md"
+        ],
+        "FULLSTACK-AI-GRANDMASTER-CODEX": [
+          "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        ]
+      }
+    },
+    {
+      "concept": "Routing",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md"
+        ],
+        "FULLSTACK-AI-GRANDMASTER-CODEX": [
+          "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md"
+        ]
+      }
+    },
+    {
+      "concept": "BY GOAL",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/04-Practice-Platforms.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE TRADEOFFS",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/08-Startups-And-Early-Stage-Track.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/02-Type-Inference.md"
+        ]
+      }
+    },
+    {
+      "concept": "QUICK-REFERENCE COMPENDIUMS",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/MASTER-INDEX.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Second Brain: Rebuild",
+      "type": "shell",
+      "command": "python .second-brain/build_second_brain.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Second Brain: Search",
+      "type": "shell",
+      "command": "python .second-brain/brain.py search \"${input:q}\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Second Brain: Ask (semantic)",
+      "type": "shell",
+      "command": "python .second-brain/brain.py ask \"${input:q}\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Second Brain: Doctor",
+      "type": "shell",
+      "command": "python .second-brain/brain.py doctor",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "q",
+      "type": "promptString",
+      "description": "Second Brain query"
+    }
+  ]
+}

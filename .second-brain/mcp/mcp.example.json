@@ -1,0 +1,24 @@
+// Example Kiro MCP config to plug the second brain's memory into any
+// agent session. Copy the 'second-brain-memory' block into your real
+// .kiro/settings/mcp.json (workspace) or ~/.kiro/settings/mcp.json (user).
+// After ingesting memories via memory/mem0_ingest.py, the agent can
+// search the codex memory through MCP tools.
+{
+  "mcpServers": {
+    "second-brain-memory": {
+      "command": "uvx",
+      "args": [
+        "mem0-mcp@latest"
+      ],
+      "env": {
+        "MEM0_API_KEY": "<optional-for-hosted-mem0>",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": [
+        "search_memory",
+        "list_memories"
+      ]
+    }
+  }
+}
