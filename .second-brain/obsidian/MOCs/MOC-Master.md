@@ -9,8 +9,8 @@ reachable from here through backlinks.
 ## DSA-Grandmaster-Codex  ·  460 documents
 - [[MOC-dsa-grandmaster-codex|Open DSA-Grandmaster-Codex map]]
 
-## FULLSTACK-AI-GRANDMASTER-CODEX  ·  90 documents
+## FULLSTACK-AI-GRANDMASTER-CODEX  ·  92 documents
 - [[MOC-fullstack-ai-grandmaster-codex|Open FULLSTACK-AI-GRANDMASTER-CODEX map]]
 
-## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX  ·  26 documents
+## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX  ·  58 documents
 - [[MOC-programming-languages-grandmaster-codex|Open PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX map]]

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
   "repo_root": "C:\\Users\\Rose\\Videos\\FUTURE\\DSA",
   "stats": {
-    "documents": 576,
+    "documents": 610,
     "codices": 3,
-    "sections": 47,
-    "total_words": 668417,
-    "total_edges": 2002
+    "sections": 55,
+    "total_words": 696100,
+    "total_edges": 2135
   },
   "codices": {
     "DSA-Grandmaster-Codex": 460,
-    "FULLSTACK-AI-GRANDMASTER-CODEX": 90,
-    "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": 26
+    "FULLSTACK-AI-GRANDMASTER-CODEX": 92,
+    "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": 58
   },
   "documents": [
     {
@@ -11707,8 +11707,40 @@
       "summary": "React + TypeScript is the dominant frontend combination today. This file shows how to type the things you touch every day: **component props**, **state**, **hooks** (`useState`, `useReducer`, `useRef`, `useContext`, custom hooks), and **DOM/form events**. The patterns here build directly on generics (file 03) — React's hooks are generic functions."
     },
     {
-      "id": "doc:1d644792b154",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+      "id": "doc:a9558e8ea834",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md",
+      "title": "🌳 THE COMPLETE JAVA TREE — \"Nothing Left\" Edition",
+      "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
+      "section": "04-JAVA-MASTERY",
+      "words": 3901,
+      "topics": [
+        "✅ COMPLETENESS PROMISE & SCOPE",
+        "🧭 PHASE 0 — SETUP & MENTAL MODEL",
+        "🧱 PHASE 1 — LANGUAGE FUNDAMENTALS",
+        "🧩 PHASE 2 — OBJECT-ORIENTED JAVA",
+        "🛠️ PHASE 3 — CORE APIs & EXCEPTIONS",
+        "🔷 PHASE 4 — GENERICS",
+        "📦 PHASE 5 — COLLECTIONS FRAMEWORK",
+        "λ PHASE 6 — FUNCTIONAL JAVA",
+        "💾 PHASE 7 — I/O, NIO & NETWORKING",
+        "🔀 PHASE 8 — CONCURRENCY & MULTITHREADING",
+        "⚙️ PHASE 9 — JVM INTERNALS & PERFORMANCE",
+        "✨ PHASE 10 — MODERN JAVA (8 → 21+)",
+        "🧰 PHASE 11 — BUILD, TEST & TOOLING",
+        "🏛️ PHASE 12 — BEST PRACTICES & DESIGN",
+        "🌉 PHASE 13 — BEYOND CORE (BRIDGES)",
+        "🗺️ THE LEARNING ORDER (linear path)",
+        "⚙️ HOW WE PROCEED (the method)"
+      ],
+      "links": [
+        "DSA-Grandmaster-Codex/README.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "Walk phases **0 → 13 in order**. Within a phase, walk modules top to bottom. Do not skip — Phase N assumes Phases 0…N-1."
+    },
+    {
+      "id": "doc:de430f9af335",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
       "title": "☕ Java Mastery",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11722,14 +11754,14 @@
       ],
       "links": [
         "DSA-Grandmaster-Codex/README.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/README.md"
@@ -11737,8 +11769,8 @@
       "summary": "You write `.java` source files; the JDK turns them into runnable programs. You need the **JDK** (Java Development Kit), not just the JRE."
     },
     {
-      "id": "doc:f617b29c48d9",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
+      "id": "doc:cb111cb659e5",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
       "title": "☕ 01 — Java Fundamentals",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11759,14 +11791,14 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "summary": "Java is a **statically typed, compiled, object-oriented, garbage-collected** language that runs on the **JVM** (Java Virtual Machine). The defining idea, from 1995, was **\"Write Once, Run Anywhere\"**:"
     },
     {
-      "id": "doc:3d021543709a",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md",
+      "id": "doc:08efcca9cea0",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
       "title": "☕ 02 — Object-Oriented Programming in Java ⭐",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11783,15 +11815,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "summary": "A **class** is a blueprint. An **object** is a concrete thing built from that blueprint. The class `Car` describes what every car *has* (fields) and what every car *does* (methods); each actual car you make with `new Car()` is an object (an *instance*)."
     },
     {
-      "id": "doc:0ef2714c8a21",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md",
+      "id": "doc:05b495939036",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
       "title": "☕ 03 — The Collections Framework ⭐",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11811,15 +11843,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "summary": "Arrays are fixed-size and low-level. Real programs need containers that **grow**, **look things up fast**, **prevent duplicates**, **stay sorted**, or **act like queues**. The **Java Collections Framework** (in `java.util`) is a set of interfaces and implementations that cover all of these, with consistent APIs."
     },
     {
-      "id": "doc:543020b7ff79",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md",
+      "id": "doc:2830902ab4ed",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
       "title": "☕ 04 — Generics & Functional Java ⭐",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11839,15 +11871,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "summary": "Before generics (pre-Java 5), collections held `Object`, so you cast everything and got runtime crashes:"
     },
     {
-      "id": "doc:b12711b67427",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md",
+      "id": "doc:4a841885a277",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
       "title": "☕ 05 — Exceptions & I/O",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11868,15 +11900,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "summary": "When something goes wrong at runtime — a missing file, bad input, division by zero — Java creates an **exception object** and *throws* it. Execution stops and the JVM unwinds the call stack looking for a handler. If none catches it, the program crashes and prints a **stack trace**."
     },
     {
-      "id": "doc:4f87c4c22027",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md",
+      "id": "doc:cb47cd9e5498",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
       "title": "☕ 06 — Concurrency & Multithreading ⭐",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11896,15 +11928,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "summary": "A **thread** is an independent path of execution within your program. With multiple threads you can:"
     },
     {
-      "id": "doc:995acac72ca0",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
+      "id": "doc:ccc9df3b926e",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
       "title": "☕ 07 — Spring Boot Essentials ⭐",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11924,15 +11956,15 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "summary": "The problem: classic Spring needed mountains of XML and manual configuration. **Spring Boot** is a layer on top that takes an opinionated, convention-over-configuration approach:"
     },
     {
-      "id": "doc:013ab411e28e",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md",
+      "id": "doc:4fdb7ac46eb8",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
       "title": "☕ 08 — Spring Boot Data & JPA",
       "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
       "section": "04-JAVA-MASTERY",
@@ -11952,12 +11984,47 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md"
       ],
       "summary": "Three layers sit between your Java objects and the database rows. Knowing who does what prevents a lot of confusion:"
+    },
+    {
+      "id": "doc:d494efc8476e",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md",
+      "title": "☕ JAVA MASTERY — Section 04",
+      "codex": "FULLSTACK-AI-GRANDMASTER-CODEX",
+      "section": "04-JAVA-MASTERY",
+      "words": 807,
+      "topics": [
+        "*Absolute Zero → Absolute Mastery · The \"Nothing Left\" Edition*",
+        "🎯 WHAT THIS IS",
+        "🗺️ HOW TO USE THIS SECTION",
+        "📊 THE JOURNEY AT A GLANCE",
+        "📕 THE COURSE — CHAPTERS",
+        "🔗 RELATED (within this codex and its siblings)",
+        "🪔 BEGIN"
+      ],
+      "links": [
+        "DSA-Grandmaster-Codex/README.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/README.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "A **complete, ground-up mastery path for Java** — from \"what is a compiler?\" to \"tuning the G1 garbage collector and writing lock-free concurrent code.\" Designed for **one learner going from zero to grandmaster**, leaving *nothing* out."
     },
     {
       "id": "doc:252611a833e0",
@@ -12871,7 +12938,7 @@
         "📖 DEEP REFERENCES"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md",
@@ -13110,7 +13177,7 @@
         "🧠 KEY TAKEAWAYS"
       ],
       "links": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/00-Index.md"
@@ -13721,8 +13788,8 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md",
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md"
       ],
       "summary": "A **programming language** is a formal system with three layers:"
     },
@@ -13765,8 +13832,9 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md",
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
       ],
       "summary": "Source code arrives as a **flat sequence of characters**:"
     },
@@ -13787,7 +13855,9 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
       ],
       "summary": "Three distinct ideas beginners blur:"
     },
@@ -13852,7 +13922,8 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
       ],
       "summary": "int sum = 0;              // state: sum = 0"
     },
@@ -13938,8 +14009,9 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md",
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "summary": "Concurrency enables parallelism but isn't the same thing. A web server handling 10,000 connections is *concurrent* (10,000 logical tasks) and may be *parallel* (running on 8 cores). You can have concurrency without parallelism (async on one thread) and parallelism without much concurrency (a parallel matrix multiply)."
     },
@@ -14044,7 +14116,9 @@
         "📌 Key Takeaways"
       ],
       "links": [
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md"
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
       ],
       "summary": "The frontier of type systems is about **encoding more of your program's correctness into types** — so the compiler proves properties you'd otherwise test for (or ship as bugs)."
     },
@@ -14063,6 +14137,7 @@
       "links": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/01-Stack-Heap-and-Layout.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/02-Garbage-Collection.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
       ],
       "summary": "Where do values actually live? Who allocates them, and who frees them? The answer to \"how does a language manage memory?\" is one of the deepest forks in language design — it determines safety, speed, predictability, and the entire feel of a language. This section takes you to the metal."
@@ -14106,8 +14181,720 @@
         "VII. GC vs THE ALTERNATIVES",
         "📌 Key Takeaways"
       ],
-      "links": [],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
+      ],
       "summary": "Manual memory management (`malloc`/`free`) is error-prone: forget to free → leak; free too early → use-after-free; free twice → corruption. **Garbage collection (GC)** automates deallocation: the runtime figures out which heap objects are no longer reachable and reclaims them, so the programmer never calls `free`."
+    },
+    {
+      "id": "doc:6d10aa07a200",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+      "title": "🦀 Ownership and Borrowing",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "04-MEMORY-AND-RUNTIME",
+      "words": 996,
+      "topics": [
+        "I. THE THREE RULES OF OWNERSHIP",
+        "II. MOVE SEMANTICS — TRANSFERRING OWNERSHIP",
+        "III. BORROWING — ACCESS WITHOUT OWNERSHIP",
+        "IV. WHY THIS IS PROFOUND: DATA RACES BECOME IMPOSSIBLE",
+        "V. LIFETIMES — PROVING REFERENCES DON'T DANGLE",
+        "VI. THE BROADER LESSON",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md"
+      ],
+      "summary": "Rust's ownership system is the most important language innovation of the last two decades: **memory safety without garbage collection**, enforced entirely at compile time. This file explains how — the concepts generalize far beyond Rust."
+    },
+    {
+      "id": "doc:2dcb2f9668a4",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+      "title": "⚙️ Compilers and Interpreters",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "05-COMPILERS-AND-INTERPRETERS",
+      "words": 285,
+      "topics": [
+        "📚 Contents",
+        "🧭 The Compiler Pipeline",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "How does human-readable text become something a CPU executes? This section walks the entire journey — lexing, parsing, semantic analysis, intermediate representations, optimization, code generation, and the interpreter/VM/JIT alternatives. Understanding this pipeline demystifies compiler errors, performance, and language design forever."
+    },
+    {
+      "id": "doc:7258e8285dbe",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md",
+      "title": "🔡 Lexing and Parsing (The Front End)",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "05-COMPILERS-AND-INTERPRETERS",
+      "words": 892,
+      "topics": [
+        "I. LEXICAL ANALYSIS (THE LEXER)",
+        "II. SYNTACTIC ANALYSIS (THE PARSER)",
+        "III. THE AST — DESIGNING THE TREE",
+        "IV. ERROR HANDLING — THE MARK OF A GOOD COMPILER",
+        "V. A COMPLETE MINI FRONT END (Python)",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "summary": "This file deepens the parsing foundations from [`../01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md`](../01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md) with a compiler-builder's lens."
+    },
+    {
+      "id": "doc:817123dd3cf5",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+      "title": "🔬 Semantic Analysis and Intermediate Representations",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "05-COMPILERS-AND-INTERPRETERS",
+      "words": 873,
+      "topics": [
+        "I. SEMANTIC ANALYSIS — CHECKING MEANING",
+        "II. THE SYMBOL TABLE",
+        "III. TYPE CHECKING IN PRACTICE",
+        "IV. INTERMEDIATE REPRESENTATIONS (IR)",
+        "V. LLVM — THE IR THAT ATE THE WORLD",
+        "VI. LOWERING — CROSSING ABSTRACTION LEVELS",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/02-Type-Inference.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ],
+      "summary": "A program can parse perfectly and still be nonsense: using an undeclared variable, adding a string to a list, calling a function with the wrong number of arguments. **Semantic analysis** walks the AST and verifies the program *means* something valid. Its main jobs:"
+    },
+    {
+      "id": "doc:69bac8b2e27f",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md",
+      "title": "🏭 Code Generation and Optimization (The Back End)",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "05-COMPILERS-AND-INTERPRETERS",
+      "words": 956,
+      "topics": [
+        "I. CODE GENERATION — IR TO MACHINE CODE",
+        "II. THE MAJOR OPTIMIZATIONS",
+        "III. WHY SSA MAKES OPTIMIZATION EASY",
+        "IV. AHEAD-OF-TIME vs JUST-IN-TIME OPTIMIZATION",
+        "V. THE OPTIMIZATION LEVELS YOU ACTUALLY USE",
+        "VI. WHAT THIS MEANS FOR YOU AS A PROGRAMMER",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "summary": "The back end translates optimized IR into actual instructions for a target CPU. Three central problems:"
+    },
+    {
+      "id": "doc:6615e876bea8",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+      "title": "🎮 Interpreters, VMs, and JIT",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "05-COMPILERS-AND-INTERPRETERS",
+      "words": 901,
+      "topics": [
+        "I. THE SPECTRUM OF EXECUTION",
+        "II. TREE-WALKING INTERPRETERS — THE SIMPLEST",
+        "III. BYTECODE VIRTUAL MACHINES — THE WORKHORSE",
+        "IV. JUST-IN-TIME (JIT) COMPILATION — THE BEST OF BOTH",
+        "V. TIERED COMPILATION — THE MODERN REALITY",
+        "VI. WHY THIS ALL MATTERS",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "summary": "There is no clean \"compiled vs interpreted\" binary — it's a spectrum of *when* translation happens:"
+    },
+    {
+      "id": "doc:0f3fa5473e02",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+      "title": "🔀 Concurrency Models",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "06-CONCURRENCY-MODELS",
+      "words": 252,
+      "topics": [
+        "📚 Contents",
+        "🧭 The Core Tension",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "For decades, programs got faster because CPUs got faster. Around 2005 that ended — chips grew *more cores* instead of faster ones. Suddenly, using hardware well meant **concurrency**, and every language had to provide a model for it. This section covers the major models and, crucially, *how they actually work* under the hood."
+    },
+    {
+      "id": "doc:303186a36851",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md",
+      "title": "🧵 Threads and Shared Memory",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "06-CONCURRENCY-MODELS",
+      "words": 1016,
+      "topics": [
+        "I. WHAT A THREAD IS",
+        "II. THE DATA RACE — THE ORIGINAL SIN",
+        "III. SYNCHRONIZATION PRIMITIVES",
+        "IV. THE NEW HAZARDS LOCKS INTRODUCE",
+        "V. THE MEMORY MODEL — THE DEEPEST RABBIT HOLE",
+        "VI. THE GIL — A PRAGMATIC SHORTCUT",
+        "VII. THE VERDICT",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "summary": "A **thread** is an independent sequence of execution within a process. All threads in a process **share the same heap and globals** but each has its **own stack** and registers. The OS scheduler multiplexes threads onto CPU cores, switching between them (a **context switch**)."
+    },
+    {
+      "id": "doc:5430f3801e3b",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+      "title": "⏳ Async and Event Loops",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "06-CONCURRENCY-MODELS",
+      "words": 963,
+      "topics": [
+        "I. THE PROBLEM ASYNC SOLVES",
+        "II. THE EVENT LOOP — THE ENGINE",
+        "III. CALLBACKS → PROMISES → ASYNC/AWAIT (the evolution)",
+        "IV. HOW ASYNC/AWAIT ACTUALLY WORKS (the magic revealed)",
+        "V. COOPERATIVE vs PREEMPTIVE (the fundamental difference)",
+        "VI. GREEN THREADS / GOROUTINES — ASYNC WITHOUT THE `await`",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ],
+      "summary": "Most servers spend their time **waiting** — for the network, the disk, the database. A thread blocked on I/O is a thread doing nothing but consuming ~1 MB of stack and a scheduler slot. Handling 10,000 simultaneous connections with 10,000 threads is wasteful and hits OS limits (the \"C10k problem\")."
+    },
+    {
+      "id": "doc:e172c0d88f3a",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md",
+      "title": "📬 Actors, CSP, and STM",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "06-CONCURRENCY-MODELS",
+      "words": 1006,
+      "topics": [
+        "I. THE ACTOR MODEL — SHARE NOTHING, MESSAGE EVERYTHING",
+        "II. CSP — COMMUNICATING SEQUENTIAL PROCESSES (Go's model)",
+        "III. SOFTWARE TRANSACTIONAL MEMORY (STM)",
+        "IV. DATA PARALLELISM — A DIFFERENT AXIS",
+        "V. CHOOSING A MODEL — THE DECISION TABLE",
+        "VI. THE UNIFYING LESSON",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md"
+      ],
+      "summary": "The most successful concurrency models attack the root cause of concurrency bugs: **shared mutable state**. Remove sharing, and races become impossible. Three approaches."
+    },
+    {
+      "id": "doc:1a62e4bc04c7",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md",
+      "title": "🌍 The Language Tour",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 411,
+      "topics": [
+        "📚 Contents",
+        "🧭 The Eight, Placed on the Dials",
+        "🎯 How to read a language file"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "Now we apply the theory. Each file dissects one language: its history and purpose, where it sets the [tradeoff dials](../00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md), its defining features, its soul, and when to reach for it. The goal isn't to teach you syntax (docs do that) — it's to help you *understand* each language as a coherent set of decisions."
+    },
+    {
+      "id": "doc:b9747f5c9b52",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+      "title": "🔧 C — The Portable Assembler",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 714,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. DEFINING FEATURES",
+        "IV. THE UNDEFINED-BEHAVIOR MINEFIELD",
+        "V. STRENGTHS & WEAKNESSES",
+        "VI. WHEN TO USE C",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ],
+      "summary": "Created by **Dennis Ritchie** at Bell Labs (1972) to rewrite the **Unix** operating system portably. Its founding goal: **be a thin, portable layer over the hardware** — an \"assembler you can move between machines.\" Every design decision follows from that: C gives you the machine's raw model (memory, pointers, bytes) with just enough abstraction to be portable."
+    },
+    {
+      "id": "doc:9c93ab00b47a",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+      "title": "⚙️ C++ — Zero-Cost Abstraction",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 697,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. DEFINING FEATURES",
+        "IV. THE COMPLEXITY PROBLEM",
+        "V. STRENGTHS & WEAKNESSES",
+        "VI. WHEN TO USE C++",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ],
+      "summary": "C++ powers where performance *and* abstraction both matter: game engines (Unreal), browsers (Chrome, Firefox), databases, high-frequency trading, CAD, and much of the software that must be both fast and large."
+    },
+    {
+      "id": "doc:d0817b8f181c",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+      "title": "🦀 Rust — Safety and Speed Without Compromise",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 721,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. THE CORE INNOVATION: OWNERSHIP (recap)",
+        "IV. BEYOND OWNERSHIP — RUST'S OTHER STRENGTHS",
+        "V. THE HONEST DIFFICULTY",
+        "VI. WHEN TO USE RUST",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
+      ],
+      "summary": "Started by **Graydon Hoare** at Mozilla (announced 2010, 1.0 in 2015), Rust set out to answer a question everyone thought unanswerable: **can we have C++'s performance and control *and* memory safety, with no garbage collector?** The answer — via the ownership system — is Rust's revolutionary contribution. It has topped \"most loved language\" surveys for years, and now ships in the Linux kernel, Wi"
+    },
+    {
+      "id": "doc:4af486a85c79",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+      "title": "🐹 Go — Radical Simplicity",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 722,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. DEFINING FEATURES",
+        "IV. THE PHILOSOPHY OF \"BORING\"",
+        "V. STRENGTHS & WEAKNESSES",
+        "VI. WHEN TO USE GO",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
+      ],
+      "summary": "Created at **Google (2007–09)** by **Rob Pike, Ken Thompson (of Unix/C fame), and Robert Griesemer**, born from frustration with C++ build times and complexity at Google scale. Its founding goal: **a language that a large team can be productive in almost immediately, that compiles fast, and that makes concurrency easy.** Go optimizes ruthlessly for **readability, simplicity, and maintainability at"
+    },
+    {
+      "id": "doc:0a0dbb9ac770",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+      "title": "☕ Java — The Enterprise Workhorse",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 711,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. THE JVM — JAVA'S REAL SUPERPOWER",
+        "IV. DEFINING FEATURES",
+        "V. THE VERBOSITY REPUTATION (and its fading)",
+        "VI. STRENGTHS & WEAKNESSES",
+        "VII. WHEN TO USE JAVA",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
+      ],
+      "summary": "Created by **James Gosling** at Sun Microsystems (1995), Java's founding goal was **portability** via the **Java Virtual Machine (JVM)**: compile to platform-independent **bytecode** once, run on any device with a JVM. It rode the internet boom, became the enterprise default, and — three decades on — still runs a colossal share of the world's backend systems, Android apps, and big-data infrastruct"
+    },
+    {
+      "id": "doc:8bbc481dda99",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+      "title": "🐍 Python — Readability and the Language of Data",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 690,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. DEFINING FEATURES",
+        "IV. WHY PYTHON IS \"SLOW\" — AND WHY IT DOESN'T MATTER (usually)",
+        "V. STRENGTHS & WEAKNESSES",
+        "VI. WHEN TO USE PYTHON",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
+      ],
+      "summary": "Created by **Guido van Rossum** (1991), Python's founding value is **readability and developer happiness**: code should read almost like English, and writing it should be fast and pleasant. Its guiding aesthetic, \"The Zen of Python\" (`import this`), prizes simplicity, explicitness, and one obvious way to do things."
+    },
+    {
+      "id": "doc:b1aa209f2606",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+      "title": "🟨 JavaScript and TypeScript — The Language of the Web",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 775,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. JAVASCRIPT'S DEFINING FEATURES (AND WARTS)",
+        "IV. TYPESCRIPT — THE FIX THAT CONQUERED",
+        "V. THE ECOSYSTEM (blessing and curse)",
+        "VI. STRENGTHS, WEAKNESSES, WHEN TO USE",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/README.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
+      ],
+      "summary": "// first-class functions & closures — JS's genuinely great parts"
+    },
+    {
+      "id": "doc:34a0563b839a",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md",
+      "title": "λ Haskell — The Language That Rewires Your Brain",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "07-LANGUAGE-TOUR",
+      "words": 852,
+      "topics": [
+        "I. ORIGIN AND PURPOSE",
+        "II. WHERE IT SETS THE DIALS",
+        "III. DEFINING FEATURES",
+        "IV. MONADS — THE INFAMOUS CONCEPT",
+        "V. WHY LEARN IT IF YOU WON'T SHIP IT",
+        "VI. STRENGTHS, WEAKNESSES, WHEN TO USE",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md"
+      ],
+      "summary": "Born from academia (a 1990 committee standardizing lazy functional languages, named after logician **Haskell Curry**), Haskell is the flagship **purely functional** language. Its purpose was never mass adoption — it was to be a **principled research vehicle** for functional programming done without compromise. That purity makes it the best teacher of ideas that have since flooded every mainstream "
+    },
+    {
+      "id": "doc:ec80d550c63d",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md",
+      "title": "🔬 Semantics and Theory — The Mathematics of Meaning",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "08-SEMANTICS-AND-THEORY",
+      "words": 281,
+      "topics": [
+        "📚 Contents",
+        "🧭 Why Theory Matters (even for engineers)",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "The theoretical bedrock. Here we answer \"what does a program *mean*?\" with mathematical precision, and discover the astonishing bridge between programs and proofs. This section is optional for building things but essential for *understanding* things — and for reading programming-language research."
+    },
+    {
+      "id": "doc:4d3ba857c72a",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md",
+      "title": "λ Lambda Calculus — The Essence of Computation",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "08-SEMANTICS-AND-THEORY",
+      "words": 843,
+      "topics": [
+        "I. WHAT IT IS",
+        "II. THE ONE COMPUTATION RULE: BETA REDUCTION",
+        "III. ENCODING EVERYTHING FROM NOTHING",
+        "IV. WHY IT UNDERPINS REAL LANGUAGES",
+        "V. TYPED LAMBDA CALCULUS — THE BRIDGE TO TYPES",
+        "VI. VARIANTS AND LEGACY",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "summary": "The **lambda calculus** (Alonzo Church, 1930s) is the smallest possible programming language — and a complete model of computation. It has just **three** things:"
+    },
+    {
+      "id": "doc:36c4fa328550",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md",
+      "title": "📖 Operational and Denotational Semantics",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "08-SEMANTICS-AND-THEORY",
+      "words": 840,
+      "topics": [
+        "I. WHY FORMAL SEMANTICS?",
+        "II. OPERATIONAL SEMANTICS — MEANING AS EXECUTION STEPS",
+        "III. DENOTATIONAL SEMANTICS — MEANING AS MATHEMATICAL OBJECTS",
+        "IV. AXIOMATIC SEMANTICS — MEANING AS WHAT YOU CAN PROVE",
+        "V. HOW THEY RELATE AND WHY YOU CARE",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "summary": "How do we define, *precisely and unambiguously*, what a program means? Three main approaches, two of which we detail here."
+    },
+    {
+      "id": "doc:8ef270bace6b",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md",
+      "title": "🔺 Type Theory — Programs as Proofs",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "08-SEMANTICS-AND-THEORY",
+      "words": 908,
+      "topics": [
+        "I. WHAT TYPE THEORY IS",
+        "II. THE CURRY–HOWARD CORRESPONDENCE — THE GREAT IDEA",
+        "III. WHY THIS ISN'T JUST Beautiful — IT'S POWERFUL",
+        "IV. THE HIERARCHY OF TYPE-THEORETIC POWER",
+        "V. \"PROPOSITIONS AS TYPES\" IN EVERYDAY CODE",
+        "VI. THE HORIZON",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md"
+      ],
+      "summary": "Independently discovered by Haskell Curry and William Howard, this is one of the most profound insights in all of science:"
+    },
+    {
+      "id": "doc:8e7583dbd56c",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md",
+      "title": "🪞 Metaprogramming — Programs That Write Programs",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "09-METAPROGRAMMING",
+      "words": 203,
+      "topics": [
+        "📚 Contents",
+        "🧭 The Metaprogramming Spectrum",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "Metaprogramming is writing programs that treat *other programs (or themselves)* as data — inspecting, generating, or transforming code. It's how frameworks feel magical, how DSLs are built, and how languages extend themselves."
+    },
+    {
+      "id": "doc:af732f84735d",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md",
+      "title": "🪄 Macros, Reflection, and DSLs",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "09-METAPROGRAMMING",
+      "words": 871,
+      "topics": [
+        "I. MACROS — CODE THAT GENERATES CODE AT COMPILE TIME",
+        "II. REFLECTION — INSPECTING PROGRAMS AT RUN TIME",
+        "III. eval — THE ULTIMATE (AND DANGEROUS) META TOOL",
+        "IV. DOMAIN-SPECIFIC LANGUAGES (DSLs)",
+        "V. THE POWER/DANGER BALANCE",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md"
+      ],
+      "summary": "A **macro** transforms source code *before* compilation. There are two very different kinds:"
+    },
+    {
+      "id": "doc:2cb5f535c555",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md",
+      "title": "🏗️ Language Design — Becoming an Inventor",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "10-LANGUAGE-DESIGN",
+      "words": 249,
+      "topics": [
+        "📚 Contents",
+        "🧭 Why Build a Language?",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "The capstone. Everything in this codex converges here: to design a language you must understand syntax, semantics, types, memory, and paradigms — and to *implement* it you must build a lexer, parser, checker, and interpreter. This section makes you an inventor, not just a user."
+    },
+    {
+      "id": "doc:eebbe3d01c54",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md",
+      "title": "🎨 How to Design a Language",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "10-LANGUAGE-DESIGN",
+      "words": 836,
+      "topics": [
+        "I. START WITH PURPOSE",
+        "II. THE DESIGN DECISIONS (the checklist)",
+        "III. SYNTAX DESIGN PRINCIPLES",
+        "IV. LEARN FROM CLASSIC MISTAKES",
+        "V. THE FEATURE-CREEP TRAP",
+        "VI. THE PATH FROM DESIGN TO REALITY",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "summary": "Every good language begins with a **clear purpose and audience**. The purpose determines every subsequent tradeoff (recall the [dials](../00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md)):"
+    },
+    {
+      "id": "doc:2264b7d75095",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md",
+      "title": "🛠️ Build Your Own Language (Project)",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "10-LANGUAGE-DESIGN",
+      "words": 1224,
+      "topics": [
+        "I. THE LANGUAGE WE'RE BUILDING",
+        "II. STAGE 1 — THE LEXER (text → tokens)",
+        "III. STAGE 2 — THE PARSER (tokens → AST)",
+        "IV. STAGE 3 — THE EVALUATOR (walk the AST)",
+        "V. PUTTING IT TOGETHER",
+        "VI. WHAT YOU JUST LEARNED (and where to go next)",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md"
+      ],
+      "summary": "This is the capstone. We build **\"Mini\"**, a small but *real* interpreted language, applying the whole codex: [grammar/parsing](../01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md), [scope/closures](../01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md), and [tree-walking interpretation](../05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md)."
+    },
+    {
+      "id": "doc:0aa50dad6ef6",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md",
+      "title": "📚 Case Studies — Learning from History's Decisions",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "11-CASE-STUDIES",
+      "words": 157,
+      "topics": [
+        "📚 Contents",
+        "🧭 Why Case Studies",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "Real languages made real decisions with real consequences. This section dissects a few legendary ones — the mistakes that cost billions, the constraints that shaped winners, and the bold bets that paid off."
+    },
+    {
+      "id": "doc:7ddffeda6bf8",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md",
+      "title": "🏛️ Legendary Language Decisions",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "11-CASE-STUDIES",
+      "words": 1116,
+      "topics": [
+        "I. THE BILLION-DOLLAR MISTAKE — `null`",
+        "II. BREAKING THE WORLD — PYTHON 2 → 3",
+        "III. SHIPPED IN 10 DAYS — JAVASCRIPT",
+        "IV. THE POWER OF SAYING NO — GO",
+        "V. BETTING ON THE HARD PATH — RUST'S BORROW CHECKER",
+        "VI. OTHER INSTRUCTIVE STORIES (briefly)",
+        "VII. THE META-LESSONS",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md"
+      ],
+      "summary": "1. **Early decisions are forever** at scale (JS, `null`). Choose foundational features with extreme care."
+    },
+    {
+      "id": "doc:2afa087ae2ca",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md",
+      "title": "🧰 Resources and References",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "12-RESOURCES-AND-REFERENCES",
+      "words": 176,
+      "topics": [
+        "📚 Contents",
+        "🧭 The Essential Shortlist",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "The definitive books, courses, papers, and tools for going deeper into every part of this codex."
+    },
+    {
+      "id": "doc:7cacf7c43dc6",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md",
+      "title": "📖 The Complete Library",
+      "codex": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "section": "12-RESOURCES-AND-REFERENCES",
+      "words": 838,
+      "topics": [
+        "I. FOUNDATIONS & GENERAL PL",
+        "II. COMPILERS & INTERPRETERS",
+        "III. TYPE SYSTEMS & THEORY",
+        "IV. FUNCTIONAL PROGRAMMING & LAMBDA CALCULUS",
+        "V. MEMORY, RUNTIMES & CONCURRENCY",
+        "VI. LANGUAGE-SPECIFIC DEEP DIVES",
+        "VII. COURSES",
+        "VIII. PAPERS & ONGOING",
+        "📌 Key Takeaways"
+      ],
+      "links": [
+        "DSA-Grandmaster-Codex/README.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/README.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
+      ],
+      "summary": "Curated resources for every section of this codex. Prioritize the ⭐ items."
     },
     {
       "id": "doc:b84dbf617059",
@@ -14123,13 +14910,20 @@
         "🔗 QUICK-REFERENCE COMPENDIUMS"
       ],
       "links": [
-        "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md",
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md"
       ],
       "summary": "1. Read [`README.md`](./README.md) for the big picture."

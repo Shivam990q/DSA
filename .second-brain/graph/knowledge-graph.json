@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
   "directed": true,
   "nodes": [
     {
@@ -334,6 +334,62 @@
     {
       "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME",
       "label": "04-MEMORY-AND-RUNTIME",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "label": "05-COMPILERS-AND-INTERPRETERS",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "label": "06-CONCURRENCY-MODELS",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "label": "07-LANGUAGE-TOUR",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "label": "08-SEMANTICS-AND-THEORY",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING",
+      "label": "09-METAPROGRAMMING",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN",
+      "label": "10-LANGUAGE-DESIGN",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES",
+      "label": "11-CASE-STUDIES",
+      "type": "section",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "size": 22
+    },
+    {
+      "id": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES",
+      "label": "12-RESOURCES-AND-REFERENCES",
       "type": "section",
       "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
       "size": 22
@@ -4727,84 +4783,102 @@
       "size": 10
     },
     {
-      "id": "doc:1d644792b154",
+      "id": "doc:a9558e8ea834",
+      "label": "🌳 THE COMPLETE JAVA TREE — \"Nothing Left\" Edition",
+      "type": "document",
+      "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md",
+      "words": 3901,
+      "size": 10
+    },
+    {
+      "id": "doc:de430f9af335",
       "label": "☕ Java Mastery",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
       "words": 813,
       "size": 10
     },
     {
-      "id": "doc:f617b29c48d9",
+      "id": "doc:cb111cb659e5",
       "label": "☕ 01 — Java Fundamentals",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
       "words": 3362,
       "size": 10
     },
     {
-      "id": "doc:3d021543709a",
+      "id": "doc:08efcca9cea0",
       "label": "☕ 02 — Object-Oriented Programming in Java ⭐",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
       "words": 3378,
       "size": 10
     },
     {
-      "id": "doc:0ef2714c8a21",
+      "id": "doc:05b495939036",
       "label": "☕ 03 — The Collections Framework ⭐",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
       "words": 2861,
       "size": 10
     },
     {
-      "id": "doc:543020b7ff79",
+      "id": "doc:2830902ab4ed",
       "label": "☕ 04 — Generics & Functional Java ⭐",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
       "words": 2885,
       "size": 10
     },
     {
-      "id": "doc:b12711b67427",
+      "id": "doc:4a841885a277",
       "label": "☕ 05 — Exceptions & I/O",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
       "words": 2577,
       "size": 10
     },
     {
-      "id": "doc:4f87c4c22027",
+      "id": "doc:cb47cd9e5498",
       "label": "☕ 06 — Concurrency & Multithreading ⭐",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
       "words": 2509,
       "size": 10
     },
     {
-      "id": "doc:995acac72ca0",
+      "id": "doc:ccc9df3b926e",
       "label": "☕ 07 — Spring Boot Essentials ⭐",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
       "words": 2576,
       "size": 10
     },
     {
-      "id": "doc:013ab411e28e",
+      "id": "doc:4fdb7ac46eb8",
       "label": "☕ 08 — Spring Boot Data & JPA",
       "type": "document",
       "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
-      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
       "words": 3023,
+      "size": 10
+    },
+    {
+      "id": "doc:d494efc8476e",
+      "label": "☕ JAVA MASTERY — Section 04",
+      "type": "document",
+      "group": "FULLSTACK-AI-GRANDMASTER-CODEX",
+      "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md",
+      "words": 807,
       "size": 10
     },
     {
@@ -5519,6 +5593,294 @@
       "size": 10
     },
     {
+      "id": "doc:6d10aa07a200",
+      "label": "🦀 Ownership and Borrowing",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+      "words": 996,
+      "size": 10
+    },
+    {
+      "id": "doc:2dcb2f9668a4",
+      "label": "⚙️ Compilers and Interpreters",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+      "words": 285,
+      "size": 10
+    },
+    {
+      "id": "doc:7258e8285dbe",
+      "label": "🔡 Lexing and Parsing (The Front End)",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md",
+      "words": 892,
+      "size": 10
+    },
+    {
+      "id": "doc:817123dd3cf5",
+      "label": "🔬 Semantic Analysis and Intermediate Representations",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+      "words": 873,
+      "size": 10
+    },
+    {
+      "id": "doc:69bac8b2e27f",
+      "label": "🏭 Code Generation and Optimization (The Back End)",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md",
+      "words": 956,
+      "size": 10
+    },
+    {
+      "id": "doc:6615e876bea8",
+      "label": "🎮 Interpreters, VMs, and JIT",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+      "words": 901,
+      "size": 10
+    },
+    {
+      "id": "doc:0f3fa5473e02",
+      "label": "🔀 Concurrency Models",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+      "words": 252,
+      "size": 10
+    },
+    {
+      "id": "doc:303186a36851",
+      "label": "🧵 Threads and Shared Memory",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md",
+      "words": 1016,
+      "size": 10
+    },
+    {
+      "id": "doc:5430f3801e3b",
+      "label": "⏳ Async and Event Loops",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+      "words": 963,
+      "size": 10
+    },
+    {
+      "id": "doc:e172c0d88f3a",
+      "label": "📬 Actors, CSP, and STM",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md",
+      "words": 1006,
+      "size": 10
+    },
+    {
+      "id": "doc:1a62e4bc04c7",
+      "label": "🌍 The Language Tour",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md",
+      "words": 411,
+      "size": 10
+    },
+    {
+      "id": "doc:b9747f5c9b52",
+      "label": "🔧 C — The Portable Assembler",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+      "words": 714,
+      "size": 10
+    },
+    {
+      "id": "doc:9c93ab00b47a",
+      "label": "⚙️ C++ — Zero-Cost Abstraction",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+      "words": 697,
+      "size": 10
+    },
+    {
+      "id": "doc:d0817b8f181c",
+      "label": "🦀 Rust — Safety and Speed Without Compromise",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+      "words": 721,
+      "size": 10
+    },
+    {
+      "id": "doc:4af486a85c79",
+      "label": "🐹 Go — Radical Simplicity",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+      "words": 722,
+      "size": 10
+    },
+    {
+      "id": "doc:0a0dbb9ac770",
+      "label": "☕ Java — The Enterprise Workhorse",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+      "words": 711,
+      "size": 10
+    },
+    {
+      "id": "doc:8bbc481dda99",
+      "label": "🐍 Python — Readability and the Language of Data",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+      "words": 690,
+      "size": 10
+    },
+    {
+      "id": "doc:b1aa209f2606",
+      "label": "🟨 JavaScript and TypeScript — The Language of the Web",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+      "words": 775,
+      "size": 10
+    },
+    {
+      "id": "doc:34a0563b839a",
+      "label": "λ Haskell — The Language That Rewires Your Brain",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md",
+      "words": 852,
+      "size": 10
+    },
+    {
+      "id": "doc:ec80d550c63d",
+      "label": "🔬 Semantics and Theory — The Mathematics of Meaning",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md",
+      "words": 281,
+      "size": 10
+    },
+    {
+      "id": "doc:4d3ba857c72a",
+      "label": "λ Lambda Calculus — The Essence of Computation",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md",
+      "words": 843,
+      "size": 10
+    },
+    {
+      "id": "doc:36c4fa328550",
+      "label": "📖 Operational and Denotational Semantics",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md",
+      "words": 840,
+      "size": 10
+    },
+    {
+      "id": "doc:8ef270bace6b",
+      "label": "🔺 Type Theory — Programs as Proofs",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md",
+      "words": 908,
+      "size": 10
+    },
+    {
+      "id": "doc:8e7583dbd56c",
+      "label": "🪞 Metaprogramming — Programs That Write Programs",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md",
+      "words": 203,
+      "size": 10
+    },
+    {
+      "id": "doc:af732f84735d",
+      "label": "🪄 Macros, Reflection, and DSLs",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md",
+      "words": 871,
+      "size": 10
+    },
+    {
+      "id": "doc:2cb5f535c555",
+      "label": "🏗️ Language Design — Becoming an Inventor",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md",
+      "words": 249,
+      "size": 10
+    },
+    {
+      "id": "doc:eebbe3d01c54",
+      "label": "🎨 How to Design a Language",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md",
+      "words": 836,
+      "size": 10
+    },
+    {
+      "id": "doc:2264b7d75095",
+      "label": "🛠️ Build Your Own Language (Project)",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md",
+      "words": 1224,
+      "size": 10
+    },
+    {
+      "id": "doc:0aa50dad6ef6",
+      "label": "📚 Case Studies — Learning from History's Decisions",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md",
+      "words": 157,
+      "size": 10
+    },
+    {
+      "id": "doc:7ddffeda6bf8",
+      "label": "🏛️ Legendary Language Decisions",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md",
+      "words": 1116,
+      "size": 10
+    },
+    {
+      "id": "doc:2afa087ae2ca",
+      "label": "🧰 Resources and References",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md",
+      "words": 176,
+      "size": 10
+    },
+    {
+      "id": "doc:7cacf7c43dc6",
+      "label": "📖 The Complete Library",
+      "type": "document",
+      "group": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md",
+      "words": 838,
+      "size": 10
+    },
+    {
       "id": "doc:b84dbf617059",
       "label": "🗺️ PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX — Master Index",
       "type": "document",
@@ -5761,6 +6123,46 @@
     {
       "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
       "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES",
+      "type": "contains"
+    },
+    {
+      "source": "codex:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX",
+      "target": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES",
       "type": "contains"
     },
     {
@@ -8205,47 +8607,57 @@
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:1d644792b154",
+      "target": "doc:a9558e8ea834",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:f617b29c48d9",
+      "target": "doc:de430f9af335",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:3d021543709a",
+      "target": "doc:cb111cb659e5",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:0ef2714c8a21",
+      "target": "doc:08efcca9cea0",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:543020b7ff79",
+      "target": "doc:05b495939036",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:b12711b67427",
+      "target": "doc:2830902ab4ed",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:4f87c4c22027",
+      "target": "doc:4a841885a277",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:995acac72ca0",
+      "target": "doc:cb47cd9e5498",
       "type": "contains"
     },
     {
       "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
-      "target": "doc:013ab411e28e",
+      "target": "doc:ccc9df3b926e",
+      "type": "contains"
+    },
+    {
+      "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
+      "target": "doc:4fdb7ac46eb8",
+      "type": "contains"
+    },
+    {
+      "source": "section:FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY",
+      "target": "doc:d494efc8476e",
       "type": "contains"
     },
     {
@@ -8641,6 +9053,166 @@
     {
       "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME",
       "target": "doc:b4cd6e5b2115",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME",
+      "target": "doc:6d10aa07a200",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "target": "doc:2dcb2f9668a4",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "target": "doc:7258e8285dbe",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "target": "doc:817123dd3cf5",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "target": "doc:69bac8b2e27f",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS",
+      "target": "doc:6615e876bea8",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "target": "doc:0f3fa5473e02",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "target": "doc:303186a36851",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "target": "doc:5430f3801e3b",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS",
+      "target": "doc:e172c0d88f3a",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:1a62e4bc04c7",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:b9747f5c9b52",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:9c93ab00b47a",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:d0817b8f181c",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:4af486a85c79",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:0a0dbb9ac770",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:8bbc481dda99",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:b1aa209f2606",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR",
+      "target": "doc:34a0563b839a",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "target": "doc:ec80d550c63d",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "target": "doc:4d3ba857c72a",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "target": "doc:36c4fa328550",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY",
+      "target": "doc:8ef270bace6b",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING",
+      "target": "doc:8e7583dbd56c",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING",
+      "target": "doc:af732f84735d",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN",
+      "target": "doc:2cb5f535c555",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN",
+      "target": "doc:eebbe3d01c54",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN",
+      "target": "doc:2264b7d75095",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES",
+      "target": "doc:0aa50dad6ef6",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES",
+      "target": "doc:7ddffeda6bf8",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES",
+      "target": "doc:2afa087ae2ca",
+      "type": "contains"
+    },
+    {
+      "source": "section:PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES",
+      "target": "doc:7cacf7c43dc6",
       "type": "contains"
     },
     {
@@ -16844,183 +17416,268 @@
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
+      "source": "doc:a9558e8ea834",
       "target": "doc:995d988c7256",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:f617b29c48d9",
+      "source": "doc:a9558e8ea834",
+      "target": "doc:192c968a378c",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:3d021543709a",
+      "source": "doc:de430f9af335",
+      "target": "doc:995d988c7256",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:0ef2714c8a21",
+      "source": "doc:de430f9af335",
+      "target": "doc:cb111cb659e5",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:543020b7ff79",
+      "source": "doc:de430f9af335",
+      "target": "doc:08efcca9cea0",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:b12711b67427",
+      "source": "doc:de430f9af335",
+      "target": "doc:05b495939036",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:4f87c4c22027",
+      "source": "doc:de430f9af335",
+      "target": "doc:2830902ab4ed",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:995acac72ca0",
+      "source": "doc:de430f9af335",
+      "target": "doc:4a841885a277",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
-      "target": "doc:013ab411e28e",
+      "source": "doc:de430f9af335",
+      "target": "doc:cb47cd9e5498",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
+      "source": "doc:de430f9af335",
+      "target": "doc:ccc9df3b926e",
+      "type": "links"
+    },
+    {
+      "source": "doc:de430f9af335",
+      "target": "doc:4fdb7ac46eb8",
+      "type": "links"
+    },
+    {
+      "source": "doc:de430f9af335",
       "target": "doc:d7a534f1cc9e",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
+      "source": "doc:de430f9af335",
       "target": "doc:d18b8903fdbb",
       "type": "links"
     },
     {
-      "source": "doc:1d644792b154",
+      "source": "doc:de430f9af335",
       "target": "doc:a8e1c05ed5c2",
       "type": "links"
     },
     {
-      "source": "doc:f617b29c48d9",
-      "target": "doc:1d644792b154",
+      "source": "doc:cb111cb659e5",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:f617b29c48d9",
-      "target": "doc:3d021543709a",
+      "source": "doc:cb111cb659e5",
+      "target": "doc:08efcca9cea0",
       "type": "links"
     },
     {
-      "source": "doc:3d021543709a",
-      "target": "doc:1d644792b154",
+      "source": "doc:08efcca9cea0",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:3d021543709a",
-      "target": "doc:f617b29c48d9",
+      "source": "doc:08efcca9cea0",
+      "target": "doc:cb111cb659e5",
       "type": "links"
     },
     {
-      "source": "doc:3d021543709a",
-      "target": "doc:0ef2714c8a21",
+      "source": "doc:08efcca9cea0",
+      "target": "doc:05b495939036",
       "type": "links"
     },
     {
-      "source": "doc:0ef2714c8a21",
-      "target": "doc:1d644792b154",
+      "source": "doc:05b495939036",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:0ef2714c8a21",
-      "target": "doc:3d021543709a",
+      "source": "doc:05b495939036",
+      "target": "doc:08efcca9cea0",
       "type": "links"
     },
     {
-      "source": "doc:0ef2714c8a21",
-      "target": "doc:543020b7ff79",
+      "source": "doc:05b495939036",
+      "target": "doc:2830902ab4ed",
       "type": "links"
     },
     {
-      "source": "doc:543020b7ff79",
-      "target": "doc:1d644792b154",
+      "source": "doc:2830902ab4ed",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:543020b7ff79",
-      "target": "doc:0ef2714c8a21",
+      "source": "doc:2830902ab4ed",
+      "target": "doc:05b495939036",
       "type": "links"
     },
     {
-      "source": "doc:543020b7ff79",
-      "target": "doc:b12711b67427",
+      "source": "doc:2830902ab4ed",
+      "target": "doc:4a841885a277",
       "type": "links"
     },
     {
-      "source": "doc:b12711b67427",
-      "target": "doc:1d644792b154",
+      "source": "doc:4a841885a277",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:b12711b67427",
-      "target": "doc:543020b7ff79",
+      "source": "doc:4a841885a277",
+      "target": "doc:2830902ab4ed",
       "type": "links"
     },
     {
-      "source": "doc:b12711b67427",
-      "target": "doc:4f87c4c22027",
+      "source": "doc:4a841885a277",
+      "target": "doc:cb47cd9e5498",
       "type": "links"
     },
     {
-      "source": "doc:4f87c4c22027",
-      "target": "doc:1d644792b154",
+      "source": "doc:cb47cd9e5498",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:4f87c4c22027",
-      "target": "doc:b12711b67427",
+      "source": "doc:cb47cd9e5498",
+      "target": "doc:4a841885a277",
       "type": "links"
     },
     {
-      "source": "doc:4f87c4c22027",
-      "target": "doc:995acac72ca0",
+      "source": "doc:cb47cd9e5498",
+      "target": "doc:ccc9df3b926e",
       "type": "links"
     },
     {
-      "source": "doc:995acac72ca0",
-      "target": "doc:1d644792b154",
+      "source": "doc:ccc9df3b926e",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:995acac72ca0",
-      "target": "doc:4f87c4c22027",
+      "source": "doc:ccc9df3b926e",
+      "target": "doc:cb47cd9e5498",
       "type": "links"
     },
     {
-      "source": "doc:995acac72ca0",
-      "target": "doc:013ab411e28e",
+      "source": "doc:ccc9df3b926e",
+      "target": "doc:4fdb7ac46eb8",
       "type": "links"
     },
     {
-      "source": "doc:013ab411e28e",
-      "target": "doc:1d644792b154",
+      "source": "doc:4fdb7ac46eb8",
+      "target": "doc:de430f9af335",
       "type": "links"
     },
     {
-      "source": "doc:013ab411e28e",
-      "target": "doc:995acac72ca0",
+      "source": "doc:4fdb7ac46eb8",
+      "target": "doc:ccc9df3b926e",
       "type": "links"
     },
     {
-      "source": "doc:013ab411e28e",
+      "source": "doc:4fdb7ac46eb8",
       "target": "doc:d7a534f1cc9e",
       "type": "links"
     },
     {
-      "source": "doc:013ab411e28e",
+      "source": "doc:4fdb7ac46eb8",
       "target": "doc:d18b8903fdbb",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:995d988c7256",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:a9558e8ea834",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:de430f9af335",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:cb111cb659e5",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:08efcca9cea0",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:05b495939036",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:2830902ab4ed",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:4a841885a277",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:cb47cd9e5498",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:ccc9df3b926e",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:4fdb7ac46eb8",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:d7a534f1cc9e",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:d18b8903fdbb",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:a8e1c05ed5c2",
+      "type": "links"
+    },
+    {
+      "source": "doc:d494efc8476e",
+      "target": "doc:192c968a378c",
       "type": "links"
     },
     {
@@ -17710,7 +18367,7 @@
     },
     {
       "source": "doc:d7a534f1cc9e",
-      "target": "doc:013ab411e28e",
+      "target": "doc:4fdb7ac46eb8",
       "type": "links"
     },
     {
@@ -17915,7 +18572,7 @@
     },
     {
       "source": "doc:156e8ded2a4b",
-      "target": "doc:1d644792b154",
+      "target": "doc:4fdb7ac46eb8",
       "type": "links"
     },
     {
@@ -18425,12 +19082,12 @@
     },
     {
       "source": "doc:6ba18d2168ad",
-      "target": "doc:f09b39e6b8b0",
+      "target": "doc:f820072a7b92",
       "type": "links"
     },
     {
       "source": "doc:6ba18d2168ad",
-      "target": "doc:f820072a7b92",
+      "target": "doc:ec80d550c63d",
       "type": "links"
     },
     {
@@ -18440,17 +19097,32 @@
     },
     {
       "source": "doc:f0eda89ca7fd",
-      "target": "doc:f09b39e6b8b0",
+      "target": "doc:2a0126c3ce2b",
       "type": "links"
     },
     {
       "source": "doc:f0eda89ca7fd",
-      "target": "doc:2a0126c3ce2b",
+      "target": "doc:2dcb2f9668a4",
+      "type": "links"
+    },
+    {
+      "source": "doc:f0eda89ca7fd",
+      "target": "doc:2264b7d75095",
       "type": "links"
     },
     {
       "source": "doc:2a0126c3ce2b",
       "target": "doc:1e316b6f1efb",
+      "type": "links"
+    },
+    {
+      "source": "doc:2a0126c3ce2b",
+      "target": "doc:6d10aa07a200",
+      "type": "links"
+    },
+    {
+      "source": "doc:2a0126c3ce2b",
+      "target": "doc:6615e876bea8",
       "type": "links"
     },
     {
@@ -18499,6 +19171,11 @@
       "type": "links"
     },
     {
+      "source": "doc:ae99c523b8a9",
+      "target": "doc:303186a36851",
+      "type": "links"
+    },
+    {
       "source": "doc:e74583f4ee11",
       "target": "doc:93f4715ca9ed",
       "type": "links"
@@ -18520,12 +19197,17 @@
     },
     {
       "source": "doc:8b12cf68fc4c",
-      "target": "doc:f09b39e6b8b0",
+      "target": "doc:70a2632ce199",
       "type": "links"
     },
     {
       "source": "doc:8b12cf68fc4c",
-      "target": "doc:70a2632ce199",
+      "target": "doc:0f3fa5473e02",
+      "type": "links"
+    },
+    {
+      "source": "doc:8b12cf68fc4c",
+      "target": "doc:5430f3801e3b",
       "type": "links"
     },
     {
@@ -18579,6 +19261,16 @@
       "type": "links"
     },
     {
+      "source": "doc:4812499775b2",
+      "target": "doc:6d10aa07a200",
+      "type": "links"
+    },
+    {
+      "source": "doc:4812499775b2",
+      "target": "doc:8ef270bace6b",
+      "type": "links"
+    },
+    {
       "source": "doc:92e4ecf1e85e",
       "target": "doc:3ceaee61d6b6",
       "type": "links"
@@ -18586,6 +19278,11 @@
     {
       "source": "doc:92e4ecf1e85e",
       "target": "doc:b4cd6e5b2115",
+      "type": "links"
+    },
+    {
+      "source": "doc:92e4ecf1e85e",
+      "target": "doc:6d10aa07a200",
       "type": "links"
     },
     {
@@ -18604,8 +19301,508 @@
       "type": "links"
     },
     {
-      "source": "doc:b84dbf617059",
-      "target": "doc:f09b39e6b8b0",
+      "source": "doc:b4cd6e5b2115",
+      "target": "doc:6d10aa07a200",
+      "type": "links"
+    },
+    {
+      "source": "doc:6d10aa07a200",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:6d10aa07a200",
+      "target": "doc:2dcb2f9668a4",
+      "type": "links"
+    },
+    {
+      "source": "doc:2dcb2f9668a4",
+      "target": "doc:7258e8285dbe",
+      "type": "links"
+    },
+    {
+      "source": "doc:2dcb2f9668a4",
+      "target": "doc:817123dd3cf5",
+      "type": "links"
+    },
+    {
+      "source": "doc:2dcb2f9668a4",
+      "target": "doc:69bac8b2e27f",
+      "type": "links"
+    },
+    {
+      "source": "doc:2dcb2f9668a4",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:2dcb2f9668a4",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:7258e8285dbe",
+      "target": "doc:f0eda89ca7fd",
+      "type": "links"
+    },
+    {
+      "source": "doc:7258e8285dbe",
+      "target": "doc:817123dd3cf5",
+      "type": "links"
+    },
+    {
+      "source": "doc:7258e8285dbe",
+      "target": "doc:2264b7d75095",
+      "type": "links"
+    },
+    {
+      "source": "doc:817123dd3cf5",
+      "target": "doc:f820072a7b92",
+      "type": "links"
+    },
+    {
+      "source": "doc:817123dd3cf5",
+      "target": "doc:b008e3b55b85",
+      "type": "links"
+    },
+    {
+      "source": "doc:817123dd3cf5",
+      "target": "doc:69bac8b2e27f",
+      "type": "links"
+    },
+    {
+      "source": "doc:69bac8b2e27f",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:6615e876bea8",
+      "target": "doc:0f3fa5473e02",
+      "type": "links"
+    },
+    {
+      "source": "doc:6615e876bea8",
+      "target": "doc:2264b7d75095",
+      "type": "links"
+    },
+    {
+      "source": "doc:0f3fa5473e02",
+      "target": "doc:303186a36851",
+      "type": "links"
+    },
+    {
+      "source": "doc:0f3fa5473e02",
+      "target": "doc:5430f3801e3b",
+      "type": "links"
+    },
+    {
+      "source": "doc:0f3fa5473e02",
+      "target": "doc:e172c0d88f3a",
+      "type": "links"
+    },
+    {
+      "source": "doc:0f3fa5473e02",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:303186a36851",
+      "target": "doc:5430f3801e3b",
+      "type": "links"
+    },
+    {
+      "source": "doc:5430f3801e3b",
+      "target": "doc:93f4715ca9ed",
+      "type": "links"
+    },
+    {
+      "source": "doc:5430f3801e3b",
+      "target": "doc:e172c0d88f3a",
+      "type": "links"
+    },
+    {
+      "source": "doc:e172c0d88f3a",
+      "target": "doc:1a62e4bc04c7",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:fc5940aa2321",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:b9747f5c9b52",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:9c93ab00b47a",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:d0817b8f181c",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:4af486a85c79",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:0a0dbb9ac770",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:8bbc481dda99",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:b1aa209f2606",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:34a0563b839a",
+      "type": "links"
+    },
+    {
+      "source": "doc:1a62e4bc04c7",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:b9747f5c9b52",
+      "target": "doc:9c93ab00b47a",
+      "type": "links"
+    },
+    {
+      "source": "doc:9c93ab00b47a",
+      "target": "doc:ca094a24d549",
+      "type": "links"
+    },
+    {
+      "source": "doc:9c93ab00b47a",
+      "target": "doc:d0817b8f181c",
+      "type": "links"
+    },
+    {
+      "source": "doc:d0817b8f181c",
+      "target": "doc:6d10aa07a200",
+      "type": "links"
+    },
+    {
+      "source": "doc:d0817b8f181c",
+      "target": "doc:4af486a85c79",
+      "type": "links"
+    },
+    {
+      "source": "doc:4af486a85c79",
+      "target": "doc:5430f3801e3b",
+      "type": "links"
+    },
+    {
+      "source": "doc:4af486a85c79",
+      "target": "doc:0a0dbb9ac770",
+      "type": "links"
+    },
+    {
+      "source": "doc:0a0dbb9ac770",
+      "target": "doc:ca094a24d549",
+      "type": "links"
+    },
+    {
+      "source": "doc:0a0dbb9ac770",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:0a0dbb9ac770",
+      "target": "doc:8bbc481dda99",
+      "type": "links"
+    },
+    {
+      "source": "doc:8bbc481dda99",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:8bbc481dda99",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:8bbc481dda99",
+      "target": "doc:303186a36851",
+      "type": "links"
+    },
+    {
+      "source": "doc:8bbc481dda99",
+      "target": "doc:b1aa209f2606",
+      "type": "links"
+    },
+    {
+      "source": "doc:b1aa209f2606",
+      "target": "doc:a8e1c05ed5c2",
+      "type": "links"
+    },
+    {
+      "source": "doc:b1aa209f2606",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:b1aa209f2606",
+      "target": "doc:5430f3801e3b",
+      "type": "links"
+    },
+    {
+      "source": "doc:b1aa209f2606",
+      "target": "doc:34a0563b839a",
+      "type": "links"
+    },
+    {
+      "source": "doc:34a0563b839a",
+      "target": "doc:70a2632ce199",
+      "type": "links"
+    },
+    {
+      "source": "doc:34a0563b839a",
+      "target": "doc:ec80d550c63d",
+      "type": "links"
+    },
+    {
+      "source": "doc:ec80d550c63d",
+      "target": "doc:4d3ba857c72a",
+      "type": "links"
+    },
+    {
+      "source": "doc:ec80d550c63d",
+      "target": "doc:36c4fa328550",
+      "type": "links"
+    },
+    {
+      "source": "doc:ec80d550c63d",
+      "target": "doc:8ef270bace6b",
+      "type": "links"
+    },
+    {
+      "source": "doc:ec80d550c63d",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:4d3ba857c72a",
+      "target": "doc:2a0126c3ce2b",
+      "type": "links"
+    },
+    {
+      "source": "doc:4d3ba857c72a",
+      "target": "doc:36c4fa328550",
+      "type": "links"
+    },
+    {
+      "source": "doc:4d3ba857c72a",
+      "target": "doc:8ef270bace6b",
+      "type": "links"
+    },
+    {
+      "source": "doc:36c4fa328550",
+      "target": "doc:8ef270bace6b",
+      "type": "links"
+    },
+    {
+      "source": "doc:8ef270bace6b",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:8ef270bace6b",
+      "target": "doc:8e7583dbd56c",
+      "type": "links"
+    },
+    {
+      "source": "doc:8e7583dbd56c",
+      "target": "doc:af732f84735d",
+      "type": "links"
+    },
+    {
+      "source": "doc:8e7583dbd56c",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:af732f84735d",
+      "target": "doc:7258e8285dbe",
+      "type": "links"
+    },
+    {
+      "source": "doc:af732f84735d",
+      "target": "doc:2cb5f535c555",
+      "type": "links"
+    },
+    {
+      "source": "doc:2cb5f535c555",
+      "target": "doc:31a61ae6009e",
+      "type": "links"
+    },
+    {
+      "source": "doc:2cb5f535c555",
+      "target": "doc:2dcb2f9668a4",
+      "type": "links"
+    },
+    {
+      "source": "doc:2cb5f535c555",
+      "target": "doc:eebbe3d01c54",
+      "type": "links"
+    },
+    {
+      "source": "doc:2cb5f535c555",
+      "target": "doc:2264b7d75095",
+      "type": "links"
+    },
+    {
+      "source": "doc:2cb5f535c555",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:a4d7bfd3e8d6",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:fc5940aa2321",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:f0eda89ca7fd",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:eebbe3d01c54",
+      "target": "doc:2264b7d75095",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:f0eda89ca7fd",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:2a0126c3ce2b",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:817123dd3cf5",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:6615e876bea8",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:0aa50dad6ef6",
+      "type": "links"
+    },
+    {
+      "source": "doc:2264b7d75095",
+      "target": "doc:2afa087ae2ca",
+      "type": "links"
+    },
+    {
+      "source": "doc:0aa50dad6ef6",
+      "target": "doc:eebbe3d01c54",
+      "type": "links"
+    },
+    {
+      "source": "doc:0aa50dad6ef6",
+      "target": "doc:7ddffeda6bf8",
+      "type": "links"
+    },
+    {
+      "source": "doc:0aa50dad6ef6",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:7ddffeda6bf8",
+      "target": "doc:4812499775b2",
+      "type": "links"
+    },
+    {
+      "source": "doc:7ddffeda6bf8",
+      "target": "doc:6d10aa07a200",
+      "type": "links"
+    },
+    {
+      "source": "doc:7ddffeda6bf8",
+      "target": "doc:4af486a85c79",
+      "type": "links"
+    },
+    {
+      "source": "doc:7ddffeda6bf8",
+      "target": "doc:b1aa209f2606",
+      "type": "links"
+    },
+    {
+      "source": "doc:7ddffeda6bf8",
+      "target": "doc:2afa087ae2ca",
+      "type": "links"
+    },
+    {
+      "source": "doc:2afa087ae2ca",
+      "target": "doc:7cacf7c43dc6",
+      "type": "links"
+    },
+    {
+      "source": "doc:2afa087ae2ca",
+      "target": "doc:192c968a378c",
+      "type": "links"
+    },
+    {
+      "source": "doc:7cacf7c43dc6",
+      "target": "doc:995d988c7256",
+      "type": "links"
+    },
+    {
+      "source": "doc:7cacf7c43dc6",
+      "target": "doc:a8e1c05ed5c2",
+      "type": "links"
+    },
+    {
+      "source": "doc:7cacf7c43dc6",
+      "target": "doc:2cb5f535c555",
+      "type": "links"
+    },
+    {
+      "source": "doc:7cacf7c43dc6",
+      "target": "doc:b84dbf617059",
+      "type": "links"
+    },
+    {
+      "source": "doc:7cacf7c43dc6",
+      "target": "doc:192c968a378c",
       "type": "links"
     },
     {
@@ -18640,6 +19837,46 @@
     },
     {
       "source": "doc:b84dbf617059",
+      "target": "doc:2dcb2f9668a4",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:0f3fa5473e02",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:1a62e4bc04c7",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:ec80d550c63d",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:8e7583dbd56c",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:2cb5f535c555",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:0aa50dad6ef6",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
+      "target": "doc:2afa087ae2ca",
+      "type": "links"
+    },
+    {
+      "source": "doc:b84dbf617059",
       "target": "doc:192c968a378c",
       "type": "links"
     },
@@ -18665,7 +19902,7 @@
     }
   ],
   "stats": {
-    "nodes": 626,
-    "edges": 2625
+    "nodes": 668,
+    "edges": 2800
   }
 }

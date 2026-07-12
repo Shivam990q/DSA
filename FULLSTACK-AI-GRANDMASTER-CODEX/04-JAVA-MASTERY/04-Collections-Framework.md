@@ -2,7 +2,7 @@
 
 > *"Arrays are where you start. Collections are where you live. Pick the wrong one and your O(1) becomes O(n); pick the right one and the code writes itself."*
 
-**Prev:** [`02-OOP-In-Java.md`](./02-OOP-In-Java.md) · **Next:** [`04-Generics-And-Functional-Java.md`](./04-Generics-And-Functional-Java.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`03-OOP-In-Java.md`](./03-OOP-In-Java.md) · **Next:** [`05-Generics-And-Functional.md`](./05-Generics-And-Functional.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -572,4 +572,4 @@ public class PageViewsReport {
 
 ---
 
-**Prev:** [`02-OOP-In-Java.md`](./02-OOP-In-Java.md) · **Next:** [`04-Generics-And-Functional-Java.md`](./04-Generics-And-Functional-Java.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`03-OOP-In-Java.md`](./03-OOP-In-Java.md) · **Next:** [`05-Generics-And-Functional.md`](./05-Generics-And-Functional.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

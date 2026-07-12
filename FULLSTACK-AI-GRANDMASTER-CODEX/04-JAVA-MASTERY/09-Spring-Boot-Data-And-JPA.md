@@ -2,7 +2,7 @@
 
 > *"A web app without a database is a demo. JPA lets you work with Java objects and lets Spring Data write the SQL — so you spend your time on the domain, not on boilerplate queries."*
 
-**Prev:** [`07-Spring-Boot-Essentials.md`](./07-Spring-Boot-Essentials.md) · **Next:** — (end of Java Mastery) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`08-Spring-Boot-Essentials.md`](./08-Spring-Boot-Essentials.md) · **Next:** — (end of Java Mastery) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -632,7 +632,7 @@ class ProductRepositoryTest {
 
 ---
 
-**Prev:** [`07-Spring-Boot-Essentials.md`](./07-Spring-Boot-Essentials.md) · **Next:** — you've finished Java Mastery! · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`08-Spring-Boot-Essentials.md`](./08-Spring-Boot-Essentials.md) · **Next:** — you've finished Java Mastery! · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 

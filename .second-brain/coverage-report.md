@@ -1,9 +1,9 @@
 # 🩺 Coverage & Gap Report (auto-generated)
 
-- Documents: 576
+- Documents: 610
 - Orphans (no inbound links): 0
 - Stubs (<150 words): 11
-- Sections missing 00-Index.md: 5
+- Sections missing 00-Index.md: 6
 - Files with TODO/FIXME/TBD markers: 3
 
 ## Orphan documents (0)
@@ -21,9 +21,10 @@
 - DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/00-Index.md (133 words)
 - DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md (136 words)
 
-## Sections missing an index (5)
+## Sections missing an index (6)
 - DSA-Grandmaster-Codex/MASTER-INDEX.md
 - DSA-Grandmaster-Codex/README.md
+- FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY
 - FULLSTACK-AI-GRANDMASTER-CODEX/README.md
 - PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md
 - PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md

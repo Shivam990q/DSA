@@ -1,4 +1,4 @@
-# 🔗 Broken internal links (261) — auto-generated
+# 🔗 Broken internal links (252) — auto-generated
 
 - `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md` → `../19-TEMPLATES-AND-IMPLEMENTATIONS/segment-tree-lazy.cpp`
 - `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md` → `../19-TEMPLATES-AND-IMPLEMENTATIONS/segment-tree-lazy.cpp`
@@ -252,12 +252,3 @@
 - `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md` → `./08-API-Design-And-Observability.md`
 - `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md` → `./06-CICD-And-Deployment.md`
 - `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md` → `./06-CICD-And-Deployment.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md` → `../10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md` → `../05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md` → `../04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/01-Imperative-and-Procedural.md` → `../06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md` → `../06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md` → `../08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md` → `../04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md` → `./03-Ownership-and-Borrowing.md`
-- `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/02-Garbage-Collection.md` → `./03-Ownership-and-Borrowing.md`

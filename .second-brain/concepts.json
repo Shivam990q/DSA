@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
-  "count": 6144,
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
+  "count": 6420,
   "concepts": [
     {
       "concept": "Complexity",
@@ -2196,6 +2196,20 @@
       "defining": []
     },
     {
+      "concept": "ORIGIN AND PURPOSE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "PROBLEM VOLUME",
       "docs": [
         "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-00-Programming-Foundations.md",
@@ -2220,6 +2234,20 @@
         "DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/01-Number-Theory.md",
         "DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/04-Linear-Algebra.md",
         "DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/06-Modular-Arithmetic.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHERE IT SETS THE DIALS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
       ],
       "defining": []
     },
@@ -2323,6 +2351,18 @@
         "DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/07-Interleaving-String.md",
         "DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/10-Zero-One-Knapsack.md",
         "DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/11-Distinct-Subsequences.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "DEFINING FEATURES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
       ],
       "defining": []
     },
@@ -2449,6 +2489,17 @@
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/03-2D-DP-Grids.md",
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/06-LCS-Family.md",
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "STRENGTHS & WEAKNESSES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
       ],
       "defining": []
     },
@@ -2799,7 +2850,7 @@
       "concept": "Arrays",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md"
       ],
       "defining": []
@@ -2859,6 +2910,15 @@
       "defining": []
     },
     {
+      "concept": "Courses",
+      "docs": [
+        "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md",
+        "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-08-Algorithm-Engineering.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "DEFINITIONS",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md",
@@ -2898,7 +2958,7 @@
       "concept": "Install",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md"
       ],
       "defining": []
@@ -2954,6 +3014,15 @@
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md",
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md",
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "STRENGTHS, WEAKNESSES, WHEN TO USE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
       ],
       "defining": []
     },
@@ -3356,14 +3425,6 @@
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md",
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/08-Suffix-Array.md"
-      ],
-      "defining": []
-    },
-    {
-      "concept": "Courses",
-      "docs": [
-        "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md",
-        "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-08-Algorithm-Engineering.md"
       ],
       "defining": []
     },
@@ -3967,7 +4028,7 @@
       "concept": "OPERATORS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -4082,8 +4143,8 @@
     {
       "concept": "Project setup",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -4279,7 +4340,7 @@
       "concept": "Strings",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -4304,6 +4365,14 @@
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md",
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/09-Off-Campus-And-Referrals-Track.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE BROADER LESSON",
+      "docs": [
+        "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
       ],
       "defining": []
     },
@@ -4360,6 +4429,14 @@
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md",
         "DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE META-LESSONS",
+      "docs": [
+        "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md",
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
       ],
       "defining": []
     },
@@ -4511,14 +4588,14 @@
       "concept": "The problem generics solve",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md",
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
     {
       "concept": "The tools you will actually use",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md"
       ],
       "defining": []
@@ -4656,7 +4733,7 @@
     {
       "concept": "Which version?",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md"
       ],
       "defining": []
@@ -4739,6 +4816,13 @@
       "concept": "\"MECHO\" (IOI 2007) — Binary Search on Answer + BFS",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/03-IOI-Ciphers-Mecho-Cake.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "\"PROPOSITIONS AS TYPES\" IN EVERYDAY CODE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
       ],
       "defining": []
     },
@@ -5541,6 +5625,13 @@
       "defining": []
     },
     {
+      "concept": "*Absolute Zero Absolute Mastery · The \"Nothing Left\" Edition*",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "*The Complete Software Engineer + AI Engineer Operating System*",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/README.md"
@@ -5659,10 +5750,10 @@
     {
       "concept": "01 — Java Fundamentals",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ]
     },
     {
@@ -5826,10 +5917,10 @@
     {
       "concept": "02 — Object-Oriented Programming in Java",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ]
     },
     {
@@ -5996,10 +6087,10 @@
     {
       "concept": "03 — The Collections Framework",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ]
     },
     {
@@ -6030,10 +6121,10 @@
     {
       "concept": "04 — Generics & Functional Java",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ]
     },
     {
@@ -6186,10 +6277,10 @@
     {
       "concept": "05 — Exceptions & I/O",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ]
     },
     {
@@ -6274,10 +6365,10 @@
     {
       "concept": "06 — Concurrency & Multithreading",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ]
     },
     {
@@ -6447,10 +6538,10 @@
     {
       "concept": "07 — Spring Boot Essentials",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ]
     },
     {
@@ -6576,10 +6667,10 @@
     {
       "concept": "08 — Spring Boot Data & JPA",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ]
     },
     {
@@ -6676,9 +6767,86 @@
       "defining": []
     },
     {
+      "concept": "1 Build Tools",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Class Loading",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Classes & Objects",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Classic I/O (java.io)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Exception Handling",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Generics Basics",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "1 Heavy Data Structures",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Lambdas & Functional Interfaces",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Overview & Hierarchy",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Syntax & Structure",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 Thread Basics",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "1 What Java Is",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -6707,6 +6875,13 @@
       "concept": "10 Divide & Conquer",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "10 Special Class Types",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -6807,6 +6982,13 @@
       "concept": "11 Dynamic Programming (Foundational)",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "11 Packages & Organization",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7286,9 +7468,86 @@
       "defining": []
     },
     {
+      "concept": "2 Bounds & Wildcards",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Constructors & Initialization",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "2 Hashing",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 How Java Runs (the mental model)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 JVM Memory",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 List",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Method References",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 NIO.2 (java.nio.file)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Synchronization",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Testing",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Variables & Data Types",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "2 Wrapper Classes",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7502,9 +7761,86 @@
       "defining": []
     },
     {
+      "concept": "3 Encapsulation & Access Control",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Garbage Collection",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 High-Level Concurrency (java.util.concurrent)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Installation & Toolchain",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "3 Linked Lists",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Logging & Packaging",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Numbers & Math",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Serialization",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Set",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Streams API",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Type Conversion & Casting",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "3 Under the Hood & Limits",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7658,6 +7994,41 @@
       "defining": []
     },
     {
+      "concept": "4 Date & Time (java.time)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 Execution & Tooling",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 Map",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 Networking (java.net)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 Operators",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "4 Stacks & Queues",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
@@ -7668,6 +8039,27 @@
       "concept": "4 String Algorithms",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 The Java Memory Model & Modern Threads",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 Your First Programs",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "4 `static`",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7791,9 +8183,44 @@
       "defining": []
     },
     {
+      "concept": "5 Extensibility & Native Interop",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "5 Game Theory & Randomization",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "5 Inheritance",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "5 Optional",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "5 Queue & Deque",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "5 Strings",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7868,6 +8295,34 @@
       "defining": []
     },
     {
+      "concept": "6 Input & Output Basics",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "6 Polymorphism",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "6 Regular Expressions",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "6 Sorting & Ordering",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "6 — API & Edge",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md"
@@ -7896,9 +8351,37 @@
       "defining": []
     },
     {
+      "concept": "7 Abstraction",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "7 Assertions",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "7 Control Flow",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "7 Sorting & Searching",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "7 Utilities & Immutability",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7931,9 +8414,30 @@
       "defining": []
     },
     {
+      "concept": "8 Arrays",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "8 Internationalization (i18n) & Formatting",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "8 Recursion & Backtracking",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "8 The `Object` Class",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7966,9 +8470,23 @@
       "defining": []
     },
     {
+      "concept": "9 Complete Keyword & Modifier Reference",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "9 Greedy",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "9 Nested & Anonymous Classes",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -7996,7 +8514,7 @@
     {
       "concept": "@OneToMany / @ManyToOne — the most common pairing",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -8024,21 +8542,21 @@
     {
       "concept": "A COHESIVE EXAMPLE — A SMALL DOMAIN MODEL",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
     {
       "concept": "A COMPLETE CRUD API",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
     {
       "concept": "A COMPLETE EXAMPLE — A ROBUST FILE PROCESSOR",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -8059,7 +8577,7 @@
     {
       "concept": "A COMPLETE EXAMPLE — PARALLEL DOWNLOADER",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -8073,7 +8591,7 @@
     {
       "concept": "A COMPLETE FUNCTIONAL EXAMPLE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -8094,7 +8612,14 @@
     {
       "concept": "A COMPLETE LITTLE PROGRAM",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "A COMPLETE MINI FRONT END (Python)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
       ],
       "defining": []
     },
@@ -8199,7 +8724,7 @@
     {
       "concept": "A REALISTIC EXAMPLE — A TINY ANALYTICS PASS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -8484,6 +9009,13 @@
       "defining": []
     },
     {
+      "concept": "AHEAD-OF-TIME vs JUST-IN-TIME OPTIMIZATION",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "AHO-CORASICK + DP (the advanced CP use)",
       "docs": [
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/06-Aho-Corasick.md"
@@ -8647,7 +9179,7 @@
     {
       "concept": "ANATOMY OF A JAVA PROGRAM",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -8892,7 +9424,7 @@
     {
       "concept": "ATOMICS AND CONCURRENT COLLECTIONS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -8948,7 +9480,7 @@
     {
       "concept": "AUTOBOXING — THE HIDDEN COST",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -9002,6 +9534,13 @@
       "defining": []
     },
     {
+      "concept": "AXIOMATIC SEMANTICS — MEANING AS WHAT YOU CAN PROVE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Abstraction & Decomposition — The Two Superpowers",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md"
@@ -9030,6 +9569,15 @@
         "DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Actors, CSP, and STM",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ]
     },
     {
       "concept": "Acyclic case",
@@ -11640,14 +12188,14 @@
     {
       "concept": "ArrayList vs LinkedList — the complexity that decides",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
     {
       "concept": "ArrayList — your default list",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -11708,6 +12256,13 @@
       "concept": "Async with `createAsyncThunk`",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Async/await — sequential-looking async",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "defining": []
     },
@@ -11802,7 +12357,7 @@
     {
       "concept": "Atomic variables — lock-free counters",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -11982,6 +12537,20 @@
       "defining": []
     },
     {
+      "concept": "BETTING ON THE HARD PATH — RUST'S BORROW CHECKER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "BEYOND OWNERSHIP — RUST'S OTHER STRENGTHS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "BFS & DFS — The Two Universal Traversals",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/02-BFS-and-DFS.md"
@@ -12103,6 +12672,13 @@
       "defining": []
     },
     {
+      "concept": "BORROWING — ACCESS WITHOUT OWNERSHIP",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "BORŮVKA'S ALGORITHM",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md"
@@ -12126,7 +12702,7 @@
     {
       "concept": "BOUNDED TYPE PARAMETERS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -12141,6 +12717,13 @@
       "concept": "BRANCHING STRATEGIES",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "BREAKING THE WORLD — PYTHON 2 3",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
       ],
       "defining": []
     },
@@ -12217,7 +12800,7 @@
     {
       "concept": "BUILDING A REST API WITH @RestController",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -12274,6 +12857,13 @@
       "concept": "BY TOPIC — DEEP DIVES",
       "docs": [
         "DSA-Grandmaster-Codex/MASTER-INDEX.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "BYTECODE VIRTUAL MACHINES — THE WORKHORSE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
       ],
       "defining": []
     },
@@ -12448,7 +13038,14 @@
     {
       "concept": "Big-O cheat sheet",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Big-step (natural) — straight to the final result",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
       ],
       "defining": []
     },
@@ -12655,6 +13252,20 @@
       "defining": []
     },
     {
+      "concept": "Booleans (Church encoding)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Bottom-up (LR, LALR)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Bottom-up (tabulation)",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md"
@@ -12782,6 +13393,15 @@
       "defining": []
     },
     {
+      "concept": "Build Your Own Language (Project)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ]
+    },
+    {
       "concept": "Build: O(n log V), Memory: O(n log V).",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md"
@@ -12838,6 +13458,15 @@
       "defining": []
     },
     {
+      "concept": "C — The Portable Assembler",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md"
+      ]
+    },
+    {
       "concept": "C++",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md"
@@ -12857,6 +13486,15 @@
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "C++ — Zero-Cost Abstraction",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ]
     },
     {
       "concept": "C/C++",
@@ -12897,6 +13535,13 @@
       "concept": "CALIBRATION",
       "docs": [
         "DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/01-FAANG-Interview-Simulation.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "CALLBACKS PROMISES ASYNC/AWAIT (the evolution)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "defining": []
     },
@@ -12992,6 +13637,13 @@
       "defining": []
     },
     {
+      "concept": "CHOOSING A MODEL — THE DECISION TABLE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "CHOOSING A MODULE SYSTEM TODAY",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md"
@@ -13022,7 +13674,7 @@
     {
       "concept": "CHOOSING THE RIGHT COLLECTION — DECISION GUIDE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -13036,7 +13688,7 @@
     {
       "concept": "CLASSES AND OBJECTS — THE CORE IDEA",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -13120,7 +13772,7 @@
     {
       "concept": "CLASSIC STREAMS — BYTES vs CHARACTERS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -13198,6 +13850,13 @@
       "concept": "CODE (FFT skeleton)",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/06-The-Story-of-FFT.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "CODE GENERATION — IR TO MACHINE CODE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -13370,9 +14029,23 @@
       "defining": []
     },
     {
+      "concept": "COMPILERS & INTERPRETERS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "COMPILERS / INTERPRETERS",
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/07-Tools-And-IDEs.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "COMPLETENESS PROMISE & SCOPE",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -13519,7 +14192,7 @@
     {
       "concept": "CONFIGURATION — application.properties",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -13631,7 +14304,7 @@
     {
       "concept": "CONSTRUCTORS — CONTROLLED CREATION",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -13687,7 +14360,7 @@
     {
       "concept": "CONTROL FLOW",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -13737,6 +14410,13 @@
       "concept": "COOKIE SECURITY FLAGS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "COOPERATIVE vs PREEMPTIVE (the fundamental difference)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "defining": []
     },
@@ -13920,7 +14600,7 @@
     {
       "concept": "CREATING THREADS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -14000,6 +14680,13 @@
       "concept": "CSES completion order",
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "CSP — COMMUNICATING SEQUENTIAL PROCESSES (Go's model)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
       ],
       "defining": []
     },
@@ -14134,7 +14821,7 @@
     {
       "concept": "CUSTOM EXCEPTIONS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -14251,6 +14938,13 @@
       "defining": []
     },
     {
+      "concept": "Callbacks — the beginning (and \"callback hell\")",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Candidate key",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md"
@@ -14279,6 +14973,15 @@
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Case Studies — Learning from History's Decisions",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md"
+      ]
     },
     {
       "concept": "Case Studies — Legendary Problems Dissected",
@@ -14444,7 +15147,7 @@
     {
       "concept": "Checked vs unchecked — the crucial distinction",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -14481,7 +15184,7 @@
     {
       "concept": "Choosing a pool",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -14576,6 +15279,15 @@
         "DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Code Generation and Optimization (The Back End)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ]
     },
     {
       "concept": "Code repo (for power users)",
@@ -14681,7 +15393,7 @@
     {
       "concept": "Collectors — gathering results",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -14770,6 +15482,13 @@
       "concept": "Common GFs",
       "docs": [
         "DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Common IR forms",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
       ],
       "defining": []
     },
@@ -14978,9 +15697,18 @@
       "defining": []
     },
     {
+      "concept": "Compilers and Interpreters",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md"
+      ]
+    },
+    {
       "concept": "CompletableFuture — COMPOSABLE ASYNC",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -15179,6 +15907,22 @@
       "defining": []
     },
     {
+      "concept": "Concurrency Models",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md"
+      ]
+    },
+    {
+      "concept": "Concurrency — the headline",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Concurrent and Reactive Programming",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md"
@@ -15190,7 +15934,7 @@
     {
       "concept": "Concurrent collections — thread-safe by design",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -15204,7 +15948,7 @@
     {
       "concept": "Conditionals",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -15691,7 +16435,7 @@
     {
       "concept": "Custom queries with @Query",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -15733,6 +16477,13 @@
       "defining": []
     },
     {
+      "concept": "DATA PARALLELISM — A DIFFERENT AXIS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "DATA TYPES — THE FULL TOUR (POSTGRES)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md"
@@ -15765,7 +16516,7 @@
     {
       "concept": "DEADLOCK AND OTHER HAZARDS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -15864,6 +16615,13 @@
       "concept": "DENORMALIZATION — BREAKING THE RULES, ON PURPOSE",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "DENOTATIONAL SEMANTICS — MEANING AS MATHEMATICAL OBJECTS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
       ],
       "defining": []
     },
@@ -16151,6 +16909,13 @@
       "concept": "DOCUMENTATION — OPENAPI / SWAGGER",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "DOMAIN-SPECIFIC LANGUAGES (DSLs)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
       ],
       "defining": []
     },
@@ -16446,6 +17211,13 @@
       "concept": "Days 61-90: Polish + Simulate",
       "docs": [
         "DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/06-Interview-Training-System.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Deadlock",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
       ],
       "defining": []
     },
@@ -18471,6 +19243,13 @@
       "defining": []
     },
     {
+      "concept": "ENCODING EVERYTHING FROM NOTHING",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "ENERGY > TIME",
       "docs": [
         "DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md"
@@ -18480,7 +19259,7 @@
     {
       "concept": "ENTITIES — MAPPING OBJECTS TO TABLES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -18523,6 +19302,13 @@
       "concept": "ERROR BOUNDARIES — CATCHING RENDER CRASHES",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "ERROR HANDLING — THE MARK OF A GOOD COMPILER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
       ],
       "defining": []
     },
@@ -18720,7 +19506,7 @@
     {
       "concept": "EXCEPTION ANTI-PATTERNS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -18734,7 +19520,7 @@
     {
       "concept": "EXECUTORSERVICE — DON'T MANAGE THREADS BY HAND",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -18804,7 +19590,7 @@
     {
       "concept": "EXPLICIT LOCKS — WHEN synchronized ISN'T ENOUGH",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -19329,7 +20115,7 @@
     {
       "concept": "Exception chaining — preserve the cause",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -19406,6 +20192,13 @@
       "defining": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md"
       ]
+    },
+    {
+      "concept": "External DSLs — their own syntax, parsed by a tool",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
     },
     {
       "concept": "Extra defense",
@@ -19656,6 +20449,13 @@
       "defining": []
     },
     {
+      "concept": "FOUNDATIONS & GENERAL PL",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "FP HAS QUIETLY WON (in every language)",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md"
@@ -19737,7 +20537,14 @@
     {
       "concept": "FUNCTIONAL INTERFACES AND LAMBDAS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "FUNCTIONAL PROGRAMMING & LAMBDA CALCULUS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
       ],
       "defining": []
     },
@@ -20290,7 +21097,7 @@
     {
       "concept": "GENERIC CLASSES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -20304,7 +21111,7 @@
     {
       "concept": "GENERIC METHODS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -20332,7 +21139,7 @@
     {
       "concept": "GLOBAL EXCEPTION HANDLING",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -20382,6 +21189,13 @@
       "concept": "GREEDY PROBLEM CATEGORIES",
       "docs": [
         "DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "GREEN THREADS / GOROUTINES — ASYNC WITHOUT THE `await`",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "defining": []
     },
@@ -20636,6 +21450,15 @@
       ],
       "defining": [
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/02-Global-Big-Tech-Track.md"
+      ]
+    },
+    {
+      "concept": "Go — Radical Simplicity",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
       ]
     },
     {
@@ -20976,6 +21799,13 @@
       "defining": []
     },
     {
+      "concept": "HOW ASYNC/AWAIT ACTUALLY WORKS (the magic revealed)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "HOW CSS IS APPLIED",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md"
@@ -21014,6 +21844,13 @@
       "concept": "HOW THE ENGINE WORKS: UNIFICATION + BACKTRACKING",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/04-Logic-and-Declarative.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "HOW THEY RELATE AND WHY YOU CARE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
       ],
       "defining": []
     },
@@ -21144,6 +21981,13 @@
       "defining": []
     },
     {
+      "concept": "HOW TO USE THIS SECTION",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "HOW TO USE THIS UNIVERSE",
       "docs": [
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/00-Index.md"
@@ -21175,6 +22019,13 @@
       "concept": "HOW TYPESCRIPT WORKS — THE MENTAL MODEL",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "HOW WE PROCEED (the method)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -21394,7 +22245,7 @@
     {
       "concept": "HashMap vs LinkedHashMap vs TreeMap",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -21548,6 +22399,15 @@
       "defining": []
     },
     {
+      "concept": "How to Design a Language",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
+      ]
+    },
+    {
       "concept": "How to Read a Problem — The Forensic Discipline",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md"
@@ -21581,6 +22441,13 @@
       "concept": "How to prove a greedy is correct",
       "docs": [
         "DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/15-Greedy/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "How to read a language file",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md"
       ],
       "defining": []
     },
@@ -21777,7 +22644,7 @@
     {
       "concept": "INPUT AND OUTPUT",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -21833,7 +22700,7 @@
     {
       "concept": "INTERFACES vs ABSTRACT CLASSES — THE BIG DECISION",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -21841,6 +22708,13 @@
       "concept": "INTERFACES vs TYPE ALIASES",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "INTERMEDIATE REPRESENTATIONS (IR)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
       ],
       "defining": []
     },
@@ -21924,7 +22798,7 @@
     {
       "concept": "INVERSION OF CONTROL & DEPENDENCY INJECTION — THE CORE IDEA",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -22016,7 +22890,7 @@
     {
       "concept": "ITERATORS AND SAFE REMOVAL",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -22220,7 +23094,7 @@
     {
       "concept": "Input with Scanner",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -22244,6 +23118,20 @@
       "concept": "Inspecting and setting prototypes (modern API)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Instruction scheduling",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Instruction selection",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -22311,6 +23199,22 @@
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Internal (embedded) DSLs — a fluent API inside a host language",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Interpreters, VMs, and JIT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ]
     },
     {
       "concept": "Intersection (`&`) — \"all of these combined\"",
@@ -22462,9 +23366,32 @@
       "defining": []
     },
     {
+      "concept": "JAVA MASTERY — Section 04",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
+      ],
+      "defining": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
+      ]
+    },
+    {
+      "concept": "JAVASCRIPT'S DEFINING FEATURES (AND WARTS)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "JEST / VITEST — THE TOOLKIT",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "JIT costs",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
       ],
       "defining": []
     },
@@ -22525,6 +23452,13 @@
       "defining": []
     },
     {
+      "concept": "JUST-IN-TIME (JIT) COMPILATION — THE BEST OF BOTH",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "JWT pitfalls — read carefully",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md"
@@ -22548,10 +23482,10 @@
     {
       "concept": "Java Mastery",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md"
       ],
       "defining": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md"
       ]
     },
     {
@@ -22569,6 +23503,15 @@
       "defining": []
     },
     {
+      "concept": "Java — The Enterprise Workhorse",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
+      ]
+    },
+    {
       "concept": "JavaScript Fundamentals",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md"
@@ -22584,6 +23527,15 @@
       ],
       "defining": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/00-Index.md"
+      ]
+    },
+    {
+      "concept": "JavaScript and TypeScript — The Language of the Web",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
       ]
     },
     {
@@ -22985,6 +23937,13 @@
       "defining": []
     },
     {
+      "concept": "LANGUAGE-SPECIFIC DEEP DIVES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "LARGEST RECTANGLE IN HISTOGRAM (the monotonic stack legend)",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md"
@@ -23037,6 +23996,13 @@
       "concept": "LCS — the canonical 2D DP",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/06-LCS-Family.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "LEARN FROM CLASSIC MISTAKES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
       ],
       "defining": []
     },
@@ -23279,6 +24245,13 @@
       "defining": []
     },
     {
+      "concept": "LEXICAL ANALYSIS (THE LEXER)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "LEXICOGRAPHICALLY SMALLEST TOPO ORDER",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/03-Topological-Sort.md"
@@ -23296,6 +24269,13 @@
       "concept": "LIFETIME — WHEN A BINDING LIVES AND DIES",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "LIFETIMES — PROVING REFERENCES DON'T DANGLE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
       ],
       "defining": []
     },
@@ -23393,7 +24373,14 @@
     {
       "concept": "LIST — ORDERED, INDEXED, ALLOWS DUPLICATES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "LLVM — THE IR THAT ATE THE WORLD",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
       ],
       "defining": []
     },
@@ -23489,6 +24476,13 @@
       "defining": []
     },
     {
+      "concept": "LOWERING — CROSSING ABSTRACTION LEVELS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "LRU CACHE (the design legend)",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md"
@@ -23566,6 +24560,15 @@
         "DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Language Design — Becoming an Inventor",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md"
+      ]
     },
     {
       "concept": "Language Foundations",
@@ -23704,6 +24707,15 @@
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Legendary Language Decisions",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
+      ]
     },
     {
       "concept": "Legendary Patterns — Compendium of Famous Problems",
@@ -24005,6 +25017,15 @@
       "defining": []
     },
     {
+      "concept": "Lexing and Parsing (The Front End)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ]
+    },
+    {
       "concept": "Li Chao Tree",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md"
@@ -24115,7 +25136,7 @@
     {
       "concept": "LinkedList — doubly-linked nodes",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -24413,7 +25434,7 @@
     {
       "concept": "Loops",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -24473,6 +25494,13 @@
       ]
     },
     {
+      "concept": "MACROS — CODE THAT GENERATES CODE AT COMPILE TIME",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "MANAGING THE EMOTIONAL RESERVOIR",
       "docs": [
         "DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md"
@@ -24482,7 +25510,7 @@
     {
       "concept": "MAP — KEY VALUE LOOKUPS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -24622,6 +25650,13 @@
       "defining": []
     },
     {
+      "concept": "MEMORY, RUNTIMES & CONCURRENCY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "MENTAL MODEL FROM TARJAN",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md"
@@ -24654,14 +25689,14 @@
     {
       "concept": "METHOD REFERENCES — LAMBDAS, SHORTER",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
     {
       "concept": "METHODS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -24820,6 +25855,13 @@
       "defining": []
     },
     {
+      "concept": "MONADS — THE INFAMOUS CONCEPT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "MONGODB — THE 30,000-FOOT VIEW",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md"
@@ -24858,6 +25900,13 @@
       "concept": "MONOTONICITY DISCOVERY",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "MOVE SEMANTICS — TRANSFERRING OWNERSHIP",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
       ],
       "defining": []
     },
@@ -24939,9 +25988,18 @@
       "defining": []
     },
     {
+      "concept": "Macros, Reflection, and DSLs",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ]
+    },
+    {
       "concept": "Make your own class auto-closeable",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -25363,6 +26421,15 @@
       ]
     },
     {
+      "concept": "Metaprogramming — Programs That Write Programs",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md"
+      ]
+    },
+    {
       "concept": "Method 1: **Topical immersion**",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md"
@@ -25634,6 +26701,13 @@
       "concept": "Modern alternative",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Modern hygienic macros — Rust",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
       ],
       "defining": []
     },
@@ -26671,7 +27745,7 @@
     {
       "concept": "Multiple and multi-catch",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -26723,6 +27797,13 @@
       "concept": "Mutating methods (change the original array)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Mutex (mutual exclusion lock)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
       ],
       "defining": []
     },
@@ -27232,6 +28313,13 @@
       "defining": []
     },
     {
+      "concept": "Numbers (Church numerals)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Numeric",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md"
@@ -27346,6 +28434,13 @@
       "defining": []
     },
     {
+      "concept": "OPERATIONAL SEMANTICS — MEANING AS EXECUTION STEPS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "OPERATIONS COMPLEXITY",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md"
@@ -27418,7 +28513,7 @@
     {
       "concept": "OPTIONAL — TAMING NULL",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -27468,6 +28563,13 @@
       "concept": "OTHER INDEX TYPES (BEYOND B-TREE)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "OTHER INSTRUCTIVE STORIES (briefly)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
       ],
       "defining": []
     },
@@ -27701,6 +28803,15 @@
       ]
     },
     {
+      "concept": "Operational and Denotational Semantics",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
+      ]
+    },
+    {
       "concept": "Operations & complexity in C++ string",
       "docs": [
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md"
@@ -27917,6 +29028,13 @@
       "defining": []
     },
     {
+      "concept": "Other lock pathologies",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Other methods you'll meet",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md"
@@ -27924,9 +29042,30 @@
       "defining": []
     },
     {
+      "concept": "Other pillars",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Other primitives",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Other traits",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Output",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -27936,6 +29075,15 @@
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Ownership and Borrowing",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
+      ]
     },
     {
       "concept": "PACELC — the follow-up",
@@ -27975,7 +29123,7 @@
     {
       "concept": "PAGINATION AND SORTING",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -27990,6 +29138,13 @@
       "concept": "PALINDROMIC SUBSEQUENCE DP",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PAPERS & ONGOING",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
       ],
       "defining": []
     },
@@ -28169,6 +29324,13 @@
       "defining": []
     },
     {
+      "concept": "PHASE 0 — SETUP & MENTAL MODEL",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "PHASE 1 — FOUNDATIONS (Steps 1-4) · ~2 weeks",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md"
@@ -28176,9 +29338,51 @@
       "defining": []
     },
     {
+      "concept": "PHASE 1 — LANGUAGE FUNDAMENTALS",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 10 — MODERN JAVA (8 21+)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 11 — BUILD, TEST & TOOLING",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 12 — BEST PRACTICES & DESIGN",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 13 — BEYOND CORE (BRIDGES)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "PHASE 1: FOUNDATION (Months 1-3)",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 2 — OBJECT-ORIENTED JAVA",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -28197,6 +29401,13 @@
       "defining": []
     },
     {
+      "concept": "PHASE 3 — CORE APIs & EXCEPTIONS",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "PHASE 3 — DYNAMIC PROGRAMMING (Steps 17-20) · ~3 weeks",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md"
@@ -28207,6 +29418,13 @@
       "concept": "PHASE 3: POLISH (Months 7-9)",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 4 — GENERICS",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -28225,6 +29443,13 @@
       "defining": []
     },
     {
+      "concept": "PHASE 5 — COLLECTIONS FRAMEWORK",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "PHASE 5 — TIER 3 EXPERT (Steps 27-28) · ongoing",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md"
@@ -28235,6 +29460,27 @@
       "concept": "PHASE 6 — BEYOND DSA (Steps 29-30) · parallel with job hunt",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 7 — I/O, NIO & NETWORKING",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 8 — CONCURRENCY & MULTITHREADING",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PHASE 9 — JVM INTERNALS & PERFORMANCE",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -28911,6 +30157,13 @@
       "concept": "PUTTING IT ALL TOGETHER — A URL BECOMES A PAGE",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "PUTTING IT TOGETHER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
       ],
       "defining": []
     },
@@ -29751,28 +31004,28 @@
     {
       "concept": "Pillar 1 — ENCAPSULATION: hide the data, expose a contract",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
     {
       "concept": "Pillar 2 — INHERITANCE: reuse and specialize",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
     {
       "concept": "Pillar 3 — POLYMORPHISM: one interface, many forms",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
     {
       "concept": "Pillar 4 — ABSTRACTION: model the essential, hide the rest",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -30052,7 +31305,7 @@
     {
       "concept": "PriorityQueue — a binary heap",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -30250,6 +31503,13 @@
       "defining": []
     },
     {
+      "concept": "Promises/Futures — a value that will exist later",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Proof Construction — Conviction without Doubt",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/09-Proof-Construction.md"
@@ -30434,6 +31694,15 @@
       "defining": []
     },
     {
+      "concept": "Python — Readability and the Language of Data",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
+      ]
+    },
+    {
       "concept": "Q1: **WHAT problem does it solve?** (the *purpose*)",
       "docs": [
         "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md"
@@ -30541,7 +31810,7 @@
     {
       "concept": "QUEUE AND DEQUE — FIFO, LIFO, AND PRIORITIES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -30627,7 +31896,7 @@
     {
       "concept": "Queue / Deque with ArrayDeque",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -30677,6 +31946,13 @@
       "concept": "RABIN-KARP VS KMP/Z",
       "docs": [
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/05-Rabin-Karp.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "RAII — the great idea",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
       ],
       "defining": []
     },
@@ -30774,7 +32050,7 @@
     {
       "concept": "READING AND WRITING FILES (modern NIO)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -30961,6 +32237,13 @@
       "defining": []
     },
     {
+      "concept": "REFLECTION — INSPECTING PROGRAMS AT RUN TIME",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "REFLOW AND REPAINT — THE PERFORMANCE CORE",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md"
@@ -30985,6 +32268,13 @@
       "concept": "REGULAR CONTESTS (weekly/biweekly)",
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/08-Contest-Calendar.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "RELATED (within this codex and its siblings)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
       ],
       "defining": []
     },
@@ -31040,7 +32330,7 @@
     {
       "concept": "RELATIONSHIPS — THE HEART OF RELATIONAL DATA",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -31068,7 +32358,7 @@
     {
       "concept": "REPOSITORIES — CRUD FOR FREE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -31526,6 +32816,13 @@
       "defining": []
     },
     {
+      "concept": "Recursion (the Y combinator)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Recursion Thinking — The Self-Similar Mind",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/04-Recursion-Thinking.md"
@@ -31597,7 +32894,7 @@
     {
       "concept": "Reference types",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -31619,6 +32916,13 @@
       "concept": "Regex (Postgres)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Register allocation",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -31754,6 +33058,15 @@
       ],
       "defining": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md"
+      ]
+    },
+    {
+      "concept": "Resources and References",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md"
       ]
     },
     {
@@ -32062,7 +33375,7 @@
     {
       "concept": "Runnable (preferred) and Thread",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -32072,6 +33385,15 @@
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Rust — Safety and Speed Without Compromise",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ]
     },
     {
       "concept": "SAFETY FIRST (read this)",
@@ -32167,7 +33489,7 @@
     {
       "concept": "SCOPE, COMMENTS, AND STYLE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -32244,7 +33566,7 @@
     {
       "concept": "SEEDING DATA AND VERIFYING",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -32280,6 +33602,13 @@
       "concept": "SELF-HOSTING",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "SEMANTIC ANALYSIS — CHECKING MEANING",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
       ],
       "defining": []
     },
@@ -32356,7 +33685,7 @@
     {
       "concept": "SET — NO DUPLICATES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -32405,7 +33734,7 @@
     {
       "concept": "SETUP — GET A WORKING JDK",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md"
       ],
       "defining": []
     },
@@ -32448,6 +33777,13 @@
       "concept": "SHADOWING, HOISTING, AND OTHER SCOPE GOTCHAS",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "SHIPPED IN 10 DAYS — JAVASCRIPT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
       ],
       "defining": []
     },
@@ -32539,6 +33875,13 @@
       "concept": "SNIPPET MANAGEMENT",
       "docs": [
         "DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/11-Template-Engineering.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "SOFTWARE TRANSACTIONAL MEMORY (STM)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
       ],
       "defining": []
     },
@@ -32740,6 +34083,13 @@
       "defining": []
     },
     {
+      "concept": "STAGE 1 — THE LEXER (text tokens)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "STAGE 1: APPLICATION",
       "docs": [
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md"
@@ -32754,9 +34104,23 @@
       "defining": []
     },
     {
+      "concept": "STAGE 2 — THE PARSER (tokens AST)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "STAGE 2: RECRUITER SCREEN",
       "docs": [
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "STAGE 3 — THE EVALUATOR (walk the AST)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
       ],
       "defining": []
     },
@@ -32799,6 +34163,13 @@
       "concept": "STAR Method",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "START WITH PURPOSE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
       ],
       "defining": []
     },
@@ -33006,13 +34377,6 @@
       "defining": []
     },
     {
-      "concept": "STRENGTHS, WEAKNESSES, WHEN TO USE",
-      "docs": [
-        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md"
-      ],
-      "defining": []
-    },
-    {
       "concept": "STRESS TESTING (THE MURDER WEAPON)",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md"
@@ -33183,7 +34547,7 @@
     {
       "concept": "SWITCHING TO A REAL DATABASE (PostgreSQL)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -33195,9 +34559,30 @@
       "defining": []
     },
     {
+      "concept": "SYNCHRONIZATION PRIMITIVES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "SYNTACTIC ANALYSIS (THE PARSER)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "SYNTACTIC SUGAR — SAME MEANING, NICER FORM",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "SYNTAX DESIGN PRINCIPLES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
       ],
       "defining": []
     },
@@ -33392,11 +34777,29 @@
       "defining": []
     },
     {
+      "concept": "Semantic Analysis and Intermediate Representations",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
+      ]
+    },
+    {
       "concept": "Semantic vs non-semantic — the contrast",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md"
       ],
       "defining": []
+    },
+    {
+      "concept": "Semantics and Theory — The Mathematics of Meaning",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md"
+      ]
     },
     {
       "concept": "Sequelize (older, batteries-included ORM)",
@@ -33491,7 +34894,7 @@
     {
       "concept": "Set operations (union, intersection, difference)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -33714,6 +35117,13 @@
       "concept": "Sliding window aggregates",
       "docs": [
         "DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Small-step (structural) — one tiny step at a time",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
       ],
       "defining": []
     },
@@ -34538,7 +35948,7 @@
     {
       "concept": "Streaming a large file lazily",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -34915,6 +36325,13 @@
       "defining": []
     },
     {
+      "concept": "Syntactic (hygienic) macros — Lisp's superpower",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Syntax vs Semantics",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md"
@@ -35067,7 +36484,7 @@
     {
       "concept": "TESTING A CONTROLLER",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -35457,6 +36874,13 @@
       "defining": []
     },
     {
+      "concept": "THE ACTOR MODEL — SHARE NOTHING, MESSAGE EVERYTHING",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE ADVERSARY ARGUMENT — A WORKED EXAMPLE",
       "docs": [
         "DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md"
@@ -35569,6 +36993,13 @@
       "defining": []
     },
     {
+      "concept": "THE AST — DESIGNING THE TREE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE ASYNC REVOLUTION",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md"
@@ -35653,6 +37084,13 @@
       "defining": []
     },
     {
+      "concept": "THE BILLION-DOLLAR MISTAKE — `null`",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE BINARY TRIE (deep dive)",
       "docs": [
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md"
@@ -35698,13 +37136,6 @@
       "concept": "THE BRIDGE",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/09-System-Design-DSA-Bridge.md"
-      ],
-      "defining": []
-    },
-    {
-      "concept": "THE BROADER LESSON",
-      "docs": [
-        "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md"
       ],
       "defining": []
     },
@@ -35961,6 +37392,15 @@
       "defining": []
     },
     {
+      "concept": "THE COMPLETE JAVA TREE — \"Nothing Left\" Edition",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ]
+    },
+    {
       "concept": "THE COMPLETE PREP ECOSYSTEM (Career & Resources)",
       "docs": [
         "DSA-Grandmaster-Codex/MASTER-INDEX.md"
@@ -35978,6 +37418,13 @@
       "concept": "THE COMPLETE STRUCTURE LIST (53 structures)",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE COMPLEXITY PROBLEM",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
       ],
       "defining": []
     },
@@ -36143,9 +37590,16 @@
       "defining": []
     },
     {
+      "concept": "THE CORE INNOVATION: OWNERSHIP (recap)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE CORE PROBLEM — RACE CONDITIONS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -36174,6 +37628,13 @@
       "concept": "THE COST OF EVERY ABSTRACTION (a catalog)",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE COURSE — CHAPTERS",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
       ],
       "defining": []
     },
@@ -36230,6 +37691,13 @@
       "concept": "THE CURATED LISTS (in order)",
       "docs": [
         "DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/03-LeetCode-Strategy.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE CURRY–HOWARD CORRESPONDENCE — THE GREAT IDEA",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
       ],
       "defining": []
     },
@@ -36311,6 +37779,13 @@
       "defining": []
     },
     {
+      "concept": "THE DATA RACE — THE ORIGINAL SIN",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE DATA ROUTER — LOADERS & ACTIONS (v6.4+)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md"
@@ -36370,6 +37845,13 @@
       "concept": "THE DERIVED PROBLEMS",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/04-Knapsack-Family.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE DESIGN DECISIONS (the checklist)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
       ],
       "defining": []
     },
@@ -36489,6 +37971,13 @@
       "concept": "THE DUALITY",
       "docs": [
         "DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/07-Voronoi-Delaunay.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE ECOSYSTEM (blessing and curse)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
       ],
       "defining": []
     },
@@ -36640,6 +38129,13 @@
       "defining": []
     },
     {
+      "concept": "THE EVENT LOOP — THE ENGINE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE EXAMPLE-VERIFICATION DRILL",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md"
@@ -36656,7 +38152,7 @@
     {
       "concept": "THE EXCEPTION HIERARCHY",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -36692,6 +38188,13 @@
       "concept": "THE FAILURE LOG",
       "docs": [
         "DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE FEATURE-CREEP TRAP",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
       ],
       "defining": []
     },
@@ -36964,7 +38467,7 @@
     {
       "concept": "THE FOUR PILLARS OF OOP",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -37109,6 +38612,13 @@
       "defining": []
     },
     {
+      "concept": "THE GIL — A PRAGMATIC SHORTCUT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE GIT MENTAL MODEL — SNAPSHOTS, NOT DIFFS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md"
@@ -37249,6 +38759,13 @@
       "defining": []
     },
     {
+      "concept": "THE HIERARCHY OF TYPE-THEORETIC POWER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE HIRING FUNNEL (quant/HFT)",
       "docs": [
         "DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/06-Fintech-And-Trading-Track.md"
@@ -37270,6 +38787,13 @@
       "defining": []
     },
     {
+      "concept": "THE HONEST DIFFICULTY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE HONEST WEIGHTAGE",
       "docs": [
         "DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/03-FAANG-Reality-Check.md"
@@ -37277,9 +38801,16 @@
       "defining": []
     },
     {
+      "concept": "THE HORIZON",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE I/O LANDSCAPE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -37466,9 +38997,23 @@
       "defining": []
     },
     {
+      "concept": "THE JOURNEY AT A GLANCE",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE JOURNEY OF A REQUEST (the request lifecycle)",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE JVM — JAVA'S REAL SUPERPOWER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
       ],
       "defining": []
     },
@@ -37494,6 +39039,13 @@
       "defining": []
     },
     {
+      "concept": "THE LANGUAGE WE'RE BUILDING",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE LAW",
       "docs": [
         "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md"
@@ -37510,7 +39062,7 @@
     {
       "concept": "THE LAYERED ARCHITECTURE — Controller Service Repository",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -37539,6 +39091,13 @@
       "concept": "THE LEAKY ABSTRACTION",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE LEARNING ORDER (linear path)",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
       ],
       "defining": []
     },
@@ -37676,6 +39235,13 @@
       "defining": []
     },
     {
+      "concept": "THE MAJOR OPTIMIZATIONS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE MAN",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md"
@@ -37739,6 +39305,13 @@
       "defining": []
     },
     {
+      "concept": "THE MEMORY MODEL — THE DEEPEST RABBIT HOLE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE MENTAL DISTANCE METRIC",
       "docs": [
         "DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md"
@@ -37777,13 +39350,6 @@
       "concept": "THE META STYLE",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/14-Meta-Hardest-Problems.md"
-      ],
-      "defining": []
-    },
-    {
-      "concept": "THE META-LESSONS",
-      "docs": [
-        "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md"
       ],
       "defining": []
     },
@@ -38026,6 +39592,13 @@
       "defining": []
     },
     {
+      "concept": "THE NEW HAZARDS LOCKS INTRODUCE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE NODE CLI — THE TOOLS YOU'LL ACTUALLY USE",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md"
@@ -38124,6 +39697,13 @@
       "defining": []
     },
     {
+      "concept": "THE ONE COMPUTATION RULE: BETA REDUCTION",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE ONE-SENTENCE MODEL",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md"
@@ -38176,6 +39756,13 @@
       "concept": "THE OPTIMIZATION HIERARCHY (PROFESSIONAL)",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/06-Optimization-Thinking.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE OPTIMIZATION LEVELS YOU ACTUALLY USE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -38250,6 +39837,13 @@
       "defining": []
     },
     {
+      "concept": "THE PATH FROM DESIGN TO REALITY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE PATTERN ENTRY TEMPLATE",
       "docs": [
         "DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md"
@@ -38316,6 +39910,13 @@
       "concept": "THE PHILOSOPHY",
       "docs": [
         "DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE PHILOSOPHY OF \"BORING\"",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
       ],
       "defining": []
     },
@@ -38439,6 +40040,20 @@
       "defining": []
     },
     {
+      "concept": "THE POWER OF SAYING NO — GO",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE POWER/DANGER BALANCE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE PRACTICAL TAKEAWAY",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/01-What-Is-a-Programming-Language.md"
@@ -38526,6 +40141,13 @@
       "concept": "THE PROBLEM ANATOMY",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE PROBLEM ASYNC SOLVES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ],
       "defining": []
     },
@@ -38791,7 +40413,7 @@
     {
       "concept": "THE REQUEST LIFECYCLE (HOW IT ALL CONNECTS)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -38992,6 +40614,13 @@
       "defining": []
     },
     {
+      "concept": "THE SPECTRUM OF EXECUTION",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE SPREADSHEET COLUMNS",
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/05-Sheet-Tracker-Template.md"
@@ -39022,7 +40651,7 @@
     {
       "concept": "THE STACK — JPA, HIBERNATE, SPRING DATA",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -39120,7 +40749,7 @@
     {
       "concept": "THE STREAM API — DECLARATIVE DATA PROCESSING",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -39191,6 +40820,13 @@
       "concept": "THE SWITCHING RULE",
       "docs": [
         "DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/05-Contest-Strategy.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE SYMBOL TABLE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
       ],
       "defining": []
     },
@@ -39373,6 +41009,13 @@
       "concept": "THE THREE QUESTIONS OF DECOMPOSITION",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE THREE RULES OF OWNERSHIP",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
       ],
       "defining": []
     },
@@ -39692,6 +41335,13 @@
       "defining": []
     },
     {
+      "concept": "THE UNDEFINED-BEHAVIOR MINEFIELD",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "THE UNDO TOOLKIT",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md"
@@ -39702,6 +41352,13 @@
       "concept": "THE UNIFIED FRAMEWORK",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE UNIFYING LESSON",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md"
       ],
       "defining": []
     },
@@ -39744,6 +41401,20 @@
       "concept": "THE UPSOLVE PROTOCOL",
       "docs": [
         "DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE VERBOSITY REPUTATION (and its fading)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "THE VERDICT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
       ],
       "defining": []
     },
@@ -40021,6 +41692,13 @@
       "defining": []
     },
     {
+      "concept": "TIERED COMPILATION — THE MODERN REALITY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "TIME ALLOCATION",
       "docs": [
         "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md"
@@ -40156,7 +41834,7 @@
     {
       "concept": "TRANSACTIONS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -40199,6 +41877,13 @@
       "concept": "TREE DP + BITMASK / EXTRA STATE",
       "docs": [
         "DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "TREE-WALKING INTERPRETERS — THE SIMPLEST",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
       ],
       "defining": []
     },
@@ -40343,6 +42028,13 @@
       "defining": []
     },
     {
+      "concept": "TYPE CHECKING IN PRACTICE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "TYPE COERCION — THE RULES BEHIND THE WEIRDNESS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md"
@@ -40360,6 +42052,20 @@
       "concept": "TYPE SOUNDNESS — THE PROMISE (AND WHEN IT BREAKS)",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/01-Static-vs-Dynamic.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "TYPE SYSTEMS & THEORY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "TYPED LAMBDA CALCULUS — THE BRIDGE TO TYPES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
       ],
       "defining": []
     },
@@ -40395,6 +42101,13 @@
       "concept": "TYPESCRIPT — HOOKS, EVENTS, REFS, GENERICS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "TYPESCRIPT — THE FIX THAT CONQUERED",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md"
       ],
       "defining": []
     },
@@ -40677,6 +42390,13 @@
       "defining": []
     },
     {
+      "concept": "Templates — compile-time generics and metaprogramming",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Temporal locality",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md"
@@ -40715,6 +42435,13 @@
       "concept": "Text Justification (LC 68)",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/13-Google-Hardest-Problems.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Textual macros (crude) — C's preprocessor",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
       ],
       "defining": []
     },
@@ -40790,7 +42517,7 @@
     {
       "concept": "The 8 primitive types",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -40853,6 +42580,13 @@
       "defining": []
     },
     {
+      "concept": "The Compiler Pipeline",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "The Complete Advanced Paradigms Compendium",
       "docs": [
         "DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/00-Index.md"
@@ -40878,6 +42612,15 @@
       ]
     },
     {
+      "concept": "The Complete Library",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+      ]
+    },
+    {
       "concept": "The Complete Library — Resources & References",
       "docs": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md"
@@ -40885,6 +42628,13 @@
       "defining": [
         "DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md"
       ]
+    },
+    {
+      "concept": "The Core Tension",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md"
+      ],
+      "defining": []
     },
     {
       "concept": "The DOM & Events",
@@ -40914,6 +42664,13 @@
       ]
     },
     {
+      "concept": "The Eight, Placed on the Dials",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "The Engineer's Mindset",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md"
@@ -40921,6 +42678,13 @@
       "defining": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md"
       ]
+    },
+    {
+      "concept": "The Essential Shortlist",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md"
+      ],
+      "defining": []
     },
     {
       "concept": "The Eternal Mindset",
@@ -40973,6 +42737,13 @@
       ]
     },
     {
+      "concept": "The JIT superpower: speculative optimization",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "The Journey Begins",
       "docs": [
         "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/00-Index.md"
@@ -41014,6 +42785,15 @@
       "defining": []
     },
     {
+      "concept": "The Language Tour",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md"
+      ]
+    },
+    {
       "concept": "The Library",
       "docs": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md"
@@ -41051,6 +42831,13 @@
       "defining": [
         "DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md"
       ]
+    },
+    {
+      "concept": "The Metaprogramming Spectrum",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md"
+      ],
+      "defining": []
     },
     {
       "concept": "The Mistake Log — Your Personal Feedback Loop",
@@ -41287,7 +43074,7 @@
     {
       "concept": "The annotations that make it happen",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -41315,7 +43102,7 @@
     {
       "concept": "The built-in functional interfaces (`java.util.function`)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -41378,7 +43165,7 @@
     {
       "concept": "The compilation + execution pipeline in detail",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -41425,6 +43212,13 @@
       "defining": []
     },
     {
+      "concept": "The critical rule: never block the loop",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "The crucial consequence: types can't validate runtime data",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md"
@@ -41434,7 +43228,7 @@
     {
       "concept": "The decision table",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -41442,6 +43236,13 @@
       "concept": "The defense: DOUBLE HASHING",
       "docs": [
         "DSA-Grandmaster-Codex/08-STRING-UNIVERSE/02-Hashing.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "The deliberate omissions",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
       ],
       "defining": []
     },
@@ -41455,14 +43256,14 @@
     {
       "concept": "The entry point",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
     {
       "concept": "The essential operations",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -41497,7 +43298,7 @@
     {
       "concept": "The four relationship types",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md"
       ],
       "defining": []
     },
@@ -41511,7 +43312,7 @@
     {
       "concept": "The full set of HTTP verb mappings",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -41595,7 +43396,7 @@
     {
       "concept": "The modern Map methods that eliminate boilerplate",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -41859,6 +43660,15 @@
       "defining": []
     },
     {
+      "concept": "Threads and Shared Memory",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ]
+    },
+    {
       "concept": "Three-phase commit (3PC)",
       "docs": [
         "DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md"
@@ -42014,6 +43824,13 @@
       "defining": []
     },
     {
+      "concept": "Top-down (recursive descent, LL)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Top-down decomposition",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md"
@@ -42160,7 +43977,7 @@
     {
       "concept": "TreeSet's superpower — navigation",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -42458,6 +44275,15 @@
       ]
     },
     {
+      "concept": "Type Theory — Programs as Proofs",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ]
+    },
+    {
       "concept": "Type alias",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md"
@@ -42474,7 +44300,7 @@
     {
       "concept": "Type erasure — the catch you must know",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -42641,7 +44467,7 @@
     {
       "concept": "UTILITIES, IMMUTABILITY, AND SORTING",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -42878,7 +44704,7 @@
     {
       "concept": "VALIDATION",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -42934,7 +44760,7 @@
     {
       "concept": "VARIABLES AND DATA TYPES",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -42963,6 +44789,13 @@
       "concept": "VARIANTS & APPLICATIONS",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "VARIANTS AND LEGACY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
       ],
       "defining": []
     },
@@ -43368,6 +45201,13 @@
       "defining": []
     },
     {
+      "concept": "WHAT A THREAD IS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHAT A TRANSACTION IS",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md"
@@ -43384,7 +45224,7 @@
     {
       "concept": "WHAT AN EXCEPTION IS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -43578,9 +45418,16 @@
       "defining": []
     },
     {
+      "concept": "WHAT IT IS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHAT JAVA ACTUALLY IS (AND WHY IT WON)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -43664,7 +45511,7 @@
     {
       "concept": "WHAT SPRING AND SPRING BOOT ACTUALLY ARE",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -43721,6 +45568,13 @@
       "concept": "WHAT THIS MEANS FOR ALGORITHMS",
       "docs": [
         "DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHAT THIS MEANS FOR YOU AS A PROGRAMMER",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -43788,9 +45642,23 @@
       "defining": []
     },
     {
+      "concept": "WHAT TYPE THEORY IS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHAT WE ARE BUILDING — AND THE SECURITY STAKES",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHAT YOU JUST LEARNED (and where to go next)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md"
       ],
       "defining": []
     },
@@ -43935,9 +45803,51 @@
       "defining": []
     },
     {
+      "concept": "WHEN TO USE C",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHEN TO USE C++",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHEN TO USE DSU",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHEN TO USE GO",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHEN TO USE JAVA",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHEN TO USE PYTHON",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHEN TO USE RUST",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md"
       ],
       "defining": []
     },
@@ -44098,7 +46008,7 @@
     {
       "concept": "WHY COLLECTIONS EXIST",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md"
       ],
       "defining": []
     },
@@ -44126,7 +46036,7 @@
     {
       "concept": "WHY CONCURRENCY",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
@@ -44159,6 +46069,13 @@
       "defining": []
     },
     {
+      "concept": "WHY FORMAL SEMANTICS?",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHY GREEDY WORKS — THE CUT PROPERTY",
       "docs": [
         "DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md"
@@ -44169,6 +46086,13 @@
       "concept": "WHY IT MATTERS IN CP",
       "docs": [
         "DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/10-Generating-Functions.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY IT UNDERPINS REAL LANGUAGES",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
       ],
       "defining": []
     },
@@ -44190,6 +46114,13 @@
       "concept": "WHY JOINS EXIST",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY LEARN IT IF YOU WON'T SHIP IT",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
       ],
       "defining": []
     },
@@ -44306,9 +46237,23 @@
       "defining": []
     },
     {
+      "concept": "WHY PYTHON IS \"SLOW\" — AND WHY IT DOESN'T MATTER (usually)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "WHY ROUTING NEEDS A LIBRARY",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY SSA MAKES OPTIMIZATION EASY",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md"
       ],
       "defining": []
     },
@@ -44344,6 +46289,27 @@
       "concept": "WHY THESE MATTER",
       "docs": [
         "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/10-Recent-Breakthroughs.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY THIS ALL MATTERS",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY THIS IS PROFOUND: DATA RACES BECOME IMPOSSIBLE",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "WHY THIS ISN'T JUST Beautiful — IT'S POWERFUL",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md"
       ],
       "defining": []
     },
@@ -44399,7 +46365,7 @@
     {
       "concept": "WILDCARDS — `?`, `extends`, `super`, AND PECS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md"
       ],
       "defining": []
     },
@@ -44910,6 +46876,20 @@
       ]
     },
     {
+      "concept": "Why Build a Language?",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Why Case Studies",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md"
+      ],
+      "defining": []
+    },
+    {
       "concept": "Why HTTPS is mandatory now",
       "docs": [
         "FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md"
@@ -44936,6 +46916,13 @@
       "concept": "Why TO use them",
       "docs": [
         "DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "Why Theory Matters (even for engineers)",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md"
       ],
       "defining": []
     },
@@ -45318,7 +47305,7 @@
     {
       "concept": "YOUR FIRST SPRING BOOT APP",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md"
       ],
       "defining": []
     },
@@ -45376,7 +47363,7 @@
     {
       "concept": "Your first program — the manual way",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md"
       ],
       "defining": []
     },
@@ -45455,7 +47442,7 @@
     {
       "concept": "`==` vs `.equals()` — the most important distinction in Java",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -45840,7 +47827,7 @@
     {
       "concept": "`equals()`, `hashCode()`, AND `toString()` — THE OBJECT CONTRACT",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -45875,7 +47862,7 @@
     {
       "concept": "`final` — constants",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -46078,7 +48065,7 @@
     {
       "concept": "`static` — CLASS-LEVEL MEMBERS",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md"
       ],
       "defining": []
     },
@@ -46239,7 +48226,7 @@
     {
       "concept": "`var` — local type inference (Java 10+)",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
@@ -46267,7 +48254,14 @@
     {
       "concept": "break, continue, and labels",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
+      ],
+      "defining": []
+    },
+    {
+      "concept": "eval — THE ULTIMATE (AND DANGEROUS) META TOOL",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md"
       ],
       "defining": []
     },
@@ -46316,42 +48310,42 @@
     {
       "concept": "switch — classic and modern",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
       ],
       "defining": []
     },
     {
       "concept": "synchronized methods",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
     {
       "concept": "synchronized — MUTUAL EXCLUSION",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md"
       ],
       "defining": []
     },
     {
       "concept": "throw AND throws",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
     {
       "concept": "try / catch / finally",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
     {
       "concept": "try-with-resources — AUTOMATIC CLEANUP",
       "docs": [
-        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md"
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md"
       ],
       "defining": []
     },
@@ -46370,6 +48364,31 @@
       "defining": [
         "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md"
       ]
+    },
+    {
+      "concept": "λ Haskell — The Language That Rewires Your Brain",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md"
+      ]
+    },
+    {
+      "concept": "λ Lambda Calculus — The Essence of Computation",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md"
+      ]
+    },
+    {
+      "concept": "λ PHASE 6 — FUNCTIONAL JAVA",
+      "docs": [
+        "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md"
+      ],
+      "defining": []
     },
     {
       "concept": "अध्याय १ — The Chapter of Despair (Arjuna Vishada Yoga)",
@@ -46448,6 +48467,15 @@
       ],
       "defining": [
         "DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md"
+      ]
+    },
+    {
+      "concept": "⏳ Async and Event Loops",
+      "docs": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
+      ],
+      "defining": [
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md"
       ]
     },
     {

@@ -2,7 +2,7 @@
 
 > *"Objects let you model the world in code: a thing that knows something (state) and can do something (behavior). Master OOP and you stop writing scripts and start designing systems."*
 
-**Prev:** [`01-Java-Fundamentals.md`](./01-Java-Fundamentals.md) · **Next:** [`03-Collections-Framework.md`](./03-Collections-Framework.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`02-Java-Fundamentals.md`](./02-Java-Fundamentals.md) · **Next:** [`04-Collections-Framework.md`](./04-Collections-Framework.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -603,4 +603,4 @@ This tiny system is **open for extension, closed for modification**: add a `Ente
 
 ---
 
-**Prev:** [`01-Java-Fundamentals.md`](./01-Java-Fundamentals.md) · **Next:** [`03-Collections-Framework.md`](./03-Collections-Framework.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`02-Java-Fundamentals.md`](./02-Java-Fundamentals.md) · **Next:** [`04-Collections-Framework.md`](./04-Collections-Framework.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

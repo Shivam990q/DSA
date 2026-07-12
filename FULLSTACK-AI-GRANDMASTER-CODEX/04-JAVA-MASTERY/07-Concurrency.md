@@ -2,7 +2,7 @@
 
 > *"Concurrency is the art of doing many things at once. It is also the art of debugging code that works 999 times and fails the 1,000th — on the customer's machine, never yours. Respect it."*
 
-**Prev:** [`05-Exceptions-And-IO.md`](./05-Exceptions-And-IO.md) · **Next:** [`07-Spring-Boot-Essentials.md`](./07-Spring-Boot-Essentials.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`06-Exceptions-And-IO.md`](./06-Exceptions-And-IO.md) · **Next:** [`08-Spring-Boot-Essentials.md`](./08-Spring-Boot-Essentials.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -476,4 +476,4 @@ public class ParallelDownloader {
 
 ---
 
-**Prev:** [`05-Exceptions-And-IO.md`](./05-Exceptions-And-IO.md) · **Next:** [`07-Spring-Boot-Essentials.md`](./07-Spring-Boot-Essentials.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`06-Exceptions-And-IO.md`](./06-Exceptions-And-IO.md) · **Next:** [`08-Spring-Boot-Essentials.md`](./08-Spring-Boot-Essentials.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

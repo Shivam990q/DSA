@@ -1,6 +1,6 @@
 # AGENTS.md — Instructions for AI Agents
 
-The **DSA** repository (576 docs, 668,417 words) ships a
+The **DSA** repository (610 docs, 696,100 words) ships a
 complete **second brain** memory system so you never lose context.
 
 ## Read this first
@@ -33,5 +33,5 @@ complete **second brain** memory system so you never lose context.
 
 ## Codices
 - **DSA-Grandmaster-Codex** — 460 docs
-- **FULLSTACK-AI-GRANDMASTER-CODEX** — 90 docs
-- **PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX** — 26 docs
+- **FULLSTACK-AI-GRANDMASTER-CODEX** — 92 docs
+- **PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX** — 58 docs

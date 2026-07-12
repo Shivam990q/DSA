@@ -40,7 +40,7 @@
 - [01-WEB-FOUNDATIONS](FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/00-Index.md): This is the bedrock of the entire codex. Everything — React, Next.js, Node, deployment, ev
 - [02-JAVASCRIPT-MASTERY](FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/00-Index.md): The language of the web — and increasingly, of the server, the build tools, the desktop, a
 - [03-TYPESCRIPT](FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/00-Index.md): TypeScript is JavaScript with a **static type system** bolted on top. You write types; the
-- [04-JAVA-MASTERY](FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md): You write `.java` source files; the JDK turns them into runnable programs. You need the **
+- [04-JAVA-MASTERY](FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md): Walk phases **0 → 13 in order**. Within a phase, walk modules top to bottom. Do not skip —
 - [05-REACT](FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md): React is a **library**, not a runtime. You need **Node.js** installed (Node 18+ recommende
 - [06-NEXTJS](FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md): Next.js is a Node.js framework. You need **Node.js 18.18+** (the App Router and modern fea
 - [07-NODEJS-EXPRESS](FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md): You write `.js` (or `.ts`) source files; Node executes them. You need **Node** itself, npm
@@ -57,6 +57,14 @@
 - [02-PARADIGMS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/00-Index.md): A **programming paradigm** is a fundamental style of structuring computation — a different
 - [03-TYPE-SYSTEMS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md): A **type** classifies values by what they are and what you can do with them. A **type syst
 - [04-MEMORY-AND-RUNTIME](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/00-Index.md): Where do values actually live? Who allocates them, and who frees them? The answer to "how 
+- [05-COMPILERS-AND-INTERPRETERS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md): How does human-readable text become something a CPU executes? This section walks the entir
+- [06-CONCURRENCY-MODELS](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md): For decades, programs got faster because CPUs got faster. Around 2005 that ended — chips g
+- [07-LANGUAGE-TOUR](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md): Now we apply the theory. Each file dissects one language: its history and purpose, where i
+- [08-SEMANTICS-AND-THEORY](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md): The theoretical bedrock. Here we answer "what does a program *mean*?" with mathematical pr
+- [09-METAPROGRAMMING](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md): Metaprogramming is writing programs that treat *other programs (or themselves)* as data — 
+- [10-LANGUAGE-DESIGN](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md): The capstone. Everything in this codex converges here: to design a language you must under
+- [11-CASE-STUDIES](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md): Real languages made real decisions with real consequences. This section dissects a few leg
+- [12-RESOURCES-AND-REFERENCES](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md): The definitive books, courses, papers, and tools for going deeper into every part of this 
 - [MASTER-INDEX.md](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md): 1. Read [`README.md`](./README.md) for the big picture.
 - [README.md](PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md): This is the **third sibling codex**. Where `DSA-Grandmaster-Codex` teaches the *algorithmi
 

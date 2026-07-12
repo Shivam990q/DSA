@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
   "codices": {
     "DSA-Grandmaster-Codex": {
       "00-PHILOSOPHY-AND-DOCTRINE": [
@@ -6734,7 +6734,30 @@
       ],
       "04-JAVA-MASTERY": [
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md",
+          "title": "🌳 THE COMPLETE JAVA TREE — \"Nothing Left\" Edition",
+          "topics": [
+            "✅ COMPLETENESS PROMISE & SCOPE",
+            "🧭 PHASE 0 — SETUP & MENTAL MODEL",
+            "🧱 PHASE 1 — LANGUAGE FUNDAMENTALS",
+            "🧩 PHASE 2 — OBJECT-ORIENTED JAVA",
+            "🛠️ PHASE 3 — CORE APIs & EXCEPTIONS",
+            "🔷 PHASE 4 — GENERICS",
+            "📦 PHASE 5 — COLLECTIONS FRAMEWORK",
+            "λ PHASE 6 — FUNCTIONAL JAVA",
+            "💾 PHASE 7 — I/O, NIO & NETWORKING",
+            "🔀 PHASE 8 — CONCURRENCY & MULTITHREADING",
+            "⚙️ PHASE 9 — JVM INTERNALS & PERFORMANCE",
+            "✨ PHASE 10 — MODERN JAVA (8 → 21+)",
+            "🧰 PHASE 11 — BUILD, TEST & TOOLING",
+            "🏛️ PHASE 12 — BEST PRACTICES & DESIGN",
+            "🌉 PHASE 13 — BEYOND CORE (BRIDGES)",
+            "🗺️ THE LEARNING ORDER (linear path)",
+            "⚙️ HOW WE PROCEED (the method)"
+          ]
+        },
+        {
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md",
           "title": "☕ Java Mastery",
           "topics": [
             "🎯 WHAT YOU WILL OWN AFTER THIS SECTION",
@@ -6745,7 +6768,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md",
           "title": "☕ 01 — Java Fundamentals",
           "topics": [
             "I. WHAT JAVA ACTUALLY IS (AND WHY IT WON)",
@@ -6764,7 +6787,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md",
           "title": "☕ 02 — Object-Oriented Programming in Java ⭐",
           "topics": [
             "I. CLASSES AND OBJECTS — THE CORE IDEA",
@@ -6779,7 +6802,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md",
           "title": "☕ 03 — The Collections Framework ⭐",
           "topics": [
             "I. WHY COLLECTIONS EXIST",
@@ -6797,7 +6820,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md",
           "title": "☕ 04 — Generics & Functional Java ⭐",
           "topics": [
             "I. THE PROBLEM GENERICS SOLVE",
@@ -6815,7 +6838,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md",
           "title": "☕ 05 — Exceptions & I/O",
           "topics": [
             "I. WHAT AN EXCEPTION IS",
@@ -6834,7 +6857,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md",
           "title": "☕ 06 — Concurrency & Multithreading ⭐",
           "topics": [
             "I. WHY CONCURRENCY",
@@ -6852,7 +6875,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md",
           "title": "☕ 07 — Spring Boot Essentials ⭐",
           "topics": [
             "I. WHAT SPRING AND SPRING BOOT ACTUALLY ARE",
@@ -6870,7 +6893,7 @@
           ]
         },
         {
-          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md",
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md",
           "title": "☕ 08 — Spring Boot Data & JPA",
           "topics": [
             "I. THE STACK — JPA, HIBERNATE, SPRING DATA",
@@ -6885,6 +6908,19 @@
             "X. SEEDING DATA AND VERIFYING",
             "XI. COMMON PITFALLS",
             "🧠 KEY TAKEAWAYS"
+          ]
+        },
+        {
+          "path": "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md",
+          "title": "☕ JAVA MASTERY — Section 04",
+          "topics": [
+            "*Absolute Zero → Absolute Mastery · The \"Nothing Left\" Edition*",
+            "🎯 WHAT THIS IS",
+            "🗺️ HOW TO USE THIS SECTION",
+            "📊 THE JOURNEY AT A GLANCE",
+            "📕 THE COURSE — CHAPTERS",
+            "🔗 RELATED (within this codex and its siblings)",
+            "🪔 BEGIN"
           ]
         }
       ],
@@ -8194,6 +8230,408 @@
             "V. MODERN GC — MINIMIZING PAUSES",
             "VI. THE FUNDAMENTAL GC TRADEOFF",
             "VII. GC vs THE ALTERNATIVES",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md",
+          "title": "🦀 Ownership and Borrowing",
+          "topics": [
+            "I. THE THREE RULES OF OWNERSHIP",
+            "II. MOVE SEMANTICS — TRANSFERRING OWNERSHIP",
+            "III. BORROWING — ACCESS WITHOUT OWNERSHIP",
+            "IV. WHY THIS IS PROFOUND: DATA RACES BECOME IMPOSSIBLE",
+            "V. LIFETIMES — PROVING REFERENCES DON'T DANGLE",
+            "VI. THE BROADER LESSON",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "05-COMPILERS-AND-INTERPRETERS": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md",
+          "title": "⚙️ Compilers and Interpreters",
+          "topics": [
+            "📚 Contents",
+            "🧭 The Compiler Pipeline",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md",
+          "title": "🔡 Lexing and Parsing (The Front End)",
+          "topics": [
+            "I. LEXICAL ANALYSIS (THE LEXER)",
+            "II. SYNTACTIC ANALYSIS (THE PARSER)",
+            "III. THE AST — DESIGNING THE TREE",
+            "IV. ERROR HANDLING — THE MARK OF A GOOD COMPILER",
+            "V. A COMPLETE MINI FRONT END (Python)",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md",
+          "title": "🔬 Semantic Analysis and Intermediate Representations",
+          "topics": [
+            "I. SEMANTIC ANALYSIS — CHECKING MEANING",
+            "II. THE SYMBOL TABLE",
+            "III. TYPE CHECKING IN PRACTICE",
+            "IV. INTERMEDIATE REPRESENTATIONS (IR)",
+            "V. LLVM — THE IR THAT ATE THE WORLD",
+            "VI. LOWERING — CROSSING ABSTRACTION LEVELS",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md",
+          "title": "🏭 Code Generation and Optimization (The Back End)",
+          "topics": [
+            "I. CODE GENERATION — IR TO MACHINE CODE",
+            "II. THE MAJOR OPTIMIZATIONS",
+            "III. WHY SSA MAKES OPTIMIZATION EASY",
+            "IV. AHEAD-OF-TIME vs JUST-IN-TIME OPTIMIZATION",
+            "V. THE OPTIMIZATION LEVELS YOU ACTUALLY USE",
+            "VI. WHAT THIS MEANS FOR YOU AS A PROGRAMMER",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md",
+          "title": "🎮 Interpreters, VMs, and JIT",
+          "topics": [
+            "I. THE SPECTRUM OF EXECUTION",
+            "II. TREE-WALKING INTERPRETERS — THE SIMPLEST",
+            "III. BYTECODE VIRTUAL MACHINES — THE WORKHORSE",
+            "IV. JUST-IN-TIME (JIT) COMPILATION — THE BEST OF BOTH",
+            "V. TIERED COMPILATION — THE MODERN REALITY",
+            "VI. WHY THIS ALL MATTERS",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "06-CONCURRENCY-MODELS": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md",
+          "title": "🔀 Concurrency Models",
+          "topics": [
+            "📚 Contents",
+            "🧭 The Core Tension",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md",
+          "title": "🧵 Threads and Shared Memory",
+          "topics": [
+            "I. WHAT A THREAD IS",
+            "II. THE DATA RACE — THE ORIGINAL SIN",
+            "III. SYNCHRONIZATION PRIMITIVES",
+            "IV. THE NEW HAZARDS LOCKS INTRODUCE",
+            "V. THE MEMORY MODEL — THE DEEPEST RABBIT HOLE",
+            "VI. THE GIL — A PRAGMATIC SHORTCUT",
+            "VII. THE VERDICT",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md",
+          "title": "⏳ Async and Event Loops",
+          "topics": [
+            "I. THE PROBLEM ASYNC SOLVES",
+            "II. THE EVENT LOOP — THE ENGINE",
+            "III. CALLBACKS → PROMISES → ASYNC/AWAIT (the evolution)",
+            "IV. HOW ASYNC/AWAIT ACTUALLY WORKS (the magic revealed)",
+            "V. COOPERATIVE vs PREEMPTIVE (the fundamental difference)",
+            "VI. GREEN THREADS / GOROUTINES — ASYNC WITHOUT THE `await`",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md",
+          "title": "📬 Actors, CSP, and STM",
+          "topics": [
+            "I. THE ACTOR MODEL — SHARE NOTHING, MESSAGE EVERYTHING",
+            "II. CSP — COMMUNICATING SEQUENTIAL PROCESSES (Go's model)",
+            "III. SOFTWARE TRANSACTIONAL MEMORY (STM)",
+            "IV. DATA PARALLELISM — A DIFFERENT AXIS",
+            "V. CHOOSING A MODEL — THE DECISION TABLE",
+            "VI. THE UNIFYING LESSON",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "07-LANGUAGE-TOUR": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md",
+          "title": "🌍 The Language Tour",
+          "topics": [
+            "📚 Contents",
+            "🧭 The Eight, Placed on the Dials",
+            "🎯 How to read a language file"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md",
+          "title": "🔧 C — The Portable Assembler",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. DEFINING FEATURES",
+            "IV. THE UNDEFINED-BEHAVIOR MINEFIELD",
+            "V. STRENGTHS & WEAKNESSES",
+            "VI. WHEN TO USE C",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md",
+          "title": "⚙️ C++ — Zero-Cost Abstraction",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. DEFINING FEATURES",
+            "IV. THE COMPLEXITY PROBLEM",
+            "V. STRENGTHS & WEAKNESSES",
+            "VI. WHEN TO USE C++",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md",
+          "title": "🦀 Rust — Safety and Speed Without Compromise",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. THE CORE INNOVATION: OWNERSHIP (recap)",
+            "IV. BEYOND OWNERSHIP — RUST'S OTHER STRENGTHS",
+            "V. THE HONEST DIFFICULTY",
+            "VI. WHEN TO USE RUST",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md",
+          "title": "🐹 Go — Radical Simplicity",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. DEFINING FEATURES",
+            "IV. THE PHILOSOPHY OF \"BORING\"",
+            "V. STRENGTHS & WEAKNESSES",
+            "VI. WHEN TO USE GO",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md",
+          "title": "☕ Java — The Enterprise Workhorse",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. THE JVM — JAVA'S REAL SUPERPOWER",
+            "IV. DEFINING FEATURES",
+            "V. THE VERBOSITY REPUTATION (and its fading)",
+            "VI. STRENGTHS & WEAKNESSES",
+            "VII. WHEN TO USE JAVA",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md",
+          "title": "🐍 Python — Readability and the Language of Data",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. DEFINING FEATURES",
+            "IV. WHY PYTHON IS \"SLOW\" — AND WHY IT DOESN'T MATTER (usually)",
+            "V. STRENGTHS & WEAKNESSES",
+            "VI. WHEN TO USE PYTHON",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md",
+          "title": "🟨 JavaScript and TypeScript — The Language of the Web",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. JAVASCRIPT'S DEFINING FEATURES (AND WARTS)",
+            "IV. TYPESCRIPT — THE FIX THAT CONQUERED",
+            "V. THE ECOSYSTEM (blessing and curse)",
+            "VI. STRENGTHS, WEAKNESSES, WHEN TO USE",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md",
+          "title": "λ Haskell — The Language That Rewires Your Brain",
+          "topics": [
+            "I. ORIGIN AND PURPOSE",
+            "II. WHERE IT SETS THE DIALS",
+            "III. DEFINING FEATURES",
+            "IV. MONADS — THE INFAMOUS CONCEPT",
+            "V. WHY LEARN IT IF YOU WON'T SHIP IT",
+            "VI. STRENGTHS, WEAKNESSES, WHEN TO USE",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "08-SEMANTICS-AND-THEORY": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md",
+          "title": "🔬 Semantics and Theory — The Mathematics of Meaning",
+          "topics": [
+            "📚 Contents",
+            "🧭 Why Theory Matters (even for engineers)",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md",
+          "title": "λ Lambda Calculus — The Essence of Computation",
+          "topics": [
+            "I. WHAT IT IS",
+            "II. THE ONE COMPUTATION RULE: BETA REDUCTION",
+            "III. ENCODING EVERYTHING FROM NOTHING",
+            "IV. WHY IT UNDERPINS REAL LANGUAGES",
+            "V. TYPED LAMBDA CALCULUS — THE BRIDGE TO TYPES",
+            "VI. VARIANTS AND LEGACY",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md",
+          "title": "📖 Operational and Denotational Semantics",
+          "topics": [
+            "I. WHY FORMAL SEMANTICS?",
+            "II. OPERATIONAL SEMANTICS — MEANING AS EXECUTION STEPS",
+            "III. DENOTATIONAL SEMANTICS — MEANING AS MATHEMATICAL OBJECTS",
+            "IV. AXIOMATIC SEMANTICS — MEANING AS WHAT YOU CAN PROVE",
+            "V. HOW THEY RELATE AND WHY YOU CARE",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md",
+          "title": "🔺 Type Theory — Programs as Proofs",
+          "topics": [
+            "I. WHAT TYPE THEORY IS",
+            "II. THE CURRY–HOWARD CORRESPONDENCE — THE GREAT IDEA",
+            "III. WHY THIS ISN'T JUST Beautiful — IT'S POWERFUL",
+            "IV. THE HIERARCHY OF TYPE-THEORETIC POWER",
+            "V. \"PROPOSITIONS AS TYPES\" IN EVERYDAY CODE",
+            "VI. THE HORIZON",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "09-METAPROGRAMMING": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md",
+          "title": "🪞 Metaprogramming — Programs That Write Programs",
+          "topics": [
+            "📚 Contents",
+            "🧭 The Metaprogramming Spectrum",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md",
+          "title": "🪄 Macros, Reflection, and DSLs",
+          "topics": [
+            "I. MACROS — CODE THAT GENERATES CODE AT COMPILE TIME",
+            "II. REFLECTION — INSPECTING PROGRAMS AT RUN TIME",
+            "III. eval — THE ULTIMATE (AND DANGEROUS) META TOOL",
+            "IV. DOMAIN-SPECIFIC LANGUAGES (DSLs)",
+            "V. THE POWER/DANGER BALANCE",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "10-LANGUAGE-DESIGN": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md",
+          "title": "🏗️ Language Design — Becoming an Inventor",
+          "topics": [
+            "📚 Contents",
+            "🧭 Why Build a Language?",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md",
+          "title": "🎨 How to Design a Language",
+          "topics": [
+            "I. START WITH PURPOSE",
+            "II. THE DESIGN DECISIONS (the checklist)",
+            "III. SYNTAX DESIGN PRINCIPLES",
+            "IV. LEARN FROM CLASSIC MISTAKES",
+            "V. THE FEATURE-CREEP TRAP",
+            "VI. THE PATH FROM DESIGN TO REALITY",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md",
+          "title": "🛠️ Build Your Own Language (Project)",
+          "topics": [
+            "I. THE LANGUAGE WE'RE BUILDING",
+            "II. STAGE 1 — THE LEXER (text → tokens)",
+            "III. STAGE 2 — THE PARSER (tokens → AST)",
+            "IV. STAGE 3 — THE EVALUATOR (walk the AST)",
+            "V. PUTTING IT TOGETHER",
+            "VI. WHAT YOU JUST LEARNED (and where to go next)",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "11-CASE-STUDIES": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md",
+          "title": "📚 Case Studies — Learning from History's Decisions",
+          "topics": [
+            "📚 Contents",
+            "🧭 Why Case Studies",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md",
+          "title": "🏛️ Legendary Language Decisions",
+          "topics": [
+            "I. THE BILLION-DOLLAR MISTAKE — `null`",
+            "II. BREAKING THE WORLD — PYTHON 2 → 3",
+            "III. SHIPPED IN 10 DAYS — JAVASCRIPT",
+            "IV. THE POWER OF SAYING NO — GO",
+            "V. BETTING ON THE HARD PATH — RUST'S BORROW CHECKER",
+            "VI. OTHER INSTRUCTIVE STORIES (briefly)",
+            "VII. THE META-LESSONS",
+            "📌 Key Takeaways"
+          ]
+        }
+      ],
+      "12-RESOURCES-AND-REFERENCES": [
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md",
+          "title": "🧰 Resources and References",
+          "topics": [
+            "📚 Contents",
+            "🧭 The Essential Shortlist",
+            "📌 Key Takeaways"
+          ]
+        },
+        {
+          "path": "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md",
+          "title": "📖 The Complete Library",
+          "topics": [
+            "I. FOUNDATIONS & GENERAL PL",
+            "II. COMPILERS & INTERPRETERS",
+            "III. TYPE SYSTEMS & THEORY",
+            "IV. FUNCTIONAL PROGRAMMING & LAMBDA CALCULUS",
+            "V. MEMORY, RUNTIMES & CONCURRENCY",
+            "VI. LANGUAGE-SPECIFIC DEEP DIVES",
+            "VII. COURSES",
+            "VIII. PAPERS & ONGOING",
             "📌 Key Takeaways"
           ]
         }

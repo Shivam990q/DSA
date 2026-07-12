@@ -2,7 +2,7 @@
 
 > *"Spring Boot is the reason a Java backend that used to take a week of XML configuration now takes an afternoon. It handles the plumbing so you write business logic. A huge share of the world's APIs run on it."*
 
-**Prev:** [`06-Concurrency-And-Multithreading.md`](./06-Concurrency-And-Multithreading.md) · **Next:** [`08-Spring-Boot-Data-And-JPA.md`](./08-Spring-Boot-Data-And-JPA.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`07-Concurrency.md`](./07-Concurrency.md) · **Next:** [`09-Spring-Boot-Data-And-JPA.md`](./09-Spring-Boot-Data-And-JPA.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -585,4 +585,4 @@ Every arrow that says "injected bean" is the IoC container doing its job. You wr
 
 ---
 
-**Prev:** [`06-Concurrency-And-Multithreading.md`](./06-Concurrency-And-Multithreading.md) · **Next:** [`08-Spring-Boot-Data-And-JPA.md`](./08-Spring-Boot-Data-And-JPA.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`07-Concurrency.md`](./07-Concurrency.md) · **Next:** [`09-Spring-Boot-Data-And-JPA.md`](./09-Spring-Boot-Data-And-JPA.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

@@ -290,7 +290,7 @@ Spend the last weekend connecting your schema to your Express API from section [
 - Pairs with [`07-NODEJS-EXPRESS`](../07-NODEJS-EXPRESS/) — the API layer that talks to this database.
 - Contrasted with [`09-NOSQL-MONGODB`](../09-NOSQL-MONGODB/) — knowing both is what makes you dangerous.
 - Combined into a full app in [`10-MERN-STACK`](../10-MERN-STACK/) and shipped in [`11-FULLSTACK-ENGINEERING`](../11-FULLSTACK-ENGINEERING/).
-- Java backends use this DB through Spring Data JPA — see [`04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`](../04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md).
+- Java backends use this DB through Spring Data JPA — see [`04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`](../04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md).
 
 ---
 

@@ -10,8 +10,8 @@ through graph navigation, long-term memory, and semantic retrieval.
 > ```
 
 ## 📊 What it indexes right now
-- **576 documents** · **668,417 words**
-- **3 codices** · **47 sections** · **2002 internal links**
+- **610 documents** · **696,100 words**
+- **3 codices** · **55 sections** · **2135 internal links**
 
 ## 🧩 The layers
 | Layer | Location | What it gives you |
@@ -57,10 +57,12 @@ python .second-brain/memory/mem0_ingest.py
 
 ## 🔁 Keeping it alive
 The second brain is a **projection** of the codices, not a copy to maintain by
-hand. Whenever you add or edit codex files, rerun the generator. A Kiro
-`fileEdited` hook on `**/*.md` can automate this.
+hand. Whenever you add or edit codex files, rerun the generator — or keep
+`python .second-brain/watch_and_build.py` running to auto-rebuild on every save.
+(A Kiro `fileEdited` hook is intentionally avoided: it opens a new tab/history
+entry per run and floods the workspace.)
 
 ## 🗂️ Codices
 - **DSA-Grandmaster-Codex** — 460 docs
-- **FULLSTACK-AI-GRANDMASTER-CODEX** — 90 docs
-- **PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX** — 26 docs
+- **FULLSTACK-AI-GRANDMASTER-CODEX** — 92 docs
+- **PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX** — 58 docs

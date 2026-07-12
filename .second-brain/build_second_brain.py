@@ -787,6 +787,9 @@ def write_obsidian_config():
 # --------------------------------------------------------------------------- #
 def write_mocs(atoms, codices, sections):
     """Obsidian Maps-of-Content: wikilink hubs per codex + section."""
+    # self-heal: remove stale MOCs (e.g., from a deleted codex) before regenerating
+    for old in OBS_MOC_DIR.glob("MOC-*.md"):
+        old.unlink()
     # master MOC
     lines = ["---", "tags: [MOC, second-brain, root]", "---",
              "# 🧠 Master Map of Content", "",
@@ -864,7 +867,7 @@ python .second-brain/brain.py outline|summary|stats|gaps|bridges|doctor
    owning file(s), then read them. Cite the path.
 3. **Never claim the codex lacks something** without checking first (`ask`/`search`/manifest).
 4. **After the codex changes**, regenerate: `python .second-brain/build_second_brain.py`
-   (a Kiro fileEdited hook does this automatically on `.md` save).
+   (or keep `python .second-brain/watch_and_build.py` running to auto-rebuild on save).
 5. **If anything seems off**, run `brain.py doctor` — it self-validates every artifact.
 6. Treat `manifest.json` + graph + `tfidf-model.json` as the source of truth.
 
@@ -982,8 +985,10 @@ python .second-brain/memory/mem0_ingest.py
 
 ## 🔁 Keeping it alive
 The second brain is a **projection** of the codices, not a copy to maintain by
-hand. Whenever you add or edit codex files, rerun the generator. A Kiro
-`fileEdited` hook on `**/*.md` can automate this.
+hand. Whenever you add or edit codex files, rerun the generator — or keep
+`python .second-brain/watch_and_build.py` running to auto-rebuild on every save.
+(A Kiro `fileEdited` hook is intentionally avoided: it opens a new tab/history
+entry per run and floods the workspace.)
 
 ## 🗂️ Codices
 {chr(10).join(f"- **{c}** — {len(v)} docs" for c, v in sorted(codices.items()))}

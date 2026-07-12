@@ -282,7 +282,7 @@ try (Connection conn = ds.getConnection();  // borrow from the pool
 }                                            // try-with-resources returns the conn to the pool
 ```
 
-> **Higher-level option — JPA/Hibernate / Spring Data.** Most Java apps use an ORM (JPA via Hibernate, exposed through Spring Data JPA) rather than raw JDBC. It maps rows to objects and generates SQL, but **sits on top of JDBC + a pool** — the fundamentals here still apply. The deep treatment of Java persistence lives in [`../04-JAVA-MASTERY/`](../04-JAVA-MASTERY/00-Index.md).
+> **Higher-level option — JPA/Hibernate / Spring Data.** Most Java apps use an ORM (JPA via Hibernate, exposed through Spring Data JPA) rather than raw JDBC. It maps rows to objects and generates SQL, but **sits on top of JDBC + a pool** — the fundamentals here still apply. The deep treatment of Java persistence lives in [`../04-JAVA-MASTERY/`](../04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md).
 
 ### Pool sizing — smaller than you think
 

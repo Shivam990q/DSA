@@ -8,7 +8,7 @@ inclusion: always
 > "the system", "the engine", "the codex", or "the OS", they mean this.
 
 ## What exists here
-- **576 documents**, **668,417 words**, across **3 codices** and **47 sections**.
+- **610 documents**, **696,100 words**, across **3 codices** and **55 sections**.
 - Full machine index: `.second-brain/manifest.json`
 - Knowledge graph: `.second-brain/graph/knowledge-graph.json` (+ `graph.html` viewer)
 - Long-term memory: `.second-brain/memory/memories.jsonl` (mem0-ready)
@@ -19,8 +19,8 @@ inclusion: always
 | Codex | Docs | Sections (partial) |
 |-------|-----:|--------------------|
 | `DSA-Grandmaster-Codex` | 460 | 00-PHILOSOPHY-AND-DOCTRINE, 01-LEVELS-PROGRESSION, 02-PROGRAMMING-FOUNDATIONS, 03-PROBLEM-SOLVING-FOUNDATIONS, 04-DATA-S |
-| `FULLSTACK-AI-GRANDMASTER-CODEX` | 90 | 00-ROADMAP-AND-PHILOSOPHY, 01-WEB-FOUNDATIONS, 02-JAVASCRIPT-MASTERY, 03-TYPESCRIPT, 04-JAVA-MASTERY, 05-REACT, 06-NEXTJ |
-| `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX` | 26 | 00-PHILOSOPHY-AND-DOCTRINE, 01-LANGUAGE-FOUNDATIONS, 02-PARADIGMS, 03-TYPE-SYSTEMS, 04-MEMORY-AND-RUNTIME, MASTER-INDEX. |
+| `FULLSTACK-AI-GRANDMASTER-CODEX` | 92 | 00-ROADMAP-AND-PHILOSOPHY, 01-WEB-FOUNDATIONS, 02-JAVASCRIPT-MASTERY, 03-TYPESCRIPT, 04-JAVA-MASTERY, 05-REACT, 06-NEXTJ |
+| `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX` | 58 | 00-PHILOSOPHY-AND-DOCTRINE, 01-LANGUAGE-FOUNDATIONS, 02-PARADIGMS, 03-TYPE-SYSTEMS, 04-MEMORY-AND-RUNTIME, 05-COMPILERS- |
 
 ## How I use this memory (zero-dependency CLI — always works)
 ```
@@ -37,7 +37,7 @@ python .second-brain/brain.py outline|summary|stats|gaps|bridges|doctor
    owning file(s), then read them. Cite the path.
 3. **Never claim the codex lacks something** without checking first (`ask`/`search`/manifest).
 4. **After the codex changes**, regenerate: `python .second-brain/build_second_brain.py`
-   (a Kiro fileEdited hook does this automatically on `.md` save).
+   (or keep `python .second-brain/watch_and_build.py` running to auto-rebuild on save).
 5. **If anything seems off**, run `brain.py doctor` — it self-validates every artifact.
 6. Treat `manifest.json` + graph + `tfidf-model.json` as the source of truth.
 

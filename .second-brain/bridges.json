@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
-  "count": 12,
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
+  "count": 15,
   "bridges": [
     {
       "concept": "THE IDEA",
@@ -85,6 +85,18 @@
       }
     },
     {
+      "concept": "Courses",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md",
+          "DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-08-Algorithm-Engineering.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md"
+        ]
+      }
+    },
+    {
       "concept": "ABSTRACTION",
       "codices": {
         "DSA-Grandmaster-Codex": [
@@ -102,7 +114,18 @@
           "DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md"
         ],
         "FULLSTACK-AI-GRANDMASTER-CODEX": [
-          "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md"
+          "FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE BROADER LESSON",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md"
         ]
       }
     },
@@ -114,6 +137,17 @@
         ],
         "FULLSTACK-AI-GRANDMASTER-CODEX": [
           "FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md"
+        ]
+      }
+    },
+    {
+      "concept": "THE META-LESSONS",
+      "codices": {
+        "DSA-Grandmaster-Codex": [
+          "DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md"
+        ],
+        "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": [
+          "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md"
         ]
       }
     },

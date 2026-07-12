@@ -101,8 +101,10 @@ reason over the remembered structure.
 ```
 
 Every run is **idempotent** — it regenerates everything from the live repo, so
-the brain can never drift from the source of truth. A Kiro `fileEdited` hook
-re-runs it automatically whenever you save a `.md` file.
+the brain can never drift from the source of truth. Run
+`python .second-brain/watch_and_build.py` in a terminal to auto-rebuild on every
+save. (A Kiro `fileEdited` hook is intentionally **not** used — it spawns a new
+tab and a new history entry on every run, which floods the workspace.)
 
 ---
 
@@ -247,11 +249,14 @@ python .second-brain/brain.py ask "what does this project do"
 ```
 
 ### Step 4 — Keep it in sync (pick one)
-- **Kiro**: a `fileEdited` hook on `**/*.md` runs the generator on save (this repo
-  already has one; create the same in the new project's `.kiro/hooks/`).
+- **Watch (recommended):** `python .second-brain/watch_and_build.py` — runs in one
+  terminal, watches only the content folders, debounces bursts of saves, rebuilds
+  in place. No extra tabs, no history spam.
 - **Manual**: rerun the generator after big changes.
-- **Watch**: `python .second-brain/brain.py watch` (polls and rebuilds).
 - **Git**: add a pre-commit hook that runs the generator.
+- **Avoid** the Kiro `fileEdited` runCommand hook: it opens a NEW tab + logs a NEW
+  history entry on every execution (no option to auto-close), so frequent saves
+  flood the workspace. `watch_and_build.py` exists precisely to replace it.
 
 ### Step 5 (optional) — Turn on heavy recall
 ```bash
@@ -323,7 +328,7 @@ To bless a new project with an "absolute" AI memory:
 - [ ] `.second-brain/build_second_brain.py`  ← **required, the only must-copy file**
 - [ ] `.second-brain/PLAYBOOK.md`  ← this guide (optional but handy)
 - [ ] Run `python .second-brain/build_second_brain.py`
-- [ ] (Kiro) create a `fileEdited` hook → `python .second-brain/build_second_brain.py`
+- [ ] Keep in sync: `python .second-brain/watch_and_build.py` (NOT a Kiro hook — it spams tabs/history)
 - [ ] `python .second-brain/brain.py doctor` → confirm HEALTHY
 - [ ] Commit the generated `AGENTS.md`, `llms.txt`, and `.second-brain/` (or gitignore
       the large generated blobs and keep just the generator — your choice)

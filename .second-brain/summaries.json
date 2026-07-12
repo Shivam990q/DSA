@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:40:48.705116+00:00",
+  "generated_at": "2026-07-07T20:49:24.940421+00:00",
   "codices": {
     "DSA-Grandmaster-Codex": {
       "documents": 460,
@@ -990,7 +990,7 @@
       }
     },
     "FULLSTACK-AI-GRANDMASTER-CODEX": {
-      "documents": 90,
+      "documents": 92,
       "sections": {
         "00-ROADMAP-AND-PHILOSOPHY": {
           "documents": 5,
@@ -1099,8 +1099,9 @@
           "summary": "5 documents covering: what problem does typescript solve?, how typescript works — the mental model, installing & compiling, `tsconfig.json` — the project's brain, a first real taste, primitive & basic types, arrays & tuples, object types, interfaces vs type aliases, union & intersection types, enums, type narrowing."
         },
         "04-JAVA-MASTERY": {
-          "documents": 9,
+          "documents": 11,
           "titles": [
+            "🌳 THE COMPLETE JAVA TREE — \"Nothing Left\" Edition",
             "☕ Java Mastery",
             "☕ 01 — Java Fundamentals",
             "☕ 02 — Object-Oriented Programming in Java ⭐",
@@ -1109,23 +1110,24 @@
             "☕ 05 — Exceptions & I/O",
             "☕ 06 — Concurrency & Multithreading ⭐",
             "☕ 07 — Spring Boot Essentials ⭐",
-            "☕ 08 — Spring Boot Data & JPA"
+            "☕ 08 — Spring Boot Data & JPA",
+            "☕ JAVA MASTERY — Section 04"
           ],
           "key_topics": [
-            "setup — get a working jdk",
-            "what java actually is (and why it won)",
-            "anatomy of a java program",
-            "variables and data types",
-            "operators",
-            "strings",
-            "control flow",
-            "arrays",
-            "input and output",
-            "methods",
-            "scope, comments, and style",
-            "a complete little program"
+            "completeness promise & scope",
+            "phase 0 — setup & mental model",
+            "phase 1 — language fundamentals",
+            "phase 2 — object-oriented java",
+            "phase 3 — core apis & exceptions",
+            "phase 4 — generics",
+            "phase 5 — collections framework",
+            "λ phase 6 — functional java",
+            "phase 7 — i/o, nio & networking",
+            "phase 8 — concurrency & multithreading",
+            "phase 9 — jvm internals & performance",
+            "phase 10 — modern java (8 21+)"
           ],
-          "summary": "9 documents covering: setup — get a working jdk, what java actually is (and why it won), anatomy of a java program, variables and data types, operators, strings, control flow, arrays, input and output, methods, scope, comments, and style, a complete little program."
+          "summary": "11 documents covering: completeness promise & scope, phase 0 — setup & mental model, phase 1 — language fundamentals, phase 2 — object-oriented java, phase 3 — core apis & exceptions, phase 4 — generics, phase 5 — collections framework, λ phase 6 — functional java, phase 7 — i/o, nio & networking, phase 8 — concurrency & multithreading, phase 9 — jvm internals & performance, phase 10 — modern java (8 21+)."
         },
         "05-REACT": {
           "documents": 12,
@@ -1335,7 +1337,7 @@
       }
     },
     "PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX": {
-      "documents": 26,
+      "documents": 58,
       "sections": {
         "00-PHILOSOPHY-AND-DOCTRINE": {
           "documents": 4,
@@ -1439,11 +1441,12 @@
           "summary": "5 documents covering: why this section matters most, two independent axes (not one), the weak-typing hall of shame, the case for static typing, the case for dynamic typing, why the industry is drifting toward static, type soundness — the promise (and when it breaks), the idea, local vs global inference, hindley–milner — how global inference works, where inference stops (and you must annotate), the tradeoffs."
         },
         "04-MEMORY-AND-RUNTIME": {
-          "documents": 3,
+          "documents": 4,
           "titles": [
             "🧠 Memory and Runtime",
             "🗄️ Stack, Heap, and Memory Layout",
-            "♻️ Garbage Collection"
+            "♻️ Garbage Collection",
+            "🦀 Ownership and Borrowing"
           ],
           "key_topics": [
             "the three memory-management strategies",
@@ -1459,7 +1462,185 @@
             "the key insight — generational gc",
             "modern gc — minimizing pauses"
           ],
-          "summary": "3 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses."
+          "summary": "4 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses."
+        },
+        "05-COMPILERS-AND-INTERPRETERS": {
+          "documents": 5,
+          "titles": [
+            "⚙️ Compilers and Interpreters",
+            "🔡 Lexing and Parsing (The Front End)",
+            "🔬 Semantic Analysis and Intermediate Representations",
+            "🏭 Code Generation and Optimization (The Back End)",
+            "🎮 Interpreters, VMs, and JIT"
+          ],
+          "key_topics": [
+            "the compiler pipeline",
+            "lexical analysis (the lexer)",
+            "syntactic analysis (the parser)",
+            "the ast — designing the tree",
+            "error handling — the mark of a good compiler",
+            "a complete mini front end (python)",
+            "semantic analysis — checking meaning",
+            "the symbol table",
+            "type checking in practice",
+            "intermediate representations (ir)",
+            "llvm — the ir that ate the world",
+            "lowering — crossing abstraction levels"
+          ],
+          "summary": "5 documents covering: the compiler pipeline, lexical analysis (the lexer), syntactic analysis (the parser), the ast — designing the tree, error handling — the mark of a good compiler, a complete mini front end (python), semantic analysis — checking meaning, the symbol table, type checking in practice, intermediate representations (ir), llvm — the ir that ate the world, lowering — crossing abstraction levels."
+        },
+        "06-CONCURRENCY-MODELS": {
+          "documents": 4,
+          "titles": [
+            "🔀 Concurrency Models",
+            "🧵 Threads and Shared Memory",
+            "⏳ Async and Event Loops",
+            "📬 Actors, CSP, and STM"
+          ],
+          "key_topics": [
+            "the core tension",
+            "what a thread is",
+            "the data race — the original sin",
+            "synchronization primitives",
+            "the new hazards locks introduce",
+            "the memory model — the deepest rabbit hole",
+            "the gil — a pragmatic shortcut",
+            "the verdict",
+            "the problem async solves",
+            "the event loop — the engine",
+            "callbacks promises async/await (the evolution)",
+            "how async/await actually works (the magic revealed)"
+          ],
+          "summary": "4 documents covering: the core tension, what a thread is, the data race — the original sin, synchronization primitives, the new hazards locks introduce, the memory model — the deepest rabbit hole, the gil — a pragmatic shortcut, the verdict, the problem async solves, the event loop — the engine, callbacks promises async/await (the evolution), how async/await actually works (the magic revealed)."
+        },
+        "07-LANGUAGE-TOUR": {
+          "documents": 9,
+          "titles": [
+            "🌍 The Language Tour",
+            "🔧 C — The Portable Assembler",
+            "⚙️ C++ — Zero-Cost Abstraction",
+            "🦀 Rust — Safety and Speed Without Compromise",
+            "🐹 Go — Radical Simplicity",
+            "☕ Java — The Enterprise Workhorse",
+            "🐍 Python — Readability and the Language of Data",
+            "🟨 JavaScript and TypeScript — The Language of the Web",
+            "λ Haskell — The Language That Rewires Your Brain"
+          ],
+          "key_topics": [
+            "origin and purpose",
+            "where it sets the dials",
+            "defining features",
+            "strengths & weaknesses",
+            "strengths, weaknesses, when to use",
+            "the eight, placed on the dials",
+            "how to read a language file",
+            "the undefined-behavior minefield",
+            "when to use c",
+            "the complexity problem",
+            "when to use c++",
+            "the core innovation: ownership (recap)"
+          ],
+          "summary": "9 documents covering: origin and purpose, where it sets the dials, defining features, strengths & weaknesses, strengths, weaknesses, when to use, the eight, placed on the dials, how to read a language file, the undefined-behavior minefield, when to use c, the complexity problem, when to use c++, the core innovation: ownership (recap)."
+        },
+        "08-SEMANTICS-AND-THEORY": {
+          "documents": 4,
+          "titles": [
+            "🔬 Semantics and Theory — The Mathematics of Meaning",
+            "λ Lambda Calculus — The Essence of Computation",
+            "📖 Operational and Denotational Semantics",
+            "🔺 Type Theory — Programs as Proofs"
+          ],
+          "key_topics": [
+            "why theory matters (even for engineers)",
+            "what it is",
+            "the one computation rule: beta reduction",
+            "encoding everything from nothing",
+            "why it underpins real languages",
+            "typed lambda calculus — the bridge to types",
+            "variants and legacy",
+            "why formal semantics?",
+            "operational semantics — meaning as execution steps",
+            "denotational semantics — meaning as mathematical objects",
+            "axiomatic semantics — meaning as what you can prove",
+            "how they relate and why you care"
+          ],
+          "summary": "4 documents covering: why theory matters (even for engineers), what it is, the one computation rule: beta reduction, encoding everything from nothing, why it underpins real languages, typed lambda calculus — the bridge to types, variants and legacy, why formal semantics?, operational semantics — meaning as execution steps, denotational semantics — meaning as mathematical objects, axiomatic semantics — meaning as what you can prove, how they relate and why you care."
+        },
+        "09-METAPROGRAMMING": {
+          "documents": 2,
+          "titles": [
+            "🪞 Metaprogramming — Programs That Write Programs",
+            "🪄 Macros, Reflection, and DSLs"
+          ],
+          "key_topics": [
+            "the metaprogramming spectrum",
+            "macros — code that generates code at compile time",
+            "reflection — inspecting programs at run time",
+            "eval — the ultimate (and dangerous) meta tool",
+            "domain-specific languages (dsls)",
+            "the power/danger balance"
+          ],
+          "summary": "2 documents covering: the metaprogramming spectrum, macros — code that generates code at compile time, reflection — inspecting programs at run time, eval — the ultimate (and dangerous) meta tool, domain-specific languages (dsls), the power/danger balance."
+        },
+        "10-LANGUAGE-DESIGN": {
+          "documents": 3,
+          "titles": [
+            "🏗️ Language Design — Becoming an Inventor",
+            "🎨 How to Design a Language",
+            "🛠️ Build Your Own Language (Project)"
+          ],
+          "key_topics": [
+            "why build a language?",
+            "start with purpose",
+            "the design decisions (the checklist)",
+            "syntax design principles",
+            "learn from classic mistakes",
+            "the feature-creep trap",
+            "the path from design to reality",
+            "the language we're building",
+            "stage 1 — the lexer (text tokens)",
+            "stage 2 — the parser (tokens ast)",
+            "stage 3 — the evaluator (walk the ast)",
+            "putting it together"
+          ],
+          "summary": "3 documents covering: why build a language?, start with purpose, the design decisions (the checklist), syntax design principles, learn from classic mistakes, the feature-creep trap, the path from design to reality, the language we're building, stage 1 — the lexer (text tokens), stage 2 — the parser (tokens ast), stage 3 — the evaluator (walk the ast), putting it together."
+        },
+        "11-CASE-STUDIES": {
+          "documents": 2,
+          "titles": [
+            "📚 Case Studies — Learning from History's Decisions",
+            "🏛️ Legendary Language Decisions"
+          ],
+          "key_topics": [
+            "why case studies",
+            "the billion-dollar mistake — `null`",
+            "breaking the world — python 2 3",
+            "shipped in 10 days — javascript",
+            "the power of saying no — go",
+            "betting on the hard path — rust's borrow checker",
+            "other instructive stories (briefly)",
+            "the meta-lessons"
+          ],
+          "summary": "2 documents covering: why case studies, the billion-dollar mistake — `null`, breaking the world — python 2 3, shipped in 10 days — javascript, the power of saying no — go, betting on the hard path — rust's borrow checker, other instructive stories (briefly), the meta-lessons."
+        },
+        "12-RESOURCES-AND-REFERENCES": {
+          "documents": 2,
+          "titles": [
+            "🧰 Resources and References",
+            "📖 The Complete Library"
+          ],
+          "key_topics": [
+            "the essential shortlist",
+            "foundations & general pl",
+            "compilers & interpreters",
+            "type systems & theory",
+            "functional programming & lambda calculus",
+            "memory, runtimes & concurrency",
+            "language-specific deep dives",
+            "courses",
+            "papers & ongoing"
+          ],
+          "summary": "2 documents covering: the essential shortlist, foundations & general pl, compilers & interpreters, type systems & theory, functional programming & lambda calculus, memory, runtimes & concurrency, language-specific deep dives, courses, papers & ongoing."
         },
         "MASTER-INDEX.md": {
           "documents": 1,

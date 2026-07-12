@@ -2,7 +2,7 @@
 
 > *"Programs don't fail because the happy path is hard. They fail because the unhappy path was never written. Exceptions are how Java forces you to think about what goes wrong."*
 
-**Prev:** [`04-Generics-And-Functional-Java.md`](./04-Generics-And-Functional-Java.md) · **Next:** [`06-Concurrency-And-Multithreading.md`](./06-Concurrency-And-Multithreading.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`05-Generics-And-Functional.md`](./05-Generics-And-Functional.md) · **Next:** [`07-Concurrency.md`](./07-Concurrency.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -536,4 +536,4 @@ public class LogAnalyzer {
 
 ---
 
-**Prev:** [`04-Generics-And-Functional-Java.md`](./04-Generics-And-Functional-Java.md) · **Next:** [`06-Concurrency-And-Multithreading.md`](./06-Concurrency-And-Multithreading.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`05-Generics-And-Functional.md`](./05-Generics-And-Functional.md) · **Next:** [`07-Concurrency.md`](./07-Concurrency.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

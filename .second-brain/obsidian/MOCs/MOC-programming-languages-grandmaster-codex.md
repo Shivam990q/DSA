@@ -38,6 +38,54 @@ tags: [MOC, programming-languages-grandmaster-codex]
 - [[00-Index|🧠 Memory and Runtime]]
 - [[01-Stack-Heap-and-Layout|🗄️ Stack, Heap, and Memory Layout]]
 - [[02-Garbage-Collection|♻️ Garbage Collection]]
+- [[03-Ownership-and-Borrowing|🦀 Ownership and Borrowing]]
+
+## 05-COMPILERS-AND-INTERPRETERS
+- [[00-Index|⚙️ Compilers and Interpreters]]
+- [[01-Lexing-and-Parsing|🔡 Lexing and Parsing (The Front End)]]
+- [[02-Semantic-Analysis-and-IR|🔬 Semantic Analysis and Intermediate Representations]]
+- [[03-Code-Generation-and-Optimization|🏭 Code Generation and Optimization (The Back End)]]
+- [[04-Interpreters-VMs-and-JIT|🎮 Interpreters, VMs, and JIT]]
+
+## 06-CONCURRENCY-MODELS
+- [[00-Index|🔀 Concurrency Models]]
+- [[01-Threads-and-Shared-Memory|🧵 Threads and Shared Memory]]
+- [[02-Async-and-Event-Loops|⏳ Async and Event Loops]]
+- [[03-Actors-CSP-and-STM|📬 Actors, CSP, and STM]]
+
+## 07-LANGUAGE-TOUR
+- [[00-Index|🌍 The Language Tour]]
+- [[01-C|🔧 C — The Portable Assembler]]
+- [[02-Cpp|⚙️ C++ — Zero-Cost Abstraction]]
+- [[03-Rust|🦀 Rust — Safety and Speed Without Compromise]]
+- [[04-Go|🐹 Go — Radical Simplicity]]
+- [[05-Java|☕ Java — The Enterprise Workhorse]]
+- [[06-Python|🐍 Python — Readability and the Language of Data]]
+- [[07-JavaScript-and-TypeScript|🟨 JavaScript and TypeScript — The Language of the Web]]
+- [[08-Haskell|λ Haskell — The Language That Rewires Your Brain]]
+
+## 08-SEMANTICS-AND-THEORY
+- [[00-Index|🔬 Semantics and Theory — The Mathematics of Meaning]]
+- [[01-Lambda-Calculus|λ Lambda Calculus — The Essence of Computation]]
+- [[02-Operational-and-Denotational-Semantics|📖 Operational and Denotational Semantics]]
+- [[03-Type-Theory|🔺 Type Theory — Programs as Proofs]]
+
+## 09-METAPROGRAMMING
+- [[00-Index|🪞 Metaprogramming — Programs That Write Programs]]
+- [[01-Macros-Reflection-and-DSLs|🪄 Macros, Reflection, and DSLs]]
+
+## 10-LANGUAGE-DESIGN
+- [[00-Index|🏗️ Language Design — Becoming an Inventor]]
+- [[01-How-to-Design-a-Language|🎨 How to Design a Language]]
+- [[02-Build-Your-Own-Language|🛠️ Build Your Own Language (Project)]]
+
+## 11-CASE-STUDIES
+- [[00-Index|📚 Case Studies — Learning from History's Decisions]]
+- [[01-Legendary-Language-Decisions|🏛️ Legendary Language Decisions]]
+
+## 12-RESOURCES-AND-REFERENCES
+- [[00-Index|🧰 Resources and References]]
+- [[01-The-Complete-Library|📖 The Complete Library]]
 
 ## MASTER-INDEX.md
 - [[MASTER-INDEX|🗺️ PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX — Master Index]]

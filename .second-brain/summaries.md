@@ -87,7 +87,7 @@ codex at any zoom level without loading full text.
 ### README.md
 1 documents covering: *the geeta of problem solving · the bible of algorithms · the art of war of competitive programming*, the sibling codex (the engineering half), the complete preparation ecosystem (added in v1.1), the 11 levels (mastery ladder), the 15 universes, navigation, begin the journey.
 
-## FULLSTACK-AI-GRANDMASTER-CODEX  ·  90 docs · 13 sections
+## FULLSTACK-AI-GRANDMASTER-CODEX  ·  92 docs · 13 sections
 
 ### 00-ROADMAP-AND-PHILOSOPHY
 5 documents covering: what an engineer actually is, build to learn (the central law), the debugging mindset, fundamentals over frameworks, mental models that compound, how to learn efficiently, professional habits (start these on day one), how to read this roadmap, the dependency graph (the "why this order"), the stages in detail, sample calendars, rules for using the roadmap.
@@ -102,7 +102,7 @@ codex at any zoom level without loading full text.
 5 documents covering: what problem does typescript solve?, how typescript works — the mental model, installing & compiling, `tsconfig.json` — the project's brain, a first real taste, primitive & basic types, arrays & tuples, object types, interfaces vs type aliases, union & intersection types, enums, type narrowing.
 
 ### 04-JAVA-MASTERY
-9 documents covering: setup — get a working jdk, what java actually is (and why it won), anatomy of a java program, variables and data types, operators, strings, control flow, arrays, input and output, methods, scope, comments, and style, a complete little program.
+11 documents covering: completeness promise & scope, phase 0 — setup & mental model, phase 1 — language fundamentals, phase 2 — object-oriented java, phase 3 — core apis & exceptions, phase 4 — generics, phase 5 — collections framework, λ phase 6 — functional java, phase 7 — i/o, nio & networking, phase 8 — concurrency & multithreading, phase 9 — jvm internals & performance, phase 10 — modern java (8 21+).
 
 ### 05-REACT
 12 documents covering: setup — a working react project, what react actually is, the virtual dom & reconciliation, jsx — javascript that looks like html, rendering react to the page, conditional rendering, rendering lists with `.map()`, keys — the most misunderstood rule in react, a complete little component, what a component is, props — passing data down, the `children` prop — composition's secret weapon.
@@ -128,7 +128,7 @@ codex at any zoom level without loading full text.
 ### README.md
 1 documents covering: *the complete software engineer + ai engineer operating system*, the learning paths.
 
-## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX  ·  26 docs · 7 sections
+## PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX  ·  58 docs · 15 sections
 
 ### 00-PHILOSOPHY-AND-DOCTRINE
 4 documents covering: why start here, the primordial problem, the tower of abstraction, what a language actually buys you, the three eternal questions every language answers, why there are thousands of languages, the lesson, why most people learn languages slowly, the universal language template, the language families, the 3-day protocol for a new language, what transfers and what doesn't.
@@ -143,7 +143,31 @@ codex at any zoom level without loading full text.
 5 documents covering: why this section matters most, two independent axes (not one), the weak-typing hall of shame, the case for static typing, the case for dynamic typing, why the industry is drifting toward static, type soundness — the promise (and when it breaks), the idea, local vs global inference, hindley–milner — how global inference works, where inference stops (and you must annotate), the tradeoffs.
 
 ### 04-MEMORY-AND-RUNTIME
-3 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses.
+4 documents covering: the three memory-management strategies, the process memory map, the stack — fast, automatic, scoped, the heap — flexible, manual, slower, values vs references (revisited at the memory level), the catastrophic memory bugs (manual management's price), stack allocation is an optimization lever, the problem gc solves, strategy 1 — reference counting, strategy 2 — tracing gc (mark & sweep), the key insight — generational gc, modern gc — minimizing pauses.
+
+### 05-COMPILERS-AND-INTERPRETERS
+5 documents covering: the compiler pipeline, lexical analysis (the lexer), syntactic analysis (the parser), the ast — designing the tree, error handling — the mark of a good compiler, a complete mini front end (python), semantic analysis — checking meaning, the symbol table, type checking in practice, intermediate representations (ir), llvm — the ir that ate the world, lowering — crossing abstraction levels.
+
+### 06-CONCURRENCY-MODELS
+4 documents covering: the core tension, what a thread is, the data race — the original sin, synchronization primitives, the new hazards locks introduce, the memory model — the deepest rabbit hole, the gil — a pragmatic shortcut, the verdict, the problem async solves, the event loop — the engine, callbacks promises async/await (the evolution), how async/await actually works (the magic revealed).
+
+### 07-LANGUAGE-TOUR
+9 documents covering: origin and purpose, where it sets the dials, defining features, strengths & weaknesses, strengths, weaknesses, when to use, the eight, placed on the dials, how to read a language file, the undefined-behavior minefield, when to use c, the complexity problem, when to use c++, the core innovation: ownership (recap).
+
+### 08-SEMANTICS-AND-THEORY
+4 documents covering: why theory matters (even for engineers), what it is, the one computation rule: beta reduction, encoding everything from nothing, why it underpins real languages, typed lambda calculus — the bridge to types, variants and legacy, why formal semantics?, operational semantics — meaning as execution steps, denotational semantics — meaning as mathematical objects, axiomatic semantics — meaning as what you can prove, how they relate and why you care.
+
+### 09-METAPROGRAMMING
+2 documents covering: the metaprogramming spectrum, macros — code that generates code at compile time, reflection — inspecting programs at run time, eval — the ultimate (and dangerous) meta tool, domain-specific languages (dsls), the power/danger balance.
+
+### 10-LANGUAGE-DESIGN
+3 documents covering: why build a language?, start with purpose, the design decisions (the checklist), syntax design principles, learn from classic mistakes, the feature-creep trap, the path from design to reality, the language we're building, stage 1 — the lexer (text tokens), stage 2 — the parser (tokens ast), stage 3 — the evaluator (walk the ast), putting it together.
+
+### 11-CASE-STUDIES
+2 documents covering: why case studies, the billion-dollar mistake — `null`, breaking the world — python 2 3, shipped in 10 days — javascript, the power of saying no — go, betting on the hard path — rust's borrow checker, other instructive stories (briefly), the meta-lessons.
+
+### 12-RESOURCES-AND-REFERENCES
+2 documents covering: the essential shortlist, foundations & general pl, compilers & interpreters, type systems & theory, functional programming & lambda calculus, memory, runtimes & concurrency, language-specific deep dives, courses, papers & ongoing.
 
 ### MASTER-INDEX.md
 1 documents covering: start here, all 13 sections, by goal, quick-reference compendiums.

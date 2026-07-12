@@ -1,6 +1,6 @@
 # 📖 Glossary & Concept Index (auto-generated)
 
-6144 concepts extracted from titles and section headings.
+6420 concepts extracted from titles and section headings.
 Each links to the documents that define or teach it.
 
 - **Complexity** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md` (+181 more)
@@ -38,8 +38,10 @@ Each links to the documents that define or teach it.
 - **THE STRATEGY** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/04-IOI-Systems.md` (+8 more)
 - **Use cases** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md` (+8 more)
 - **DEEP REFERENCE** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md` (+7 more)
+- **ORIGIN AND PURPOSE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md` (+7 more)
 - **PROBLEM VOLUME** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-00-Programming-Foundations.md` (+7 more)
 - **Template** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md` (+7 more)
+- **WHERE IT SETS THE DIALS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md` (+7 more)
 - **Concept** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md` (+6 more)
 - **Dry run** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/01-Arrays-and-Hashing/02-Valid-Anagram.md` (+6 more)
 - **Practice** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md` (+6 more)
@@ -48,6 +50,7 @@ Each links to the documents that define or teach it.
 - **THE PRINCIPLE** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/11-Graph-DP-DAG.md` (+6 more)
 - **WHEN TO USE** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md` (+6 more)
 - **Approach 2 — Bottom-up 2D table** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/01-Unique-Paths.md` (+5 more)
+- **DEFINING FEATURES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md` (+5 more)
 - **Edge cases** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/01-FAANG-Interview-Simulation.md` (+5 more)
 - **Implementation** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md` (+5 more)
 - **THE HIRING FUNNEL** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/01-FAANG-MAANG-Track.md` (+5 more)
@@ -59,6 +62,7 @@ Each links to the documents that define or teach it.
 - **Operations** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md` (+4 more)
 - **Practice Platforms** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/04-Practice-Platforms.md` (+4 more)
 - **SPACE OPTIMIZATION** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md` (+4 more)
+- **STRENGTHS & WEAKNESSES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md` (+4 more)
 - **SYSTEM DESIGN** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/02-Online-Courses.md` (+4 more)
 - **THE MINDSET** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/04-IOI-Systems.md` (+4 more)
 - **Use case** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md` (+4 more)
@@ -100,6 +104,7 @@ Each links to the documents that define or teach it.
 - **COMPANY FLAVORS** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/02-Global-Big-Tech-Track.md` (+2 more)
 - **COMPLEXITY SUMMARY** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/15-Min-Cost-Flow.md` (+2 more)
 - **CP-level** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md` (+2 more)
+- **Courses** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md` (+2 more)
 - **DEFINITIONS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md` (+2 more)
 - **Dry run on `[1, 2, 3]`** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/01-Reverse-Linked-List.md` (+2 more)
 - **IN THIS FOLDER** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/00-Index.md` (+2 more)
@@ -111,6 +116,7 @@ Each links to the documents that define or teach it.
 - **PREP PLAN (5 days)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/01-Operating-Systems.md` (+2 more)
 - **PROBLEMS TO PRACTICE** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/02-1D-DP.md` (+2 more)
 - **Properties** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md` (+2 more)
+- **STRENGTHS, WEAKNESSES, WHEN TO USE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md` (+2 more)
 - **Sites** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-06-Competitive-Programming.md` (+2 more)
 - **THE ALGORITHM** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/16-SOS-DP.md` (+2 more)
 - **THE FAMILY** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/05-LIS-Family.md` (+2 more)
@@ -159,7 +165,6 @@ Each links to the documents that define or teach it.
 - **Comparison operators** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md` (+1 more)
 - **Competitive ratio** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md` (+1 more)
 - **Construction** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md` (+1 more)
-- **Courses** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-02-Academic-DSA.md` (+1 more)
 - **DDL — defining schema** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md` (+1 more)
 - **DELAUNAY TRIANGULATION** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/07-Voronoi-Delaunay.md` (+1 more)
 - **DFS (Depth-First Search)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md` (+1 more)
@@ -247,7 +252,7 @@ Each links to the documents that define or teach it.
 - **Pattern matching** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md` (+1 more)
 - **Patterns** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md` (+1 more)
 - **Permutations** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/10-Backtracking/04-Permutations.md` (+1 more)
-- **Project setup** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md` (+1 more)
+- **Project setup** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md` (+1 more)
 - **QUICK-REFERENCE COMPENDIUMS** — `DSA-Grandmaster-Codex/MASTER-INDEX.md` (+1 more)
 - **RE-VERIFICATION RHYTHM** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/06-Re-Verification-Rhythm.md` (+1 more)
 - **RECURSION DEPTH** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md` (+1 more)
@@ -275,6 +280,7 @@ Each links to the documents that define or teach it.
 - **THE 4-FILE SETUP** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/10-Stress-Testing.md` (+1 more)
 - **THE 5-STEP DP FRAMEWORK** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md` (+1 more)
 - **THE APPLICATION TRACKER** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md` (+1 more)
+- **THE BROADER LESSON** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md` (+1 more)
 - **THE DAILY MINIMUM (Non-Negotiable)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md` (+1 more)
 - **THE DECISION GUIDE** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/07-Two-Pointers-And-Sliding-Window.md` (+1 more)
 - **THE FAILURE FUNCTION** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/03-KMP.md` (+1 more)
@@ -282,6 +288,7 @@ Each links to the documents that define or teach it.
 - **THE GENERAL TEMPLATE** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md` (+1 more)
 - **THE LEAP OF FAITH** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/04-Recursion-Thinking.md` (+1 more)
 - **THE MASTER THEOREM** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md` (+1 more)
+- **THE META-LESSONS** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md` (+1 more)
 - **THE MUST-DO** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/00-Index.md` (+1 more)
 - **THE NARRATION STRUCTURE** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/04-Interview-Communication.md` (+1 more)
 - **THE OPTIMAL DAILY ROUTINE (3 Hours)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md` (+1 more)
@@ -301,7 +308,7 @@ Each links to the documents that define or teach it.
 - **TYPING EVENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/04-TypeScript-With-React.md` (+1 more)
 - **The Project (do this once, all the way through)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md` (+1 more)
 - **The problem generics solve** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md` (+1 more)
-- **The tools you will actually use** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md` (+1 more)
+- **The tools you will actually use** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md` (+1 more)
 - **Tier 1 — must use** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md` (+1 more)
 - **Tier 2** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md` (+1 more)
 - **Tips** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md` (+1 more)
@@ -318,7 +325,7 @@ Each links to the documents that define or teach it.
 - **WHERE TO PRACTICE** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/01-ICPC-Hello-World-of-Hard-Problems.md` (+1 more)
 - **Where to find them** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md` (+1 more)
 - **Where used** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md` (+1 more)
-- **Which version?** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md` (+1 more)
+- **Which version?** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md` (+1 more)
 - **Why it works** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/02-Two-Pointers/05-Trapping-Rain-Water.md` (+1 more)
 - **With Cooldown (LC 309)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md` (+1 more)
 - **With Transaction Fee (LC 714)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md` (+1 more)
@@ -330,6 +337,7 @@ Each links to the documents that define or teach it.
 - **"Java backend engineer" (~6–9 months)** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/02-The-Master-Roadmap.md`
 - **"Last 7 days," "this week," "this month"** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **"MECHO" (IOI 2007) — Binary Search on Answer + BFS** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/03-IOI-Ciphers-Mecho-Cake.md`
+- **"PROPOSITIONS AS TYPES" IN EVERYDAY CODE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **(Sometimes) Data Interpretation** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/05-Aptitude-And-Reasoning.md`
 - ****ABSTRACTION** — *"See the form behind the noise."*** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/01-The-Eternal-Mindset.md`
 - ****Abstraction**** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/01-Computational-Thinking.md`
@@ -444,6 +452,7 @@ Each links to the documents that define or teach it.
 - ****XVIII. Thou shalt teach what thou learnest.**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/03-The-Grandmaster-Code.md`
 - ****XX. Thou shalt embrace the suck.**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/03-The-Grandmaster-Code.md`
 - ****XXI. Thou shalt finish what thou started.**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/03-The-Grandmaster-Code.md`
+- ***Absolute Zero Absolute Mastery · The "Nothing Left" Edition*** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
 - ***The Complete Software Engineer + AI Engineer Operating System*** — `FULLSTACK-AI-GRANDMASTER-CODEX/README.md`
 - ***The Theory, Design, Internals, and Mastery of Every Programming Language*** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/README.md`
 - **.dockerignore & BUILD CONTEXT** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md`
@@ -460,7 +469,7 @@ Each links to the documents that define or teach it.
 - **01 — CODEFORCES MASTERY** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **01 — DIVIDE THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **01 — GRAPH FOUNDATIONS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
-- **01 — Java Fundamentals** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **01 — Java Fundamentals** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **01 — NUMBER THEORY** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
 - **01 — NoSQL & MongoDB Fundamentals** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **01 — POINT, VECTOR, BASIC OPS** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/08-COMPENDIUM-Geometry.md`
@@ -481,7 +490,7 @@ Each links to the documents that define or teach it.
 - **02 — Components & Props** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/02-Components-And-Props.md`
 - **02 — LINE / SEGMENT INTERSECTION** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/08-COMPENDIUM-Geometry.md`
 - **02 — Modules & NPM** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
-- **02 — Object-Oriented Programming in Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **02 — Object-Oriented Programming in Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **02 — RECURSIVE THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **02 — SQL Basics: DDL & DML** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **02 — STRING HASHING** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
@@ -503,11 +512,11 @@ Each links to the documents that define or teach it.
 - **03 — Querying Data: `SELECT`** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **03 — State & Events** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/03-State-And-Events.md`
 - **03 — Testing Strategies** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
-- **03 — The Collections Framework** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **03 — The Collections Framework** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **04 — Authentication Across The Stack** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **04 — DP THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **04 — Express Fundamentals** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
-- **04 — Generics & Functional Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **04 — Generics & Functional Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **04 — Git & Collaboration** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **04 — Hooks Deep Dive** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/04-Hooks-Deep-Dive.md`
 - **04 — INTERVIEW COMMUNICATION** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
@@ -527,7 +536,7 @@ Each links to the documents that define or teach it.
 - **05 — CYCLE DETECTION** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **05 — Context & State Management** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
 - **05 — Docker & Containers** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md`
-- **05 — Exceptions & I/O** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **05 — Exceptions & I/O** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **05 — FFT / NTT** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
 - **05 — GREEDY THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **05 — LIS FAMILY** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
@@ -539,7 +548,7 @@ Each links to the documents that define or teach it.
 - **06 — AHO-CORASICK** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
 - **06 — BRANCH AND BOUND** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md`
 - **06 — CLOSEST PAIR OF POINTS — O(n log n)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/08-COMPENDIUM-Geometry.md`
-- **06 — Concurrency & Multithreading** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **06 — Concurrency & Multithreading** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **06 — DEQUES** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md`
 - **06 — DIJKSTRA** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **06 — DISTRIBUTED ALGORITHMS** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
@@ -562,7 +571,7 @@ Each links to the documents that define or teach it.
 - **07 — OPTIMIZATION THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **07 — QUANTUM ALGORITHMS (Intro)** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
 - **07 — SWEEP LINE** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/08-COMPENDIUM-Geometry.md`
-- **07 — Spring Boot Essentials** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **07 — Spring Boot Essentials** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **07 — TWO POINTERS & SLIDING WINDOW** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md`
 - **07 — Transactions & Concurrency** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **08 — Advanced Node & Deployment** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
@@ -579,7 +588,7 @@ Each links to the documents that define or teach it.
 - **08 — STATE THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
 - **08 — STOCKS DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **08 — SUFFIX ARRAY** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
-- **08 — Spring Boot Data & JPA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **08 — Spring Boot Data & JPA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **09 — 0-1 BFS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **09 — ANTI-HACK THINKING** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **09 — CUCKOO HASHING (worst-case O(1) lookup)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
@@ -593,11 +602,23 @@ Each links to the documents that define or teach it.
 - **09 — TOP MATH PROBLEMS** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
 - **1 Advanced Trees / Range Structures** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **1 Arrays & Strings** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **1 Build Tools** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Class Loading** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Classes & Objects** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Classic I/O (java.io)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Exception Handling** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Generics Basics** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **1 Heavy Data Structures** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **1 Lambdas & Functional Interfaces** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Overview & Hierarchy** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Syntax & Structure** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 Thread Basics** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **1 What Java Is** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **1 — Authentication & Authorization `01`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
 - **1 — Foundations** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **1 — MERN Architecture & Data Flow `01`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **10 Divide & Conquer** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **10 Special Class Types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **10 universal stories to prepare** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
 - **10 — APPROXIMATION ALGORITHMS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md`
 - **10 — BINARY TREES** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
@@ -612,6 +633,7 @@ Each links to the documents that define or teach it.
 - **10 — TREE DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **10 — VORONOI / DELAUNAY** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/08-COMPENDIUM-Geometry.md`
 - **11 Dynamic Programming (Foundational)** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **11 Packages & Organization** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **11 — BINARY SEARCH TREES (BST)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
 - **11 — DAG DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **11 — GEOMETRIC THINKING** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
@@ -679,7 +701,18 @@ Each links to the documents that define or teach it.
 - **1⃣ 1D Dynamic Programming** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/02-1D-DP.md`
 - **2 Advanced Graph Theory** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **2 Advanced Graphs** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **2 Bounds & Wildcards** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Constructors & Initialization** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **2 Hashing** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **2 How Java Runs (the mental model)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 JVM Memory** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 List** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Method References** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 NIO.2 (java.nio.file)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Synchronization** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Testing** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Variables & Data Types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **2 Wrapper Classes** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **2 — Project Structure & Dev Environment `01`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **2 — Routing (App Router)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **2 — Web Security `02`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
@@ -709,7 +742,18 @@ Each links to the documents that define or teach it.
 - **2xx — success** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **3 Advanced DP & Optimizations** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **3 Advanced Math & Number Theory** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **3 Encapsulation & Access Control** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Garbage Collection** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 High-Level Concurrency (java.util.concurrent)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Installation & Toolchain** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **3 Linked Lists** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **3 Logging & Packaging** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Numbers & Math** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Serialization** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Set** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Streams API** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Type Conversion & Casting** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **3 Under the Hood & Limits** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **3 — Backend: Express + Mongoose `02`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **3 — Server & Client Components** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **3 — Testing Strategies `03`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
@@ -731,8 +775,16 @@ Each links to the documents that define or teach it.
 - **3Sum** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/02-Two-Pointers/03-3Sum.md`
 - **3xx — redirection** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **4 Computational Geometry** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **4 Date & Time (java.time)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 Execution & Tooling** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 Map** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 Networking (java.net)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 Operators** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **4 Stacks & Queues** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **4 String Algorithms** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **4 The Java Memory Model & Modern Threads** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 Your First Programs** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **4 `static`** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **4 — Git & Collaboration `04`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
 - **4 — REST API Design for the App `02`, `03`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **4 — Rendering & Caching** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
@@ -750,7 +802,12 @@ Each links to the documents that define or teach it.
 - **4NF and 5NF (pointer)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **4xx — client error** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **5 DSU Extensions** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **5 Extensibility & Native Interop** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **5 Game Theory & Randomization** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **5 Inheritance** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **5 Optional** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **5 Queue & Deque** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **5 Strings** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **5 Trees (Basic Intermediate)** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **5 — Data Fetching & Mutations** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **5 — Docker & Containers `05`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
@@ -761,39 +818,53 @@ Each links to the documents that define or teach it.
 - **53 — PALINDROMIC TREE (EERTREE)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md`
 - **5xx — server error** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **6 Graphs (Fundamental)** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **6 Input & Output Basics** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **6 Polymorphism** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **6 Regular Expressions** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **6 Sorting & Ordering** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **6 — API & Edge** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **6 — CI/CD & Deployment `06`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
 - **6 — Connecting Frontend Backend `01`, `03`, `04`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **6-9 months out (polish)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
+- **7 Abstraction** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **7 Assertions** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **7 Control Flow** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **7 Sorting & Searching** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **7 Utilities & Immutability** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **7 — Auth & Full-Stack** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **7 — Authentication End-to-End `04`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **7 — System Design `07`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
 - **79/Blind-style + SDE revision sheets** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/01-Striver-Sheets-Guide.md`
+- **8 Arrays** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **8 Internationalization (i18n) & Formatting** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **8 Recursion & Backtracking** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **8 The `Object` Class** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **8 — API Design & Observability `08`** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/00-Index.md`
 - **8 — Global State & Server State `05`, `03`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **8 — Optimization, SEO & Deployment** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **8-puzzle** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/08-Invariant-Discovery.md`
+- **9 Complete Keyword & Modifier Reference** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **9 Greedy** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
+- **9 Nested & Anonymous Classes** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **9 — Forms & Validation Across the Stack `02`, `03`, `04`** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **9 — Pages Router (contrast only)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **9-12 months: applying** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
-- **@OneToMany / @ManyToOne — the most common pairing** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **@OneToMany / @ManyToOne — the most common pairing** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **A "slice" — state + reducers + actions in one place** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
 - **A CAPSTONE QUERY — EVERYTHING TOGETHER** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
 - **A CLASSIC ICPC ARCHETYPE: "The Necklace" (graph + Euler)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/01-ICPC-Hello-World-of-Hard-Problems.md`
-- **A COHESIVE EXAMPLE — A SMALL DOMAIN MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
-- **A COMPLETE CRUD API** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
-- **A COMPLETE EXAMPLE — A ROBUST FILE PROCESSOR** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **A COHESIVE EXAMPLE — A SMALL DOMAIN MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
+- **A COMPLETE CRUD API** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
+- **A COMPLETE EXAMPLE — A ROBUST FILE PROCESSOR** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **A COMPLETE EXAMPLE — A SHOPPING CART COUNTER** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/03-State-And-Events.md`
 - **A COMPLETE EXAMPLE — COMPOSING A SMALL UI** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/02-Components-And-Props.md`
-- **A COMPLETE EXAMPLE — PARALLEL DOWNLOADER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **A COMPLETE EXAMPLE — PARALLEL DOWNLOADER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **A COMPLETE FULL-STACK FEATURE — END TO END** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
-- **A COMPLETE FUNCTIONAL EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **A COMPLETE FUNCTIONAL EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **A COMPLETE LITTLE COMPONENT** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **A COMPLETE LITTLE EXAMPLE — TWO-FILE PACKAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
-- **A COMPLETE LITTLE PROGRAM** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **A COMPLETE LITTLE PROGRAM** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
+- **A COMPLETE MINI FRONT END (Python)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **A COMPLETE RESPONSIVE LAYOUT EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **A COMPLETE REST RESOURCE** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **A COMPLETE TYPED + TESTED EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
@@ -808,7 +879,7 @@ Each links to the documents that define or teach it.
 - **A READING ROUTINE** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/04-Blogs-And-Newsletters.md`
 - **A REAL CRUD PATTERN — NODE NATIVE DRIVER** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **A REAL EXAMPLE — A MINI LOG-STREAMER (CLI)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
-- **A REALISTIC EXAMPLE — A TINY ANALYTICS PASS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **A REALISTIC EXAMPLE — A TINY ANALYTICS PASS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **A REALISTIC MIXED TREE** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/03-Server-And-Client-Components.md`
 - **A SAMPLE YEAR (Competitive track)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/04-Quarterly-Yearly-Planning.md`
 - **A SAMPLE YEAR (FAANG track)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/04-Quarterly-Yearly-Planning.md`
@@ -849,6 +920,7 @@ Each links to the documents that define or teach it.
 - **AGGREGATE FUNCTIONS — MANY ROWS INTO ONE VALUE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
 - **AGGREGATION FUNCTION** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md`
 - **AGGREGATORS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/04-Blogs-And-Newsletters.md`
+- **AHEAD-OF-TIME vs JUST-IN-TIME OPTIMIZATION** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **AHO-CORASICK + DP (the advanced CP use)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/06-Aho-Corasick.md`
 - **AHO-CORASICK VS ALTERNATIVES** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/06-Aho-Corasick.md`
 - **AI / ML ENGINEER** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/04-Choosing-Your-Path.md`
@@ -872,7 +944,7 @@ Each links to the documents that define or teach it.
 - **AN ARCHETYPE: "Geometry + Sweep"** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/02-ICPC-World-Finals-Greatest-Hits.md`
 - **AN ARCHETYPE: "Network Flow in Disguise"** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/02-ICPC-World-Finals-Greatest-Hits.md`
 - **ANALYZING NESTED LOOPS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md`
-- **ANATOMY OF A JAVA PROGRAM** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **ANATOMY OF A JAVA PROGRAM** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **ANATOMY OF AN ALGORITHMS PAPER** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/07-Reading-Research-Papers.md`
 - **ANATOMY OF AN HTTP REQUEST** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
 - **ANATOMY OF AN HTTP RESPONSE** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
@@ -907,7 +979,7 @@ Each links to the documents that define or teach it.
 - **ASYNC HANDLERS — A PRELUDE TO FILE 06** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
 - **ATCODER EDUCATIONAL DP CONTEST (EDPC)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
 - **ATCODER LIBRARY PRACTICE CONTEST (ACL)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
-- **ATOMICS AND CONCURRENT COLLECTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **ATOMICS AND CONCURRENT COLLECTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **AUTH MIDDLEWARE — PROTECT ROUTES, ATTACH req.user** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **AUTHENTICATION WITH AUTH.JS (NEXTAUTH v5)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **AUTHENTICATION vs AUTHORIZATION — THE TWO QUESTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md`
@@ -915,7 +987,7 @@ Each links to the documents that define or teach it.
 - **AUTHORIZATION — RBAC AND ABAC** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **AUTHORIZATION — ROLES & PERMISSIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **AUTO-INCREMENTING IDs** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
-- **AUTOBOXING — THE HIDDEN COST** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **AUTOBOXING — THE HIDDEN COST** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **AUTOMATIC TOKEN REFRESH ON 401** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **AVERAGE VS WORST VS BEST CASE** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md`
 - **AVOID** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/03-Discord-Servers.md`
@@ -923,10 +995,12 @@ Each links to the documents that define or teach it.
 - **AVOIDING RATING OBSESSION** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/08-Rating-Climbing-Systems.md`
 - **AVOIDING WATERFALLS — PARALLEL FETCHING** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/05-Data-Fetching-And-Mutations.md`
 - **AWESOME LISTS (meta-resources)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/13-GitHub-Repos.md`
+- **AXIOMATIC SEMANTICS — MEANING AS WHAT YOU CAN PROVE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **Abstraction & Decomposition — The Two Superpowers** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Abstraction in algorithms** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Actions that don't fit CRUD** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **Activity Selection** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
+- **Actors, CSP, and STM** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **Acyclic case** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/14-Probability-Expected-DP.md`
 - **Ad-hoc polymorphism (overloading / type classes)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md`
 - **Add Two Numbers** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/07-Add-Two-Numbers.md`
@@ -1295,8 +1369,8 @@ Each links to the documents that define or teach it.
 - **Array operators** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **Array representation** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md`
 - **Array update operators** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
-- **ArrayList vs LinkedList — the complexity that decides** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
-- **ArrayList — your default list** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **ArrayList vs LinkedList — the complexity that decides** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
+- **ArrayList — your default list** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Arrays & Hashing — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/01-Arrays-and-Hashing/00-Index.md`
 - **Arrays — The Atomic Data Structure** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
 - **Arrow function (ES6)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
@@ -1305,6 +1379,7 @@ Each links to the documents that define or teach it.
 - **Async middleware wrapper** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **Async patterns** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md`
 - **Async with `createAsyncThunk`** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
+- **Async/await — sequential-looking async** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **At most 2 transactions (LC 123)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md`
 - **At most k transactions (LC 188)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md`
 - **AtCoder ABC (100 min, 7-8 problems A-G/Ex)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/05-Contest-Training-System.md`
@@ -1317,7 +1392,7 @@ Each links to the documents that define or teach it.
 - **Atom 4: BFS finds shortest paths in unweighted graphs.** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
 - **Atom 5: DP is just memoized recursion + topological order.** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
 - **Atom 8: Divide & conquer: T(n) = aT(n/b) + f(n) Master Theorem.** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
-- **Atomic variables — lock-free counters** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **Atomic variables — lock-free counters** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **Attack 1: **The Direct Assault** (Brute Force First)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **Attack 2: **The Flank** (Symmetry/Reformulation)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **Attack 3: **The Siege** (Decomposition)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
@@ -1343,6 +1418,8 @@ Each links to the documents that define or teach it.
 - **BEGINNER-FRIENDLY** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/03-YouTube-Channels.md`
 - **BELLMAN-FORD (negative weights)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/06-Shortest-Paths.md`
 - **BETTER ALTERNATIVES TO "PREMIUM" TELEGRAM CHANNELS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/02-Telegram-Channels-Guide.md`
+- **BETTING ON THE HARD PATH — RUST'S BORROW CHECKER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
+- **BEYOND OWNERSHIP — RUST'S OTHER STRENGTHS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md`
 - **BFS & DFS — The Two Universal Traversals** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/02-BFS-and-DFS.md`
 - **BFS ON IMPLICIT STATE GRAPHS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/02-BFS-and-DFS.md`
 - **BFS for shortest path / level-by-level spread** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/11-Graphs/00-Index.md`
@@ -1360,12 +1437,14 @@ Each links to the documents that define or teach it.
 - **BLOGS & ARTICLES** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **BLOGS / NEWSLETTERS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/16-MASTER-LINK-DIRECTORY.md`
 - **BOOKS — THE CANON** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
+- **BORROWING — ACCESS WITHOUT OWNERSHIP** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
 - **BORŮVKA'S ALGORITHM** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md`
 - **BOUNDED KNAPSACK (k copies of each)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/04-Knapsack-Family.md`
 - **BOUNDED POLYMORPHISM — CONSTRAINTS ON TYPE PARAMETERS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md`
-- **BOUNDED TYPE PARAMETERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **BOUNDED TYPE PARAMETERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **BRANCHES, HEAD, AND THE TWO MERGES** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **BRANCHING STRATEGIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
+- **BREAKING THE WORLD — PYTHON 2 3** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
 - **BRIDGES** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/08-Bridges-Articulation.md`
 - **BRIDGES (cut edges)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md`
 - **BRUTE FORCE — O(nm)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/07-The-Story-of-KMP.md`
@@ -1376,7 +1455,7 @@ Each links to the documents that define or teach it.
 - **BUILD TO LEARN (THE CENTRAL LAW)** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
 - **BUILD YOUR OWN** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/09-Code-Libraries-CP.md`
 - **BUILDING A READING HABIT** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/07-Reading-Research-Papers.md`
-- **BUILDING A REST API WITH @RestController** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **BUILDING A REST API WITH @RestController** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **BUILDING IT** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/06-Aho-Corasick.md`
 - **BUILDING THE PROFILE THAT GETS NOTICED** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/09-Off-Campus-And-Referrals-Track.md`
 - **BULK WRITES — MIX AND MATCH IN ONE ROUND-TRIP** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
@@ -1385,6 +1464,7 @@ Each links to the documents that define or teach it.
 - **BURST BALLOONS (the interval DP legend)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **BY GOAL — RECOMMENDED PATHS** — `DSA-Grandmaster-Codex/MASTER-INDEX.md`
 - **BY TOPIC — DEEP DIVES** — `DSA-Grandmaster-Codex/MASTER-INDEX.md`
+- **BYTECODE VIRTUAL MACHINES — THE WORKHORSE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **Backend — "the brain users don't see"** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md`
 - **Backpressure for free with `pipeline`** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **Backtracking — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/10-Backtracking/00-Index.md`
@@ -1407,7 +1487,8 @@ Each links to the documents that define or teach it.
 - **Best Time to Buy and Sell Stock (LC 121)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Best Time to Buy and Sell Stock with Cooldown** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/09-Best-Time-Buy-Sell-Cooldown.md`
 - **Bidirectional Dijkstra** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
-- **Big-O cheat sheet** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **Big-O cheat sheet** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
+- **Big-step (natural) — straight to the final result** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **Big-table `ALTER` — the safe pattern** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **Bijection method** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **Binary Search** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/05-Binary-Search/01-Binary-Search.md`
@@ -1434,6 +1515,8 @@ Each links to the documents that define or teach it.
 - **Books (for depth)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/00-Index.md`
 - **Books By Level** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/01-Books-By-Level.md`
 - **Boolean** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
+- **Booleans (Church encoding)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
+- **Bottom-up (LR, LALR)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **Bottom-up (tabulation)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md`
 - **Bottom-up decomposition** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Bound pruning** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/05-Backtracking.md`
@@ -1451,6 +1534,7 @@ Each links to the documents that define or teach it.
 - **Bugs are not random** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
 - **Build** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
 - **Build O(n log n), query O(1).** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md`
+- **Build Your Own Language (Project)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **Build: O(n log V), Memory: O(n log V).** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md`
 - **Building the response** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **Built-in middleware** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
@@ -1459,15 +1543,18 @@ Each links to the documents that define or teach it.
 - **Bus Routes (LC 815)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/13-Google-Hardest-Problems.md`
 - **By topic** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
 - **C — Consistency ("the database moves from one valid state to another")** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
+- **C — The Portable Assembler** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md`
 - **C++** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
 - **C++ STL** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
 - **C++ STL: unordered_map vs map** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
+- **C++ — Zero-Cost Abstraction** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
 - **C/C++** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/07-Core-And-Hardware-Track.md`
 - **CACHE LINES & LOCALITY** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **CACHING & DYNAMIC BEHAVIOR** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **CACHING WITH REDIS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **CACHING — DON'T FETCH WHAT YOU ALREADY HAVE** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/06-Web-Performance-And-Security-Basics.md`
 - **CALIBRATION** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/01-FAANG-Interview-Simulation.md`
+- **CALLBACKS PROMISES ASYNC/AWAIT (the evolution)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **CALLBACKS PROMISES ASYNC/AWAIT — THE EVOLUTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **CALLBACKS — THE ORIGINAL ASYNC** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
 - **CANONICAL IMPLEMENTATION** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md`
@@ -1481,13 +1568,14 @@ Each links to the documents that define or teach it.
 - **CF / Competitive** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **CHARACTER FREQUENCY PATTERNS** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/01-String-Foundations.md`
 - **CHINESE POSTMAN (route inspection)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/11-Eulerian-Hamiltonian.md`
+- **CHOOSING A MODEL — THE DECISION TABLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **CHOOSING A MODULE SYSTEM TODAY** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **CHOOSING A PROBLEM** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/08-Writing-Original-Algorithms.md`
 - **CHOOSING A STRATEGY — DECISION TABLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/04-Rendering-Strategies-SSR-SSG-ISR.md`
 - **CHOOSING THE RIGHT ALGORITHM** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md`
-- **CHOOSING THE RIGHT COLLECTION — DECISION GUIDE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **CHOOSING THE RIGHT COLLECTION — DECISION GUIDE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **CI/CD — THE SHORT VERSION** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
-- **CLASSES AND OBJECTS — THE CORE IDEA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **CLASSES AND OBJECTS — THE CORE IDEA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **CLASSES — SUGAR OVER PROTOTYPES** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md`
 - **CLASSIC APPLICATIONS** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md`
 - **CLASSIC BACKTRACKING PROBLEMS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/05-Backtracking.md`
@@ -1499,7 +1587,7 @@ Each links to the documents that define or teach it.
 - **CLASSIC HLD PROBLEMS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
 - **CLASSIC LLD PROBLEMS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
 - **CLASSIC REDUCTION CHAINS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/02-Algorithmic-Reduction.md`
-- **CLASSIC STREAMS — BYTES vs CHARACTERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **CLASSIC STREAMS — BYTES vs CHARACTERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **CLASSIC SUBTREE DPs** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md`
 - **CLIENT COMPONENTS — `"use client"`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/03-Server-And-Client-Components.md`
 - **CLIENT STATE vs SERVER STATE (THE DEEPER CUT)** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/05-State-File-Uploads-And-Realtime.md`
@@ -1511,6 +1599,7 @@ Each links to the documents that define or teach it.
 - **CLUSTERING — USING ALL YOUR CPU CORES** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **CMD vs ENTRYPOINT — the classic confusion** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md`
 - **CODE (FFT skeleton)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/06-The-Story-of-FFT.md`
+- **CODE GENERATION — IR TO MACHINE CODE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **CODE SPLITTING — SHIP LESS JAVASCRIPT** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/08-Performance-Optimization.md`
 - **CODEFORCES /EDU (interactive courses)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
 - **COLLISIONS** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
@@ -1535,7 +1624,9 @@ Each links to the documents that define or teach it.
 - **COMPETITIVE PROGRAMMING (free)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/02-Online-Courses.md`
 - **COMPILED VS INTERPRETED** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
 - **COMPILER OPTIMIZATIONS (Why C++ -O2 matters)** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
+- **COMPILERS & INTERPRETERS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **COMPILERS / INTERPRETERS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/07-Tools-And-IDEs.md`
+- **COMPLETENESS PROMISE & SCOPE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **COMPLEXITY & CRYPTO** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/05-Research-Papers-Canon.md`
 - **COMPLEXITY GAINS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/15-DP-Optimizations.md`
 - **COMPLEXITY REFERENCE** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md`
@@ -1556,7 +1647,7 @@ Each links to the documents that define or teach it.
 - **CONDITIONAL LOWER BOUNDS (modern)** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **CONDITIONAL RENDERING** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **CONDITIONAL TYPES — TYPE-LEVEL IF/ELSE** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md`
-- **CONFIGURATION — application.properties** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **CONFIGURATION — application.properties** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **CONFLICTS — RESOLVING AND AVOIDING** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **CONNECT TO MONGODB WITH LIFECYCLE EVENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **CONNECTING A DATABASE — THE FOUR PATTERNS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
@@ -1572,7 +1663,7 @@ Each links to the documents that define or teach it.
 - **CONSTRUCTION (online, O(n))** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/09-Suffix-Automaton.md`
 - **CONSTRUCTION (online, conceptual)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/11-Palindromic-Tree.md`
 - **CONSTRUCTION — O(n log n)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/06-KD-Tree.md`
-- **CONSTRUCTORS — CONTROLLED CREATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **CONSTRUCTORS — CONTROLLED CREATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **CONTAINER / PRESENTATIONAL (SMART vs DUMB)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md`
 - **CONTENT NEGOTIATION & ETAGS (BRIEFLY)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **CONTENT SECURITY POLICY (CSP)** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md`
@@ -1580,7 +1671,7 @@ Each links to the documents that define or teach it.
 - **CONTEST WARFARE** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **CONTEXT + REDUCER — A MINI REDUX, BUILT IN** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
 - **CONTEXT PERFORMANCE — THE PITFALL EVERYONE HITS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
-- **CONTROL FLOW** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **CONTROL FLOW** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **CONTROLLED INPUTS — THE CORE PATTERN** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/06-Forms-And-Controlled-Components.md`
 - **CONTROLLERS, SERVICES, REPOSITORIES — A WORKED EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **CONVENTIONAL COMMITS & SEMANTIC RELEASE** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
@@ -1588,6 +1679,7 @@ Each links to the documents that define or teach it.
 - **CONVEX COSTS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/15-Min-Cost-Flow.md`
 - **CONVEXITY TEST** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/05-Polygon-Operations.md`
 - **COOKIE SECURITY FLAGS** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md`
+- **COOPERATIVE vs PREEMPTIVE (the fundamental difference)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **CORE CONCEPTS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/04-OOP.md`
 - **CORE OPERATIONS & COMPLEXITY** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/01-String-Foundations.md`
 - **CORE SQL TO MASTER** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/06-SQL-Practice.md`
@@ -1613,7 +1705,7 @@ Each links to the documents that define or teach it.
 - **CRAFT — AAA, NAMING, FIXTURES, FACTORIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
 - **CRDTs (Conflict-free Replicated Data Types)** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
 - **CREATE — `insertOne` / `insertMany`** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
-- **CREATING THREADS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **CREATING THREADS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **CREATING, INSERTING & REMOVING ELEMENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
 - **CRITICAL ASSUMPTION** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
 - **CROSS JOIN — THE CARTESIAN PRODUCT** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
@@ -1625,6 +1717,7 @@ Each links to the documents that define or teach it.
 - **CSES PROBLEM SET (the structured CP curriculum)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
 - **CSES Problem Set (for CP)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/00-Index.md`
 - **CSES completion order** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
+- **CSP — COMMUNICATING SEQUENTIAL PROCESSES (Go's model)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **CSRF CONSIDERATIONS WITH COOKIE AUTH** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **CSRF — `csurf` (deprecated, use a maintained fork) or **double-submit cookie**** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **CSS Essentials** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
@@ -1643,7 +1736,7 @@ Each links to the documents that define or teach it.
 - **CURRICULUM (8 Modules, ~50 hours)** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-00-Programming-Foundations.md`
 - **CURRYING** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/08-Advanced-JS-Patterns.md`
 - **CUSTOM COMPARATORS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/02-Sorting.md`
-- **CUSTOM EXCEPTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **CUSTOM EXCEPTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **CUSTOM HOOKS WRAPPING THE DATA LAYER** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **CUSTOM HOOKS — REUSING STATEFUL LOGIC** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/04-Hooks-Deep-Dive.md`
 - **CUSTOM HOOKS — THE PRIMARY REUSE MECHANISM** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md`
@@ -1660,10 +1753,12 @@ Each links to the documents that define or teach it.
 - **Callback API (the original)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **Callback hell (don't do this anymore)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **Callback hell (the pyramid of doom)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
+- **Callbacks — the beginning (and "callback hell")** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **Candidate key** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **Capturing phase (rarely needed)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
 - **Car Fleet** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/04-Stack/06-Car-Fleet.md`
 - **Cartesian product** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
+- **Case Studies — Learning from History's Decisions** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md`
 - **Case Studies — Legendary Problems Dissected** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md`
 - **Case Study** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/00-Index.md`
 - **Case Study & Template** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/00-Index.md`
@@ -1685,12 +1780,12 @@ Each links to the documents that define or teach it.
 - **Check 2: Refactor** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/11-The-Polya-Method.md`
 - **Check 3: Reflect** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/11-The-Polya-Method.md`
 - **Check 4: Internalize** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/11-The-Polya-Method.md`
-- **Checked vs unchecked — the crucial distinction** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **Checked vs unchecked — the crucial distinction** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **Checking for properties** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
 - **Cherry Pickup (LC 741) / Cherry Pickup II (LC 1463)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/03-2D-DP-Grids.md`
 - **Cherry Pickup (LC 741, two simultaneous traversals)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Choosing Your Path** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/04-Choosing-Your-Path.md`
-- **Choosing a pool** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **Choosing a pool** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **Classic** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
 - **Classic: expected dice rolls / random walks** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/14-Probability-Expected-DP.md`
 - **Classical DP Compendium** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
@@ -1703,6 +1798,7 @@ Each links to the documents that define or teach it.
 - **Closest Pair of Points** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/04-Closest-Pair.md`
 - **Closest pair (sweep variant)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md`
 - **Closest pair of points — O(n log n)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md`
+- **Code Generation and Optimization (The Back End)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **Code repo (for power users)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
 - **Codeforces Blogs (search by author)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **Codeforces Div 2 (2-2.5 hours, 5-6 problems)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/05-Contest-Training-System.md`
@@ -1716,7 +1812,7 @@ Each links to the documents that define or teach it.
 - **Coin Change II** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/14-2D-Dynamic-Programming/04-Coin-Change-II.md`
 - **Coin Change II (number of ways, LC 518)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Coin flipping** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/08-Invariant-Discovery.md`
-- **Collectors — gathering results** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **Collectors — gathering results** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **Column-family / wide-column — Cassandra, HBase, Bigtable, ScyllaDB** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **Combination Sum** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/10-Backtracking/02-Combination-Sum.md`
 - **Combination Sum (LC 39)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/05-Backtracking.md`
@@ -1729,6 +1825,7 @@ Each links to the documents that define or teach it.
 - **Command injection & path traversal** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md`
 - **Common DNS record types** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
 - **Common GFs** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
+- **Common IR forms** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **Common `useEffect` mistakes** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/04-Hooks-Deep-Dive.md`
 - **Common denormalization techniques** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **Common event type reference** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/04-TypeScript-With-React.md`
@@ -1757,7 +1854,8 @@ Each links to the documents that define or teach it.
 - **Competitive Programming Wisdom — The Complete Compendium** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **Compilation & Execution — From Source to Silicon** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
 - **Compile a file** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
-- **CompletableFuture — COMPOSABLE ASYNC** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **Compilers and Interpreters** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md`
+- **CompletableFuture — COMPOSABLE ASYNC** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **Complexities** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md`
 - **Complexity Thinking — The Asymptotic Worldview** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md`
 - **Complexity: O(n + m) time, O(alphabet) space.** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/03-Sliding-Window/05-Minimum-Window-Substring.md`
@@ -1784,10 +1882,12 @@ Each links to the documents that define or teach it.
 - **Concat, replace, split** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **Concatenated / compound words** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md`
 - **Concrete debugging tactics** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
+- **Concurrency Models** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md`
+- **Concurrency — the headline** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
 - **Concurrent and Reactive Programming** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md`
-- **Concurrent collections — thread-safe by design** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **Concurrent collections — thread-safe by design** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **Conditional probability** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
-- **Conditionals** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **Conditionals** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **Configure providers and export helpers** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **Connected Components** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/05-Connected-Components.md`
 - **Connected Components / DSU** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
@@ -1852,17 +1952,18 @@ Each links to the documents that define or teach it.
 - **Cursor pagination (stable, scales)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **Cursors — the lazy iterator** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **Custom hooks with `renderHook`** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
-- **Custom queries with @Query** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **Custom queries with @Query** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **Custom transforms** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **Cycle Detection** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/04-Cycle-Detection.md`
 - **Cyclic case (the tricky one)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/14-Probability-Expected-DP.md`
 - **D — Durability ("once committed, it survives crashes")** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **DAG DP RECIPES** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/11-Graph-DP-DAG.md`
+- **DATA PARALLELISM — A DIFFERENT AXIS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **DATA TYPES — THE FULL TOUR (POSTGRES)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **DATABASE CONNECTIONS IN HANDLERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **DATE / TIME FUNCTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **DBMS — Interview Prep** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/02-DBMS.md`
-- **DEADLOCK AND OTHER HAZARDS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **DEADLOCK AND OTHER HAZARDS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **DEADLOCKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **DEALING WITH SETBACKS** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
 - **DEBOUNCE & THROTTLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/08-Advanced-JS-Patterns.md`
@@ -1877,6 +1978,7 @@ Each links to the documents that define or teach it.
 - **DEFAULT, REST & SPREAD (recap + nuance)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
 - **DELETE** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **DENORMALIZATION — BREAKING THE RULES, ON PURPOSE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
+- **DENOTATIONAL SEMANTICS — MEANING AS MATHEMATICAL OBJECTS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **DEPENDENCIES ARE A SECURITY SURFACE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **DEPENDENCIES, DEV DEPENDENCIES, AND PEER DEPS — IN PRACTICE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **DEPENDENCY & SUPPLY-CHAIN SECURITY** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md`
@@ -1918,6 +2020,7 @@ Each links to the documents that define or teach it.
 - **DOCKER — SHIPPING NODE PROPERLY** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **DOCUMENT SIZE LIMIT AND OTHER HARD LIMITS** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **DOCUMENTATION — OPENAPI / SWAGGER** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
+- **DOMAIN-SPECIFIC LANGUAGES (DSLs)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **DOMINO TILING (the canonical example)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/17-Profile-DP.md`
 - **DP (10)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
 - **DP Cheatsheet — Recognition & Recall** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/19-DP-Cheatsheet.md`
@@ -1957,6 +2060,7 @@ Each links to the documents that define or teach it.
 - **Days 1-30: Foundation + Patterns** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/06-Interview-Training-System.md`
 - **Days 31-60: Depth + Speed** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/06-Interview-Training-System.md`
 - **Days 61-90: Polish + Simulate** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/06-Interview-Training-System.md`
+- **Deadlock** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **Debounce — "wait until the user stops"** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/08-Advanced-JS-Patterns.md`
 - **Debugging tools** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **Deception 1: **The Story Trap**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
@@ -2242,14 +2346,16 @@ Each links to the documents that define or teach it.
 - **EERTREE VS MANACHER** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/11-Palindromic-Tree.md`
 - **EFFICIENT IMPLEMENTATION** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
 - **EMOTIONAL REGULATION** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/05-Contest-Strategy.md`
+- **ENCODING EVERYTHING FROM NOTHING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **ENERGY > TIME** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
-- **ENTITIES — MAPPING OBJECTS TO TABLES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **ENTITIES — MAPPING OBJECTS TO TABLES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **ENTITY-RELATIONSHIP (ER) MODELING** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **ENVIRONMENT CONFIG — 12-FACTOR** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **ENVIRONMENT CONFIG — LOAD ONCE, VALIDATE, EXPORT** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **ENVIRONMENT VARIABLES — THE FOUNDATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **ERRICHTO'S TEACHING RESOURCES** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/12-Errichto-Editorials-Studied.md`
 - **ERROR BOUNDARIES — CATCHING RENDER CRASHES** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md`
+- **ERROR HANDLING — THE MARK OF A GOOD COMPILER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **ERROR HANDLING — `error.tsx` AND `not-found.tsx`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **ERROR-FIRST CALLBACKS — THE NODE CONVENTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **ES6+ Modern Features** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
@@ -2277,9 +2383,9 @@ Each links to the documents that define or teach it.
 - **EXAMPLE: PROVING DIJKSTRA'S CORRECTNESS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/09-Proof-Construction.md`
 - **EXAMPLES OF STATE DESIGN** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/07-State-Design.md`
 - **EXAMPLES OF THE PROTOCOL IN ACTION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md`
-- **EXCEPTION ANTI-PATTERNS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **EXCEPTION ANTI-PATTERNS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **EXCHANGE ARGUMENT — A WORKED EXAMPLE** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
-- **EXECUTORSERVICE — DON'T MANAGE THREADS BY HAND** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **EXECUTORSERVICE — DON'T MANAGE THREADS BY HAND** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **EXERCISE: IDENTIFY THE STATE** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
 - **EXERCISE: TRANSLATE ENGLISH MATH** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/01-Computational-Thinking.md`
 - **EXERCISES — INVENT MINI-ALGORITHMS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/01-How-Algorithms-Are-Invented.md`
@@ -2289,7 +2395,7 @@ Each links to the documents that define or teach it.
 - **EXPECTED VALUE** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **EXPECTED-VALUE DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/14-Probability-Expected-DP.md`
 - **EXPLAIN — SEEING HOW THE DATABASE RUNS YOUR QUERY** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
-- **EXPLICIT LOCKS — WHEN synchronized ISN'T ENOUGH** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **EXPLICIT LOCKS — WHEN synchronized ISN'T ENOUGH** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **EXPONENTIAL / GALLOPING SEARCH — O(log p) where p is target position** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
 - **EXPONENTIAL GENERATING FUNCTIONS (EGF)** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/10-Generating-Functions.md`
 - **EXPRESS vs ALTERNATIVES — A QUICK TOUR** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
@@ -2362,7 +2468,7 @@ Each links to the documents that define or teach it.
 - **Example: expected comparisons in randomized quicksort** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **Example: expected fixed points of a random permutation** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **Examples of hidden graphs** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md`
-- **Exception chaining — preserve the cause** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **Exception chaining — preserve the cause** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **Exchange argument** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
 - **Execution Systems — How to Train** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/00-Index.md`
 - **Exhaustiveness checking with `never`** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
@@ -2373,6 +2479,7 @@ Each links to the documents that define or teach it.
 - **Expression (functional) indexes** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
 - **Expression-oriented (Rust, Haskell, Scala, Ruby, Kotlin)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md`
 - **Expressions, Statements, and Control Flow** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md`
+- **External DSLs — their own syntax, parsed by a tool** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **Extra defense** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/02-Hashing.md`
 - **Extracting parts** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **FAANG / MAANG Reality Check — DSA is Necessary, Not Sufficient** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/03-FAANG-Reality-Check.md`
@@ -2407,6 +2514,7 @@ Each links to the documents that define or teach it.
 - **FORMULA** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/08-Euler-Totient.md`
 - **FORUMS / BLOGS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/06-Communities.md`
 - **FOUNDATIONAL (free)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/02-Online-Courses.md`
+- **FOUNDATIONS & GENERAL PL** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **FP HAS QUIETLY WON (in every language)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md`
 - **FROM SCRATCH IMPLEMENTATION (C++)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
 - **FROM SHELL TO NODE — A FIRST DRIVER USAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
@@ -2418,7 +2526,8 @@ Each links to the documents that define or teach it.
 - **FULLSTACK-AI-GRANDMASTER-CODEX** — `FULLSTACK-AI-GRANDMASTER-CODEX/README.md`
 - **FULLY DYNAMIC (add AND remove, online)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/18-Dynamic-Graphs.md`
 - **FUNCTION COMPOSITION & PIPELINES** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/08-Advanced-JS-Patterns.md`
-- **FUNCTIONAL INTERFACES AND LAMBDAS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **FUNCTIONAL INTERFACES AND LAMBDAS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
+- **FUNCTIONAL PROGRAMMING & LAMBDA CALCULUS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **FUNCTIONS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **FUNCTIONS ARE FIRST-CLASS VALUES** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
 - **FUNDAMENTALS OVER FRAMEWORKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
@@ -2495,13 +2604,13 @@ Each links to the documents that define or teach it.
 - **GC vs THE ALTERNATIVES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/02-Garbage-Collection.md`
 - **GCD / LCM** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
 - **GENERIC ADTs — COMPOSING THE IDEAS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md`
-- **GENERIC CLASSES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **GENERIC CLASSES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **GENERIC COMPONENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/04-TypeScript-With-React.md`
-- **GENERIC METHODS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **GENERIC METHODS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **GENERICS — TYPE PARAMETERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md`
 - **GIFT WRAPPING (Jarvis March) — O(nh)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/02-Convex-Hull.md`
 - **GITHUB REPOSITORIES (real URLs)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/16-MASTER-LINK-DIRECTORY.md`
-- **GLOBAL EXCEPTION HANDLING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **GLOBAL EXCEPTION HANDLING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **GOTCHAS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/08-Bit-Manipulation.md`
 - **GRACEFUL SHUTDOWN** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **GRADUAL TYPING — MIXING STATIC AND DYNAMIC** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md`
@@ -2509,6 +2618,7 @@ Each links to the documents that define or teach it.
 - **GRAPH ISOMORPHISM (Babai — 2016)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/10-Recent-Breakthroughs.md`
 - **GRAPH MODELING — THE REAL SKILL** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md`
 - **GREEDY PROBLEM CATEGORIES** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
+- **GREEN THREADS / GOROUTINES — ASYNC WITHOUT THE `await`** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **GRID BUCKETING (randomized O(n) expected)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/04-Closest-Pair.md`
 - **GRID COMPONENTS (very common)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/05-Connected-Components.md`
 - **GRID PATH PROBLEMS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/03-2D-DP-Grids.md`
@@ -2542,6 +2652,7 @@ Each links to the documents that define or teach it.
 - **GitHub** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
 - **GitHub Repositories — The Open-Source Goldmine** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/13-GitHub-Repos.md`
 - **Global Big Tech Track** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/02-Global-Big-Tech-Track.md`
+- **Go — Radical Simplicity** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
 - **Google "Googliness"** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
 - **Google / Meta Interview Problems** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md`
 - **Google — "Googliness"** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/08-Behavioral-Integration.md`
@@ -2587,12 +2698,14 @@ Each links to the documents that define or teach it.
 - **HLD vs CENTROID — WHICH?** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/17-HLD-Centroid.md`
 - **HOISTING — WHY YOU CAN SOMETIMES USE THINGS EARLY** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
 - **HOW A B-TREE INDEX WORKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
+- **HOW ASYNC/AWAIT ACTUALLY WORKS (the magic revealed)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **HOW CSS IS APPLIED** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **HOW IT ALL CONNECTS — ONE TRACE** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **HOW JAVASCRIPT BLOCKS RENDERING** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **HOW POLYMORPHISM ACTUALLY WORKS (the vtable)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md`
 - **HOW THE CODEX MAPS TO THE SYLLABUS** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/00-Index.md`
 - **HOW THE ENGINE WORKS: UNIFICATION + BACKTRACKING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/04-Logic-and-Declarative.md`
+- **HOW THEY RELATE AND WHY YOU CARE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **HOW TO ACTUALLY DECIDE** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/04-Choosing-Your-Path.md`
 - **HOW TO CHOOSE A LANGUAGE (the honest checklist)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md`
 - **HOW TO EARN IT** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/05-Mastery-Certificate-Template.md`
@@ -2611,11 +2724,13 @@ Each links to the documents that define or teach it.
 - **HOW TO USE NEETCODE** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/02-NeetCode-Blind75-Guide.md`
 - **HOW TO USE THE A2Z SHEET** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/01-Striver-Sheets-Guide.md`
 - **HOW TO USE THE LOG** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
+- **HOW TO USE THIS SECTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
 - **HOW TO USE THIS UNIVERSE** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/00-Index.md`
 - **HOW TO VET A CHANNEL** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/02-Telegram-Channels-Guide.md`
 - **HOW TO WORK THIS LIST** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/20-50-Classic-DP-Problems.md`
 - **HOW TOP TEAMS APPROACH WF** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/02-ICPC-World-Finals-Greatest-Hits.md`
 - **HOW TYPESCRIPT WORKS — THE MENTAL MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
+- **HOW WE PROCEED (the method)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **HR INTERVIEW — COMMON QUESTIONS** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/05-Service-Companies-Track.md`
 - **HTML Essentials** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md`
 - **HTTP METHODS (VERBS)** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
@@ -2645,7 +2760,7 @@ Each links to the documents that define or teach it.
 - **Hard: LC 84 — Largest Rectangle in Histogram** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md`
 - **Hash Tables — The O(1) Magic** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
 - **Hash collisions** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/09-Anti-Hack-Thinking.md`
-- **HashMap vs LinkedHashMap vs TreeMap** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **HashMap vs LinkedHashMap vs TreeMap** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Heap / Priority Queue — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/09-Heap-Priority-Queue/00-Index.md`
 - **Heaps & Range Query Compendium** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Heaps-And-Range.md`
 - **Heavy-Light Decomposition & Centroid Decomposition** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/17-HLD-Centroid.md`
@@ -2665,11 +2780,13 @@ Each links to the documents that define or teach it.
 - **How The Web Works — The Overview** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md`
 - **How a DNS lookup works** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
 - **How it happens** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/06-Web-Performance-And-Security-Basics.md`
+- **How to Design a Language** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **How to Read a Problem — The Forensic Discipline** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md`
 - **How to Run These Examples** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/00-Index.md`
 - **How to participate in rounds** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **How to prevent it** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/06-Web-Performance-And-Security-Basics.md`
 - **How to prove a greedy is correct** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/15-Greedy/00-Index.md`
+- **How to read a language file** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md`
 - **How to run solo** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/01-FAANG-Interview-Simulation.md`
 - **HyperLogLog** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
 - **I — Isolation ("concurrent transactions don't step on each other")** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
@@ -2696,7 +2813,7 @@ Each links to the documents that define or teach it.
 - **INFINITE SETS (cardinality)** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **INJECTION — SQL, NoSQL, COMMAND, PATH** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md`
 - **INNER JOIN — ONLY MATCHING ROWS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
-- **INPUT AND OUTPUT** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **INPUT AND OUTPUT** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **INSERTING AND READING — A FIRST TASTE** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **INSPECTING WHAT NODE IS DOING** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **INSTALL & A 6-LINE SERVER** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
@@ -2704,8 +2821,9 @@ Each links to the documents that define or teach it.
 - **INSTALLING & COMPILING** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **INTEGER OVERFLOW — THE SILENT KILLER** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **INTERCEPTING ROUTES — `(.)`, `(..)`, `(...)`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
-- **INTERFACES vs ABSTRACT CLASSES — THE BIG DECISION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **INTERFACES vs ABSTRACT CLASSES — THE BIG DECISION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **INTERFACES vs TYPE ALIASES** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
+- **INTERMEDIATE REPRESENTATIONS (IR)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **INTERPOLATION SEARCH — O(log log n) for uniform distribution** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
 - **INTERVIEW PREP (DSA)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/01-YouTube-Channels-Complete.md`
 - **INTERVIEW PROBLEMS (TOP 30)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
@@ -2717,7 +2835,7 @@ Each links to the documents that define or teach it.
 - **INVARIANTS AS DESIGN PRIMITIVES** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/04-Discovering-Invariants.md`
 - **INVARIANTS FOR CORRECTNESS PROOFS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/04-Discovering-Invariants.md`
 - **INVERSE FFT (interpolation)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/06-The-Story-of-FFT.md`
-- **INVERSION OF CONTROL & DEPENDENCY INJECTION — THE CORE IDEA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **INVERSION OF CONTROL & DEPENDENCY INJECTION — THE CORE IDEA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **IOI "Aliens" and the Birth of the Aliens Trick** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md`
 - **IOI = International Olympiad in Informatics** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **IOI Legends: Mecho, Cake, and the Art of Subtasks** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/03-IOI-Ciphers-Mecho-Cake.md`
@@ -2729,7 +2847,7 @@ Each links to the documents that define or teach it.
 - **ISPs AND THE PHYSICAL INTERNET** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
 - **ITERATIVE SEGMENT TREE (cache-friendly)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md`
 - **ITERATORS & GENERATORS** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
-- **ITERATORS AND SAFE REMOVAL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **ITERATORS AND SAFE REMOVAL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **IV — At Most K Transactions (LC 188)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Idea** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
 - **Immutable state** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
@@ -2757,10 +2875,12 @@ Each links to the documents that define or teach it.
 - **Input edges** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **Input sanitization — `xss`, `dompurify`, `validator`** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **Input types matter** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md`
-- **Input with Scanner** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **Input with Scanner** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **Insert Interval** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/16-Intervals/01-Insert-Interval.md`
 - **Insertion (the "cuckoo" kick-out)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
 - **Inspecting and setting prototypes (modern API)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md`
+- **Instruction scheduling** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
+- **Instruction selection** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **Integer / Mixed-Integer Programming** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/06-Branch-And-Bound.md`
 - **Integer overflow** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/09-Anti-Hack-Thinking.md`
 - **Integration tests — pieces working together** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
@@ -2770,6 +2890,8 @@ Each links to the documents that define or teach it.
 - **Interleaving String (LC 97)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/07-Edit-Distance-Family.md`
 - **Interleaving String — LC 97** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md`
 - **Intermediate (Level 3-5)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md`
+- **Internal (embedded) DSLs — a fluent API inside a host language** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
+- **Interpreters, VMs, and JIT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **Intersection (`&`) — "all of these combined"** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **Interval DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/09-Interval-DP.md`
 - **Interval problems** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
@@ -2789,7 +2911,10 @@ Each links to the documents that define or teach it.
 - **Iteration order matters** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
 - **Iterative path compression (no recursion stack)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md`
 - **JAVA / JVM** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
+- **JAVA MASTERY — Section 04** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
+- **JAVASCRIPT'S DEFINING FEATURES (AND WARTS)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md`
 - **JEST / VITEST — THE TOOLKIT** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
+- **JIT costs** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **JOIN TYPES — THE COMPARISON TABLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
 - **JOIN vs SUBQUERY — A PREVIEW** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
 - **JOTAI — ATOMIC STATE** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
@@ -2798,14 +2923,17 @@ Each links to the documents that define or teach it.
 - **JSX rules that trip up beginners** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **JSX — JAVASCRIPT THAT LOOKS LIKE HTML** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **JUMP SEARCH — O(√n)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
+- **JUST-IN-TIME (JIT) COMPILATION — THE BEST OF BOTH** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **JWT pitfalls — read carefully** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **JWT — JSON WEB TOKENS, DONE PROPERLY** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **Java** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
-- **Java Mastery** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md`
+- **Java Mastery** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md`
 - **Java with JDBC — disable autocommit, commit/rollback, close** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **Java — JDBC + a pool (HikariCP), or JPA** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/08-Advanced-SQL-And-Production.md`
+- **Java — The Enterprise Workhorse** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md`
 - **JavaScript Fundamentals** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **JavaScript Mastery** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/00-Index.md`
+- **JavaScript and TypeScript — The Language of the Web** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md`
 - **Job Alert Channels — Finding Opportunities** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md`
 - **Job Alerts** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/00-Index.md`
 - **Job Assignment** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/06-Branch-And-Bound.md`
@@ -2860,6 +2988,7 @@ Each links to the documents that define or teach it.
 - **Kuhn's Algorithm (augmenting paths)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/12-Bipartite-Matching.md`
 - **KÖNIG'S THEOREM & DUALITY** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/12-Bipartite-Matching.md`
 - **LAG / LEAD — peek at other rows** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
+- **LANGUAGE-SPECIFIC DEEP DIVES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **LARGEST RECTANGLE IN HISTOGRAM (the monotonic stack legend)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **LAYOUTS AND NESTED LAYOUTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **LAZY LOADING — DEFER WHAT ISN'T NEEDED YET** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/06-Web-Performance-And-Security-Basics.md`
@@ -2868,6 +2997,7 @@ Each links to the documents that define or teach it.
 - **LCP array (Kasai's, O(n))** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
 - **LCS (LC 1143)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **LCS — the canonical 2D DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/06-LCS-Family.md`
+- **LEARN FROM CLASSIC MISTAKES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **LEARNING PATH FOR ADVANCED DS** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md`
 - **LEETCODE PREMIUM (paid) — what you get** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/03-LeetCode-Lists-Guide.md`
 - **LEFT / RIGHT / FULL OUTER JOINS — KEEPING UNMATCHED ROWS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
@@ -2902,9 +3032,11 @@ Each links to the documents that define or teach it.
 - **LEVEL 8-10** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/02-Problem-Trial-Bank.md`
 - **LEVEL 9-10 (Research / Inventor)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/01-Books-By-Level.md`
 - **LEVEL 9-10 CONCEPTS** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/03-Teaching-Trial-Bank.md`
+- **LEXICAL ANALYSIS (THE LEXER)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **LEXICOGRAPHICALLY SMALLEST TOPO ORDER** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/03-Topological-Sort.md`
 - **LFU Cache (LC 460)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/13-Google-Hardest-Problems.md`
 - **LIFETIME — WHEN A BINDING LIVES AND DIES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
+- **LIFETIMES — PROVING REFERENCES DON'T DANGLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
 - **LIFTING STATE UP** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/03-State-And-Events.md`
 - **LINEAR AND AFFINE TYPES — TRACKING USAGE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md`
 - **LINEAR SEARCH — O(n)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
@@ -2918,7 +3050,8 @@ Each links to the documents that define or teach it.
 - **LIS — O(n log n) (patience sorting)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/05-LIS-Family.md`
 - **LIS — O(n²) DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/05-LIS-Family.md`
 - **LIST VIRTUALIZATION (WINDOWING)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/08-Performance-Optimization.md`
-- **LIST — ORDERED, INDEXED, ALLOWS DUPLICATES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **LIST — ORDERED, INDEXED, ALLOWS DUPLICATES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
+- **LLVM — THE IR THAT ATE THE WORLD** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **LOAD FACTOR & RESIZING** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/07-Hash-Tables.md`
 - **LOADING & ERROR UX FOR THE WHOLE FLOW** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/05-Data-Fetching-And-Mutations.md`
 - **LOADING UI — `loading.tsx`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
@@ -2932,6 +3065,7 @@ Each links to the documents that define or teach it.
 - **LONGEST PATH IN A DAG** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/11-Graph-DP-DAG.md`
 - **LOOP INVARIANT — THE CORRECTNESS TOOL** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/08-Invariant-Discovery.md`
 - **LOW-LEVEL DESIGN (LLD) — the OOP application** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/04-OOP.md`
+- **LOWERING — CROSSING ABSTRACTION LEVELS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **LRU CACHE (the design legend)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **LRU Cache** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/09-LRU-Cache.md`
 - **LSH (Locality-Sensitive Hashing)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md`
@@ -2943,6 +3077,7 @@ Each links to the documents that define or teach it.
 - **Lab 5: Stakes pressure** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/08-Pressure-Lab.md`
 - **Lab 6: Cold-start pressure** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/08-Pressure-Lab.md`
 - **Lamport timestamps** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
+- **Language Design — Becoming an Inventor** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md`
 - **Language Foundations** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/00-Index.md`
 - **Language Tradeoffs — The Eternal Dials** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md`
 - **Largest Rectangle in Histogram** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/04-Stack/07-Largest-Rectangle-Histogram.md`
@@ -2961,6 +3096,7 @@ Each links to the documents that define or teach it.
 - **LeetCode Lists — Complete Guide** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/03-LeetCode-Lists-Guide.md`
 - **LeetCode Strategy** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/03-LeetCode-Strategy.md`
 - **Legendary Codeforces Problems** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/00-Index.md`
+- **Legendary Language Decisions** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
 - **Legendary Patterns — Compendium of Famous Problems** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **Length, case, trimming** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **Lens 1: **Input Process Output**** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/01-Computational-Thinking.md`
@@ -3000,6 +3136,7 @@ Each links to the documents that define or teach it.
 - **Levels of abstraction in software** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Lexical (static) scope — the modern default** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
 - **Lexical scope — inner can see outer, not vice versa** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
+- **Lexing and Parsing (The Front End)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **Li Chao Tree** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Library comparison** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
 - **Lifecycle hooks** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
@@ -3014,7 +3151,7 @@ Each links to the documents that define or teach it.
 - **Linked List Cycle** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/03-Linked-List-Cycle.md`
 - **Linked List — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/00-Index.md`
 - **LinkedIn** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md`
-- **LinkedList — doubly-linked nodes** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **LinkedList — doubly-linked nodes** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Linux runner.sh** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **Lists/arrays** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **Literal types + unions = precise, self-documenting APIs** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
@@ -3054,7 +3191,7 @@ Each links to the documents that define or teach it.
 - **Look 7: **Reduction**** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md`
 - **Loop invariant** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
 - **Loop invariants (for correctness proofs)** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/08-Invariant-Discovery.md`
-- **Loops** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **Loops** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **Lost Update — two writers clobber each other** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **Love Babbar 450 DSA Sheet** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/00-Index.md`
 - **Lower bound (first index where a[i] ≥ x)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
@@ -3062,8 +3199,9 @@ Each links to the documents that define or teach it.
 - **Lowest Common Ancestor (LC 236)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/14-Meta-Hardest-Problems.md`
 - **Lowest Common Ancestor (LCA)** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/16-LCA.md`
 - **Lowest Common Ancestor of a Binary Search Tree** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/07-Trees/07-Lowest-Common-Ancestor-BST.md`
+- **MACROS — CODE THAT GENERATES CODE AT COMPILE TIME** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **MANAGING THE EMOTIONAL RESERVOIR** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
-- **MAP — KEY VALUE LOOKUPS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **MAP — KEY VALUE LOOKUPS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **MAPPED TYPES — TRANSFORM EVERY PROPERTY** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md`
 - **MARKOV CHAINS (intro)** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **MASTER SYLLABUS & ROADMAP — "Nothing Left" Edition** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/00-Index.md`
@@ -3083,12 +3221,13 @@ Each links to the documents that define or teach it.
 - **MEMORIZE YOUR LANGUAGE'S CORE API** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/09-Whiteboard-Lab.md`
 - **MEMORY ALIGNMENT** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **MEMORY LAYOUT & CACHE** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
+- **MEMORY, RUNTIMES & CONCURRENCY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **MENTAL MODEL FROM TARJAN** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md`
 - **MENTAL MODELS THAT COMPOUND** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
 - **MERGE vs REBASE — AND THE GOLDEN RULE** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **MERN Stack** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
-- **METHOD REFERENCES — LAMBDAS, SHORTER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
-- **METHODS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **METHOD REFERENCES — LAMBDAS, SHORTER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
+- **METHODS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **MFA / 2FA AND TOTP** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md`
 - **MIDDLEWARE — A DEEPER LOOK** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **MIDDLEWARE — CODE THAT RUNS BEFORE EVERY REQUEST** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
@@ -3111,12 +3250,14 @@ Each links to the documents that define or teach it.
 - **MODULE RESOLUTION — HOW NODE FINDS A FILE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **MODULES — `import` / `export`** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
 - **MODULO PITFALLS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
+- **MONADS — THE INFAMOUS CONCEPT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md`
 - **MONGODB — THE 30,000-FOOT VIEW** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **MONGOSH — THE SHELL YOU'LL LIVE IN** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **MONITORING & ANALYTICS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md`
 - **MONOTONIC QUEUE / DEQUE OPTIMIZATION** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/15-DP-Optimizations.md`
 - **MONOTONIC STACK/QUEUE** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
 - **MONOTONICITY DISCOVERY** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md`
+- **MOVE SEMANTICS — TRANSFERRING OWNERSHIP** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
 - **MST** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **MST (Prim / Kruskal) — cheapest way to connect everything** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/12-Advanced-Graphs/00-Index.md`
 - **MULTI-DIMENSIONAL ARRAYS** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
@@ -3128,7 +3269,8 @@ Each links to the documents that define or teach it.
 - **MUTATION VS IMMUTABILITY** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
 - **MUTATIONS — SERVER ACTIONS (`"use server"`)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/05-Data-Fetching-And-Mutations.md`
 - **MVCC — HOW POSTGRES AVOIDS READ LOCKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
-- **Make your own class auto-closeable** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **Macros, Reflection, and DSLs** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
+- **Make your own class auto-closeable** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **Making your own iterable** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
 - **Manacher's Algorithm — Palindromes in O(n)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/07-Manacher.md`
 - **Manacher's algorithm** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/01-How-Algorithms-Are-Invented.md`
@@ -3182,6 +3324,7 @@ Each links to the documents that define or teach it.
 - **Merge Two Sorted Lists** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/06-Linked-List/02-Merge-Two-Sorted-Lists.md`
 - **Mergeable routers** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
 - **Meta's Hardest Interview Problems** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/14-Meta-Hardest-Problems.md`
+- **Metaprogramming — Programs That Write Programs** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md`
 - **Method 1: **Topical immersion**** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
 - **Method 2: **Pattern flashcards**** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
 - **Method 3: **Editorial reading**** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
@@ -3219,6 +3362,7 @@ Each links to the documents that define or teach it.
 - **Modern React (18 & 19)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md`
 - **Modern algorithm papers (selected)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **Modern alternative** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
+- **Modern hygienic macros — Rust** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **Modular** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/07-Mathematics-for-Programmers.md`
 - **Modular decomposition** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Modular division requires inverse** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
@@ -3366,7 +3510,7 @@ Each links to the documents that define or teach it.
 - **Motivation is unreliable** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
 - **Mount the auth API route** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **Mounting middleware on a path** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
-- **Multiple and multi-catch** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **Multiple and multi-catch** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **Multiple approaches** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/12-Errichto-Editorials-Studied.md`
 - **Multiply Strings** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/17-Math-and-Geometry/05-Multiply-Strings.md`
 - **Multiset / ordered set nearest / kth element transitions** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/18-DP-with-Data-Structures.md`
@@ -3374,6 +3518,7 @@ Each links to the documents that define or teach it.
 - **Must-read papers (lifetime)** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-10-Algorithm-Designer.md`
 - **Mutable state** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
 - **Mutating methods (change the original array)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
+- **Mutex (mutual exclusion lock)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **MÖBIUS INVERSION** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/07-Mobius-Function.md`
 - **Möbius function μ(n)** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/11-COMPENDIUM-Math-Toolkit.md`
 - **N-QUEENS (the backtracking legend)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
@@ -3443,6 +3588,7 @@ Each links to the documents that define or teach it.
 - **Number of Ways to Reach Destination (LC 1976)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Number of Ways to Wear Different Hats (LC 1434)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Number: one type, some sharp edges** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
+- **Numbers (Church numerals)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **Numeric** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **OAUTH 2.0 / OPENID CONNECT — IN ONE PAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **OAuth2 — DELEGATED AUTHORIZATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md`
@@ -3459,6 +3605,7 @@ Each links to the documents that define or teach it.
 - **OOP DP (overengineered for tiny task!)** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/03-Programming-Paradigms.md`
 - **OOP — Interview Prep** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/04-OOP.md`
 - **OPENID CONNECT — AUTHENTICATION ON TOP OF OAUTH2** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/01-Authentication-And-Authorization.md`
+- **OPERATIONAL SEMANTICS — MEANING AS EXECUTION STEPS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **OPERATIONS COMPLEXITY** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
 - **OPERATIONS DICTIONARY** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/10-Generating-Functions.md`
 - **OPINIONATED STARTER STACK (used in this section)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md`
@@ -3469,7 +3616,7 @@ Each links to the documents that define or teach it.
 - **OPTIMIZING THE WHOLE FUNNEL** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **OPTION / RESULT — KILLING NULL AND EXCEPTIONS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/04-Advanced-Types.md`
 - **OPTIONAL CHAINING `?.`** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
-- **OPTIONAL — TAMING NULL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **OPTIONAL — TAMING NULL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **ORGANIZING THE JOURNAL** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
 - **ORIENT** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **ORIENTATION-BASED PRIMITIVES** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/01-Computational-Geometry-Foundations.md`
@@ -3477,6 +3624,7 @@ Each links to the documents that define or teach it.
 - **OTHER GREAT TEACHING RESOURCES** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/12-Errichto-Editorials-Studied.md`
 - **OTHER HOOKS WORTH KNOWING** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/04-Hooks-Deep-Dive.md`
 - **OTHER INDEX TYPES (BEYOND B-TREE)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
+- **OTHER INSTRUCTIVE STORIES (briefly)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
 - **OTHER LEGENDS TO STUDY** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/11-Tourist-Solutions-Studied.md`
 - **OTHER MAJOR SHEETS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/00-Index.md`
 - **OTHER MATRIX-EXP USES** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/04-Linear-Algebra.md`
@@ -3508,6 +3656,7 @@ Each links to the documents that define or teach it.
 - **Online Lectures** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-09-Research-Level.md`
 - **Open-Source / Community** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md`
 - **Operating Systems — Interview Prep** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/01-Operating-Systems.md`
+- **Operational and Denotational Semantics** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **Operations & complexity in C++ string** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/14-COMPENDIUM-All-String-Algorithms.md`
 - **Operations & production** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/00-Index.md`
 - **Operations (O(log² n))** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/17-HLD-Centroid.md`
@@ -3538,17 +3687,23 @@ Each links to the documents that define or teach it.
 - **Other (6)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
 - **Other algorithms born from this principle** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/07-The-Story-of-KMP.md`
 - **Other essential iteration methods** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
+- **Other lock pathologies** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **Other methods you'll meet** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
-- **Output** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **Other pillars** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
+- **Other primitives** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
+- **Other traits** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
+- **Output** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **Output edges** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
+- **Ownership and Borrowing** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
 - **PACELC — the follow-up** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **PACKETS — MESSAGES BROKEN INTO PIECES** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
 - **PAGES ROUTER CONTRAST** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **PAGES ROUTER CONTRAST (deployment & meta)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md`
 - **PAGES ROUTER CONTRAST (for migrators)** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/04-Rendering-Strategies-SSR-SSG-ISR.md`
-- **PAGINATION AND SORTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **PAGINATION AND SORTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **PAGINATION, FILTERING, SORTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **PALINDROMIC SUBSEQUENCE DP** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
+- **PAPERS & ONGOING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **PARADIGM IN CP** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/03-Programming-Paradigms.md`
 - **PARADIGM POLYGLOT — WHAT TO LEARN** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/03-Programming-Paradigms.md`
 - **PARALLEL ROUTES — `@slot`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
@@ -3574,16 +3729,29 @@ Each links to the documents that define or teach it.
 - **PERIMETER & OTHER MEASURES** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/05-Polygon-Operations.md`
 - **PERIODICITY VIA Z** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/04-Z-Algorithm.md`
 - **PERMUTATIONS & COMBINATIONS** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/02-Combinatorics.md`
+- **PHASE 0 — SETUP & MENTAL MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 1 — FOUNDATIONS (Steps 1-4) · ~2 weeks** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
+- **PHASE 1 — LANGUAGE FUNDAMENTALS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 10 — MODERN JAVA (8 21+)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 11 — BUILD, TEST & TOOLING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 12 — BEST PRACTICES & DESIGN** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 13 — BEYOND CORE (BRIDGES)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 1: FOUNDATION (Months 1-3)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md`
+- **PHASE 2 — OBJECT-ORIENTED JAVA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 2 — TIER 1 CORE (Steps 5-16) · ~6 weeks** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
 - **PHASE 2: DEPTH (Months 4-6)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md`
+- **PHASE 3 — CORE APIs & EXCEPTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 3 — DYNAMIC PROGRAMMING (Steps 17-20) · ~3 weeks** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
 - **PHASE 3: POLISH (Months 7-9)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md`
+- **PHASE 4 — GENERICS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 4 — TIER 2 ADVANCED (Steps 21-26) · ~6-8 weeks** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
 - **PHASE 4: APPLY (Months 9+)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/01-FAANG-Preparation-Roadmap.md`
+- **PHASE 5 — COLLECTIONS FRAMEWORK** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHASE 5 — TIER 3 EXPERT (Steps 27-28) · ongoing** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
 - **PHASE 6 — BEYOND DSA (Steps 29-30) · parallel with job hunt** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
+- **PHASE 7 — I/O, NIO & NETWORKING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 8 — CONCURRENCY & MULTITHREADING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
+- **PHASE 9 — JVM INTERNALS & PERFORMANCE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **PHYSIOLOGICAL TOOLS** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/08-Pressure-Lab.md`
 - **PICK'S THEOREM (lattice polygons)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/05-Polygon-Operations.md`
 - **PITFALLS** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/02-Hashing.md`
@@ -3680,6 +3848,7 @@ Each links to the documents that define or teach it.
 - **PUBLISHING A PACKAGE — THE 90-SECOND VERSION** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **PURITY AND SIDE EFFECTS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md`
 - **PUTTING IT ALL TOGETHER — A URL BECOMES A PAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
+- **PUTTING IT TOGETHER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **PUTTING IT TOGETHER — A SEED SCRIPT** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **PUTTING IT TOGETHER — REAL QUERIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **PUTTING IT TOGETHER — THE FULL EXPERIENCE** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/05-State-File-Uploads-And-Realtime.md`
@@ -3796,10 +3965,10 @@ Each links to the documents that define or teach it.
 - **Philosophy & Doctrine — The Eternal Foundation** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/00-Index.md`
 - **Philosophy of invention** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/05-The-Inventor-Mindset.md`
 - **Picking** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
-- **Pillar 1 — ENCAPSULATION: hide the data, expose a contract** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
-- **Pillar 2 — INHERITANCE: reuse and specialize** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
-- **Pillar 3 — POLYMORPHISM: one interface, many forms** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
-- **Pillar 4 — ABSTRACTION: model the essential, hide the rest** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **Pillar 1 — ENCAPSULATION: hide the data, expose a contract** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
+- **Pillar 2 — INHERITANCE: reuse and specialize** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
+- **Pillar 3 — POLYMORPHISM: one interface, many forms** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
+- **Pillar 4 — ABSTRACTION: model the essential, hide the rest** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **Pitfall** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
 - **Pitfall (for CP)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
 - **Pitfalls of caching** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
@@ -3837,7 +4006,7 @@ Each links to the documents that define or teach it.
 - **Prim's MST** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/04-Greedy-Algorithms.md`
 - **Primary key (PK)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **Primitives (immutable, copied by value)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
-- **PriorityQueue — a binary heap** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **PriorityQueue — a binary heap** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Probabilistic Thinking** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/10-Probabilistic-Thinking.md`
 - **Probabilistic analysis** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
 - **Probability** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/07-Mathematics-for-Programmers.md`
@@ -3863,6 +4032,7 @@ Each links to the documents that define or teach it.
 - **Promise API (preferred for app code)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **Promise combinators — pick the right one** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **Promises — flat chains** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
+- **Promises/Futures — a value that will exist later** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **Proof Construction — Conviction without Doubt** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/09-Proof-Construction.md`
 - **Proof by contradiction** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/07-Mathematics-for-Programmers.md`
 - **Proof by contrapositive** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/07-Mathematics-for-Programmers.md`
@@ -3889,6 +4059,7 @@ Each links to the documents that define or teach it.
 - **Public vs private** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/01-How-The-Internet-Works.md`
 - **Pull requests & the code review craft** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **Python list** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/01-Arrays.md`
+- **Python — Readability and the Language of Data** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md`
 - **Q1: **WHAT problem does it solve?** (the *purpose*)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
 - **Q1: **What's varying as decisions are made?**** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/07-State-Design.md`
 - **Q2: **WHY does it work?** (the *correctness*)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
@@ -3904,7 +4075,7 @@ Each links to the documents that define or teach it.
 - **QUERIES — HOW TO FIND ELEMENTS (THE RIGHT WAY)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
 - **QUERY OPERATORS — THE COMPLETE VOCABULARY** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **QUESTIONS TO ASK THEM** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/08-Behavioral-Integration.md`
-- **QUEUE AND DEQUE — FIFO, LIFO, AND PRIORITIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **QUEUE AND DEQUE — FIFO, LIFO, AND PRIORITIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **QUICK PICKS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/00-Index.md`
 - **QUICK START BY NEED** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md`
 - **Quantitative Aptitude** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/05-Aptitude-And-Reasoning.md`
@@ -3916,7 +4087,7 @@ Each links to the documents that define or teach it.
 - **Query strings — `searchParams`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **Querying nested fields & arrays** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **Querying — `SELECT`** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md`
-- **Queue / Deque with ArrayDeque** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **Queue / Deque with ArrayDeque** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Quick Sort** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/02-Sorting.md`
 - **Quick Sort — O(n log n) avg, O(n²) worst** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md`
 - **Quick lookup** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/COMPENDIUM-Advanced-Algorithms.md`
@@ -3924,6 +4095,7 @@ Each links to the documents that define or teach it.
 - **Quickselect — O(n) avg** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md`
 - **Quicksort worst case** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/09-Anti-Hack-Thinking.md`
 - **RABIN-KARP VS KMP/Z** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/05-Rabin-Karp.md`
+- **RAII — the great idea** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
 - **RANGE UPDATE (Lazy Propagation)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/26-Segment-Tree.md`
 - **RATE LIMITING & BRUTE-FORCE DEFENSE** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/02-Web-Security.md`
 - **RATING GOALS BY TIMELINE (realistic, consistent practice)** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/08-Rating-Climbing-Systems.md`
@@ -3937,7 +4109,7 @@ Each links to the documents that define or teach it.
 - **REACTIVE PROGRAMMING — PROGRAMMING WITH STREAMS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md`
 - **READ — `find`, `findOne`, cursors** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **READING & CHANGING CONTENT** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
-- **READING AND WRITING FILES (modern NIO)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **READING AND WRITING FILES (modern NIO)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **READING PROOFS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/07-Reading-Research-Papers.md`
 - **READING SCAN & JOIN STRATEGIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
 - **READING THE SESSION** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
@@ -3964,10 +4136,12 @@ Each links to the documents that define or teach it.
 - **REFERENCE LIBRARIES** — `DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/00-Index.md`
 - **REFERENCE SITES / DOCS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/16-MASTER-LINK-DIRECTORY.md`
 - **REFERENCE vs VALUE (the bug that bites everyone)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
+- **REFLECTION — INSPECTING PROGRAMS AT RUN TIME** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **REFLOW AND REPAINT — THE PERFORMANCE CORE** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **REFRESH-TOKEN ROTATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **REGISTER AND LOGIN** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **REGULAR CONTESTS (weekly/biweekly)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/08-Contest-Calendar.md`
+- **RELATED (within this codex and its siblings)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
 - **RELATED / HIGHER-DIMENSIONAL** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/07-Voronoi-Delaunay.md`
 - **RELATED CONCEPTS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/05-Connected-Components.md`
 - **RELATED STRUCTURES** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/08-Bridges-Articulation.md`
@@ -3975,11 +4149,11 @@ Each links to the documents that define or teach it.
 - **RELATED: BITWISE CONVOLUTIONS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/16-SOS-DP.md`
 - **RELATIONS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **RELATIONSHIPS IN SQL** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
-- **RELATIONSHIPS — THE HEART OF RELATIONAL DATA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **RELATIONSHIPS — THE HEART OF RELATIONAL DATA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **RENDER PROPS vs HOCs vs HOOKS — THE EVOLUTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md`
 - **RENDERING LISTS WITH `.map()`** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **RENDERING REACT TO THE PAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
-- **REPOSITORIES — CRUD FOR FREE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **REPOSITORIES — CRUD FOR FREE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **REQUEST & RESPONSE — WEB STANDARDS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
 - **REQUEST CONTEXT — `AsyncLocalStorage`** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **REQUEST LIFECYCLE — THE WHOLE PIPELINE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
@@ -4043,6 +4217,7 @@ Each links to the documents that define or teach it.
 - **Reconstructing the LCS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/06-LCS-Family.md`
 - **Recovery** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
 - **Rectangle area union (LC 850)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md`
+- **Recursion (the Y combinator)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **Recursion Thinking — The Self-Similar Mind** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/04-Recursion-Thinking.md`
 - **Recursive CTEs — querying hierarchies and graphs** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
 - **Recursive Thinking** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/02-Recursive-Thinking.md`
@@ -4052,10 +4227,11 @@ Each links to the documents that define or teach it.
 - **Redundant Connection** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/11-Graphs/10-Redundant-Connection.md`
 - **Reference** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-00-Programming-Foundations.md`
 - **Reference semantics ("labels")** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
-- **Reference types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **Reference types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **Referrals (highest yield)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/09-Off-Campus-And-Referrals-Track.md`
 - **Refresh-token rotation (the safe pattern)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **Regex (Postgres)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
+- **Register allocation** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **Regular (weekly/biweekly)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **Regular Expression Matching (LC 10) — `.` and `*`** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/07-Edit-Distance-Family.md`
 - **Regular Expression Matching — LC 10 (`.` and `*`)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md`
@@ -4074,6 +4250,7 @@ Each links to the documents that define or teach it.
 - **Resource Deep-Dives** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md`
 - **Resource-level checks (ownership)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **Resources & References Universe** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md`
+- **Resources and References** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md`
 - **Response headers** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
 - **Response timing** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **Rest parameters — gather extra args into an array** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
@@ -4115,8 +4292,9 @@ Each links to the documents that define or teach it.
 - **Rule 4: `new` binding (constructor call)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md`
 - **Run TypeScript directly (no manual compile)** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **Run-Length Encoding (RLE)** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/06-Compression-As-Discovery.md`
-- **Runnable (preferred) and Thread** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **Runnable (preferred) and Thread** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **Running totals and moving averages (frames)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
+- **Rust — Safety and Speed Without Compromise** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md`
 - **SAFETY FIRST (read this)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/02-Telegram-Channels-Guide.md`
 - **SAM VS SUFFIX ARRAY** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/09-Suffix-Automaton.md`
 - **SAMPLE 30-DAY LOG SUMMARY (HYPOTHETICAL)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
@@ -4130,7 +4308,7 @@ Each links to the documents that define or teach it.
 - **SCALING — REPLICATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/08-Advanced-SQL-And-Production.md`
 - **SCOPE — THE RULEBOOK FOR NAME LOOKUP** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
 - **SCOPE — WHERE A VARIABLE LIVES** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
-- **SCOPE, COMMENTS, AND STYLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **SCOPE, COMMENTS, AND STYLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **SCORING** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/02-Problem-Trial-Bank.md`
 - **SCRIPTS & THIRD-PARTY CODE — `next/script`** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md`
 - **SCROLL RESTORATION & A FEW EXTRAS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md`
@@ -4141,12 +4319,13 @@ Each links to the documents that define or teach it.
 - **SECURITY CHECKLIST** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **SECURITY HYGIENE FOR DEPENDENCIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **SECURITY MIDDLEWARE — THE BIG SIX** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
-- **SEEDING DATA AND VERIFYING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **SEEDING DATA AND VERIFYING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **SEEING HTTP YOURSELF** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
 - **SELECTING ELEMENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
 - **SELECTORS — TARGETING ELEMENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **SELF JOIN — A TABLE JOINED TO ITSELF** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
 - **SELF-HOSTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md`
+- **SEMANTIC ANALYSIS — CHECKING MEANING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **SEMANTIC HTML — TAGS WITH MEANING** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md`
 - **SEMVER — VERSIONS WITH MEANING** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/02-Modules-And-NPM.md`
 - **SERVER COMPONENTS — THE DEFAULT** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/03-Server-And-Client-Components.md`
@@ -4157,20 +4336,21 @@ Each links to the documents that define or teach it.
 - **SESSIONS vs JWT — TWO PATHS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **SESSIONS — JWT vs DATABASE** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/07-Auth-And-Full-Stack-Nextjs.md`
 - **SET OPERATIONS — UNION, INTERSECT, EXCEPT** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
-- **SET — NO DUPLICATES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **SET — NO DUPLICATES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **SETH (Strong Exponential Time Hypothesis)** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **SETS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **SETTING YEARLY GOALS (SMART)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/04-Quarterly-Yearly-Planning.md`
 - **SETUP THE SIMULATION** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/02-ICPC-Contest-Simulation.md`
 - **SETUP — A WORKING REACT PROJECT** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md`
 - **SETUP — GET A WORKING DATABASE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/00-Index.md`
-- **SETUP — GET A WORKING JDK** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md`
+- **SETUP — GET A WORKING JDK** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md`
 - **SETUP — GET A WORKING MONGODB TOOLCHAIN** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/00-Index.md`
 - **SETUP — GET A WORKING NODE TOOLCHAIN** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md`
 - **SETUP — SCAFFOLD A PROJECT** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
 - **SETUP — THE ROUTER, ROUTES, AND LINKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md`
 - **SETUP — TOOLS FOR THE WHOLE STACK** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/00-Index.md`
 - **SHADOWING, HOISTING, AND OTHER SCOPE GOTCHAS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
+- **SHIPPED IN 10 DAYS — JAVASCRIPT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
 - **SHORTEST PATH IN A DAG** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/06-Shortest-Paths.md`
 - **SIGNS OF BAD DECOMPOSITION** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **SIMULATE A VIRTUAL ROUND** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/03-Codeforces-Round-Simulation.md`
@@ -4184,6 +4364,7 @@ Each links to the documents that define or teach it.
 - **SMALL-CASE EXPLORATION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md`
 - **SMALL-TO-LARGE MERGING** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md`
 - **SNIPPET MANAGEMENT** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/11-Template-Engineering.md`
+- **SOFTWARE TRANSACTIONAL MEMORY (STM)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **SOLID — THE OOP DESIGN PRINCIPLES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md`
 - **SOLVED PROBLEMS VAULT — Full Editorials** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/00-Index.md`
 - **SOLVING RECURRENCES WITH GFs** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/10-Generating-Functions.md`
@@ -4211,15 +4392,19 @@ Each links to the documents that define or teach it.
 - **STACK ALLOCATION IS AN OPTIMIZATION LEVER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/01-Stack-Heap-and-Layout.md`
 - **STACK vs HEAP** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **STAGE 1 — LEXING (TOKENIZATION)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md`
+- **STAGE 1 — THE LEXER (text tokens)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **STAGE 1: APPLICATION** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAGE 2 — PARSING (GRAMMAR)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md`
+- **STAGE 2 — THE PARSER (tokens AST)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **STAGE 2: RECRUITER SCREEN** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
+- **STAGE 3 — THE EVALUATOR (walk the AST)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **STAGE 3: ONLINE ASSESSMENT (OA)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAGE 4: INTERVIEWS** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAGE 5: DECISION (hiring committee / debrief)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAGE 6: OFFER** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAGE 7: NEGOTIATION** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
 - **STAR Method** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
+- **START WITH PURPOSE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **STARTER PROBLEMS** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/01-String-Foundations.md`
 - **STATE COMPRESSION TECHNIQUES** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/08-State-Thinking.md`
 - **STATE DESIGN MISTAKES** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/07-State-Design.md`
@@ -4249,7 +4434,6 @@ Each links to the documents that define or teach it.
 - **STREAMS AT SCALE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **STREAMS — NODE'S MASTER CONCEPT** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **STRENGTHS, WEAKNESSES, AND WHEN TO USE IT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md`
-- **STRENGTHS, WEAKNESSES, WHEN TO USE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md`
 - **STRESS TESTING (THE MURDER WEAPON)** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
 - **STRESS-TEST FOR EDGES** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **STRING DP + AUTOMATON (advanced)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md`
@@ -4274,9 +4458,12 @@ Each links to the documents that define or teach it.
 - **SUSPENSE — DECLARATIVE LOADING UI** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/08-Performance-Optimization.md`
 - **SWEEP-LINE ALTERNATIVE — O(n log n)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/04-Closest-Pair.md`
 - **SWITCHING PROBLEMS (CONTEST DISCIPLINE)** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md`
-- **SWITCHING TO A REAL DATABASE (PostgreSQL)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **SWITCHING TO A REAL DATABASE (PostgreSQL)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **SYMMETRY EXPLOITATION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md`
+- **SYNCHRONIZATION PRIMITIVES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
+- **SYNTACTIC ANALYSIS (THE PARSER)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **SYNTACTIC SUGAR — SAME MEANING, NICER FORM** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md`
+- **SYNTAX DESIGN PRINCIPLES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **SYSTEM DESIGN / ENGINEERING** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/04-Blogs-And-Newsletters.md`
 - **Safe practices** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **Same Tree** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/07-Trees/05-Same-Tree.md`
@@ -4303,7 +4490,9 @@ Each links to the documents that define or teach it.
 - **Segment intersection (Bentley-Ottmann) — O((n+k) log n)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md`
 - **Self-mock protocol** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/11-COMPENDIUM-Interview-Mastery.md`
 - **Self-referential (recursive)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
+- **Semantic Analysis and Intermediate Representations** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **Semantic vs non-semantic — the contrast** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md`
+- **Semantics and Theory — The Mathematics of Meaning** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md`
 - **Sequelize (older, batteries-included ORM)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **Sequences (the underlying mechanism)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **Sequential vs parallel — easy to confuse** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
@@ -4316,7 +4505,7 @@ Each links to the documents that define or teach it.
 - **Serving uploaded files (local) vs cloud storage** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/05-State-File-Uploads-And-Realtime.md`
 - **Set Matrix Zeroes** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/17-Math-and-Geometry/03-Set-Matrix-Zeroes.md`
 - **Set cover (greedy O(log n))** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
-- **Set operations (union, intersection, difference)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **Set operations (union, intersection, difference)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Set up Jest** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **Setback 1: **Missed a day**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
 - **Setback 2: **Bad contest performance**** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
@@ -4347,6 +4536,7 @@ Each links to the documents that define or teach it.
 - **Sliding Window — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/03-Sliding-Window/00-Index.md`
 - **Sliding window (variable)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/07-Two-Pointers-And-Sliding-Window.md`
 - **Sliding window aggregates** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
+- **Small-step (structural) — one tiny step at a time** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **Small-to-large DSU** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md`
 - **Smallest Sufficient Team (LC 1125)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Social** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
@@ -4461,7 +4651,7 @@ Each links to the documents that define or teach it.
 - **Storage engine** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/01-NoSQL-And-MongoDB-Fundamentals.md`
 - **Strassen's matrix multiplication — O(n^log₂7) ≈ O(n^2.81)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/03-Divide-And-Conquer.md`
 - **Stream of characters** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md`
-- **Streaming a large file lazily** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **Streaming a large file lazily** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **Stress Testing — The Bug Murderer** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/10-Stress-Testing.md`
 - **Strict (eager) evaluation — the default almost everywhere** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/05-Expressions-Statements-and-Control.md`
 - **String** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
@@ -4510,6 +4700,7 @@ Each links to the documents that define or teach it.
 - **Switching problems** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **Symmetry pruning** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/05-Backtracking.md`
 - **Synchronous API (use sparingly)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
+- **Syntactic (hygienic) macros — Lisp's superpower** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **Syntax vs Semantics** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md`
 - **System Design DSA Bridge** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/09-System-Design-DSA-Bridge.md`
 - **System Design Resources — Complete Guide** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
@@ -4530,7 +4721,7 @@ Each links to the documents that define or teach it.
 - **TEMPLATES TO ADD AS YOU ADVANCE** — `DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/00-Index.md`
 - **TERNARY SEARCH — O(log n)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/01-Searching.md`
 - **TEST DOUBLES — MOCK, STUB, SPY, FAKE, DUMMY** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
-- **TESTING A CONTROLLER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **TESTING A CONTROLLER** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **TESTING HOOKS AND CONTEXT** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
 - **TESTING INTERACTIONS, FORMS, AND ASYNC** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
 - **TESTING THE API (PREVIEW)** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
@@ -4586,6 +4777,7 @@ Each links to the documents that define or teach it.
 - **THE 90-MINUTE LAW** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
 - **THE 90-MINUTE ULTRADIAN RHYTHM** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
 - **THE A-B-C-D PROGRESSION** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/03-Codeforces-Round-Simulation.md`
+- **THE ACTOR MODEL — SHARE NOTHING, MESSAGE EVERYTHING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **THE ADVERSARY ARGUMENT — A WORKED EXAMPLE** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **THE ALGORITHM (O(n))** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/04-Z-Algorithm.md`
 - **THE ALGORITHM SELECTOR** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/06-Shortest-Paths.md`
@@ -4602,6 +4794,7 @@ Each links to the documents that define or teach it.
 - **THE ART OF DECEPTION (Problem-Setter's Tactics)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **THE ASSOCIATIVITY INSIGHT** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/12-Algebraic-Thinking.md`
 - **THE AST — ABSTRACT SYNTAX TREE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md`
+- **THE AST — DESIGNING THE TREE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **THE ASYNC REVOLUTION** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md`
 - **THE ATOMIC TRUTHS OF DSA** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
 - **THE ATS REALITY** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/10-Resume-And-Profile-Building.md`
@@ -4614,6 +4807,7 @@ Each links to the documents that define or teach it.
 - **THE BHAGAVAD GEETA OF DSA** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/01-The-Eternal-Mindset.md`
 - **THE BIG SHIFT — REACT SERVER COMPONENTS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/03-Server-And-Client-Components.md`
 - **THE BIG THREE: map / filter / reduce** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
+- **THE BILLION-DOLLAR MISTAKE — `null`** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
 - **THE BINARY TRIE (deep dive)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md`
 - **THE BINARY-SEARCH-ON-DP TECHNIQUE** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/05-LIS-Family.md`
 - **THE BLOGS TO READ** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/05-CF-Greatest-Hits.md`
@@ -4621,7 +4815,6 @@ Each links to the documents that define or teach it.
 - **THE BOX MODEL — EVERYTHING IS A BOX** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **THE BREAKTHROUGH PATTERN** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/10-Plateaus-And-Recovery.md`
 - **THE BRIDGE** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/09-System-Design-DSA-Bridge.md`
-- **THE BROADER LESSON** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md`
 - **THE BRUTE FORCE COMPLEXITY ANALYSIS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
 - **THE BRUTE FORCE SHRINKAGE** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
 - **THE BRUTE FORCE TEMPLATES** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
@@ -4658,9 +4851,11 @@ Each links to the documents that define or teach it.
 - **THE COMPANY TIER MAP** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/00-Index.md`
 - **THE COMPARISON-SORT LOWER BOUND (the classic)** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **THE COMPLETE FAANG-READY CHECKLIST (5 blocks)** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/03-FAANG-Reality-Check.md`
+- **THE COMPLETE JAVA TREE — "Nothing Left" Edition** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **THE COMPLETE PREP ECOSYSTEM (Career & Resources)** — `DSA-Grandmaster-Codex/MASTER-INDEX.md`
 - **THE COMPLETE PREPARATION ECOSYSTEM (added in v1.1)** — `DSA-Grandmaster-Codex/README.md`
 - **THE COMPLETE STRUCTURE LIST (53 structures)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md`
+- **THE COMPLEXITY PROBLEM** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
 - **THE COMPLEXITY ZOO** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md`
 - **THE COMPONENTS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/06-Branch-And-Bound.md`
 - **THE COMPOSITION RULES** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/03-Server-And-Client-Components.md`
@@ -4684,11 +4879,13 @@ Each links to the documents that define or teach it.
 - **THE CONTROLLER AND ROUTES** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **THE COPRIME-COUNTING TECHNIQUE** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/07-Mobius-Function.md`
 - **THE CORE FAMILY** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md`
-- **THE CORE PROBLEM — RACE CONDITIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **THE CORE INNOVATION: OWNERSHIP (recap)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md`
+- **THE CORE PROBLEM — RACE CONDITIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **THE CORE TENET** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
 - **THE CORRECT METHOD** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/07-Editorial-Reading.md`
 - **THE COST OF ALLOCATION** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **THE COST OF EVERY ABSTRACTION (a catalog)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md`
+- **THE COURSE — CHAPTERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
 - **THE CP LADDER (which to use when)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
 - **THE CRITICAL RENDERING PATH** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **THE CROSS PRODUCT (the most important tool)** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/01-Computational-Geometry-Foundations.md`
@@ -4697,6 +4894,7 @@ Each links to the documents that define or teach it.
 - **THE CRUD MAP** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **THE CRUD UI — TASKS PAGE** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **THE CURATED LISTS (in order)** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/03-LeetCode-Strategy.md`
+- **THE CURRY–HOWARD CORRESPONDENCE — THE GREAT IDEA** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **THE CURSE OF DIMENSIONALITY** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/06-KD-Tree.md`
 - **THE CUSTOM HASH (essential)** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/09-Anti-Hack-Thinking.md`
 - **THE DAILY CHECKLIST** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/01-Daily-Training-System.md`
@@ -4708,6 +4906,7 @@ Each links to the documents that define or teach it.
 - **THE DAILY TOUCHPOINTS** — `DSA-Grandmaster-Codex/MASTER-INDEX.md`
 - **THE DANGER OF REDUCTIONS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/02-Algorithmic-Reduction.md`
 - **THE DANGER: OVER-PATTERN-MATCHING** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
+- **THE DATA RACE — THE ORIGINAL SIN** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **THE DATA ROUTER — LOADERS & ACTIONS (v6.4+)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md`
 - **THE DATA TYPES** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **THE DEBUGGING MINDSET** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
@@ -4717,6 +4916,7 @@ Each links to the documents that define or teach it.
 - **THE DEEP-DIVE STRATEGY** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/09-System-Design-DSA-Bridge.md`
 - **THE DEPENDENCY GRAPH (the "why this order")** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/02-The-Master-Roadmap.md`
 - **THE DERIVED PROBLEMS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/04-Knapsack-Family.md`
+- **THE DESIGN DECISIONS (the checklist)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **THE DETAIL PAGE — DYNAMIC ROUTES + DEPENDENT QUERIES** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **THE DEV ENVIRONMENT — TWO PROCESSES, ONE COMMAND** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/01-The-MERN-Architecture.md`
 - **THE DIALS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/03-Language-Tradeoffs.md`
@@ -4734,6 +4934,7 @@ Each links to the documents that define or teach it.
 - **THE DSA-FLAVORED DEEP DIVES** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/06-System-Design-Simulation.md`
 - **THE DUAL: SUM OVER SUPERSETS** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/16-SOS-DP.md`
 - **THE DUALITY** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/07-Voronoi-Delaunay.md`
+- **THE ECOSYSTEM (blessing and curse)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md`
 - **THE EDGE CASE TAXONOMY** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **THE EDITORIAL DISCIPLINE** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md`
 - **THE EDITORIAL FORMAT (every problem)** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/00-Index.md`
@@ -4755,14 +4956,16 @@ Each links to the documents that define or teach it.
 - **THE EVENT LOOP (INTRODUCTION)** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **THE EVENT LOOP IN ONE WORKED EXAMPLE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **THE EVENT LOOP — HOW IT ALL WORKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
+- **THE EVENT LOOP — THE ENGINE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **THE EXAMPLE-VERIFICATION DRILL** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md`
 - **THE EXAMPLE: KADANE'S ALGORITHM** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/06-Optimization-Thinking.md`
-- **THE EXCEPTION HIERARCHY** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **THE EXCEPTION HIERARCHY** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **THE EXIT CRITERIA (you're ready when)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/01-FAANG-MAANG-Track.md`
 - **THE EXTENDED `fetch` — CACHING & REVALIDATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/05-Data-Fetching-And-Mutations.md`
 - **THE FAILURE ANALYSIS PROTOCOL** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
 - **THE FAILURE DRILLS** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
 - **THE FAILURE LOG** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
+- **THE FEATURE-CREEP TRAP** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **THE FFT ALGORITHM (Recursive)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/06-The-Story-of-FFT.md`
 - **THE FILE SYSTEM (`fs`) — THREE FLAVORS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **THE FINAL COMMANDMENT** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/03-The-Grandmaster-Code.md`
@@ -4801,7 +5004,7 @@ Each links to the documents that define or teach it.
 - **THE FOUR PHASES OF EVERY NEW SKILL** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md`
 - **THE FOUR PILLARS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/02-Object-Oriented.md`
 - **THE FOUR PILLARS OF COMPUTATIONAL THINKING** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/01-Computational-Thinking.md`
-- **THE FOUR PILLARS OF OOP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **THE FOUR PILLARS OF OOP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **THE FOUR STAGES OF UNDERSTANDING** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/01-The-Eternal-Mindset.md`
 - **THE FP TOOLKIT (concepts that recur)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md`
 - **THE FRAMEWORK (HLD interview)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
@@ -4822,6 +5025,7 @@ Each links to the documents that define or teach it.
 - **THE GENERAL PRINCIPLE** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md`
 - **THE GENERATOR** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/10-Stress-Testing.md`
 - **THE GEOMETRY MINDSET** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/01-Computational-Geometry-Foundations.md`
+- **THE GIL — A PRAGMATIC SHORTCUT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **THE GIT MENTAL MODEL — SNAPSHOTS, NOT DIFFS** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **THE GOLDEN RULE** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **THE GOLDEN RULES** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
@@ -4842,11 +5046,14 @@ Each links to the documents that define or teach it.
 - **THE GROWTH MINDSET REFRAME** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
 - **THE HABIT** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/04-Weekly-Micro-Trials.md`
 - **THE HEAP — FLEXIBLE, MANUAL, SLOWER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/01-Stack-Heap-and-Layout.md`
+- **THE HIERARCHY OF TYPE-THEORETIC POWER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **THE HIRING FUNNEL (quant/HFT)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/06-Fintech-And-Trading-Track.md`
 - **THE HIRING FUNNEL (varies widely)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/08-Startups-And-Early-Stage-Track.md`
 - **THE HLD CONCEPTS TO MASTER** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/15-System-Design-Resources.md`
+- **THE HONEST DIFFICULTY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md`
 - **THE HONEST WEIGHTAGE** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/03-FAANG-Reality-Check.md`
-- **THE I/O LANDSCAPE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **THE HORIZON** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
+- **THE I/O LANDSCAPE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **THE ICPC NOTEBOOK** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/09-Code-Libraries-CP.md`
 - **THE ICPC PROBLEM-SOLVING METHOD** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/01-ICPC-Hello-World-of-Hard-Problems.md`
 - **THE IMPACT BULLET FORMULA** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/10-Resume-And-Profile-Building.md`
@@ -4873,17 +5080,21 @@ Each links to the documents that define or teach it.
 - **THE INVENTOR'S READING LIST** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/05-The-Inventor-Mindset.md`
 - **THE IOI MINDSET** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/03-IOI-Ciphers-Mecho-Cake.md`
 - **THE IOI TECHNIQUE SET** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/04-IOI-Systems.md`
+- **THE JOURNEY AT A GLANCE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/README.md`
 - **THE JOURNEY OF A REQUEST (the request lifecycle)** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md`
+- **THE JVM — JAVA'S REAL SUPERPOWER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md`
 - **THE KEY INSIGHT** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/07-Manacher.md`
 - **THE KEY INSIGHT — GENERATIONAL GC** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/02-Garbage-Collection.md`
 - **THE LANGUAGE FAMILIES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/02-The-Polyglot-Mindset.md`
+- **THE LANGUAGE WE'RE BUILDING** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **THE LAW** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
 - **THE LAYERED ARCHITECTURE** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
-- **THE LAYERED ARCHITECTURE — Controller Service Repository** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **THE LAYERED ARCHITECTURE — Controller Service Repository** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **THE LAYOUT** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/06-Whiteboard-Coding.md`
 - **THE LCP ARRAY (the companion)** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/08-Suffix-Array.md`
 - **THE LEAK DETECTION** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/06-Re-Verification-Rhythm.md`
 - **THE LEAKY ABSTRACTION** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
+- **THE LEARNING ORDER (linear path)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **THE LEARNING PATHS** — `FULLSTACK-AI-GRANDMASTER-CODEX/README.md`
 - **THE LEGACY** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
 - **THE LESSON** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md`
@@ -4903,6 +5114,7 @@ Each links to the documents that define or teach it.
 - **THE LOWER BOUND** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/02-Sorting.md`
 - **THE MACHINE CODING ROUND (unique to many Indian product cos)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/04-Indian-Product-Companies-Track.md`
 - **THE MAJOR CONCURRENCY MODELS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md`
+- **THE MAJOR OPTIMIZATIONS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **THE MAN** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md`
 - **THE MARKOV PROPERTY** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/08-State-Thinking.md`
 - **THE MASTER TABLE** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/02-Constraint-Analysis.md`
@@ -4912,13 +5124,13 @@ Each links to the documents that define or teach it.
 - **THE MATCHING — O(n)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/07-The-Story-of-KMP.md`
 - **THE MEMOIZATION TEMPLATE (C++)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md`
 - **THE MEMORY HIERARCHY** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
+- **THE MEMORY MODEL — THE DEEPEST RABBIT HOLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **THE MENTAL DISTANCE METRIC** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md`
 - **THE MENTAL MODEL FOR PICKING ONE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/05-Concurrent-and-Reactive.md`
 - **THE MENTAL MODEL TO KEEP** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **THE MENTAL MODEL — TWO TOKENS, TWO JOBS** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **THE MENTAL SHIFT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/04-Logic-and-Declarative.md`
 - **THE META STYLE** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/14-Meta-Hardest-Problems.md`
-- **THE META-LESSONS** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **THE META-SPECIFIC SKILLS** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/14-Meta-Hardest-Problems.md`
 - **THE METADATA API — SEO BY CONVENTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/08-Optimization-And-Deployment.md`
 - **THE METHOD** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/07-Optimization-Thinking.md`
@@ -4953,6 +5165,7 @@ Each links to the documents that define or teach it.
 - **THE NEETCODE ECOSYSTEM** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/02-NeetCode-Blind75-Guide.md`
 - **THE NEETCODE ROADMAP** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/02-NeetCode-Blind75-Guide.md`
 - **THE NEW DATA MODEL — FETCH ON THE SERVER** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/05-Data-Fetching-And-Mutations.md`
+- **THE NEW HAZARDS LOCKS INTRODUCE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **THE NODE CLI — THE TOOLS YOU'LL ACTUALLY USE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **THE NOTE-TAKING DISCIPLINE** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md`
 - **THE NUMBERS** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/03-LeetCode-Strategy.md`
@@ -4967,6 +5180,7 @@ Each links to the documents that define or teach it.
 - **THE OFF-CAMPUS STRATEGY (numbers game + skill)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/09-Off-Campus-And-Referrals-Track.md`
 - **THE OFFER STAGE** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/06-Interview-Training-System.md`
 - **THE OFFICIAL CURATED LISTS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/03-LeetCode-Lists-Guide.md`
+- **THE ONE COMPUTATION RULE: BETA REDUCTION** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **THE ONE-SENTENCE MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md`
 - **THE OODA LOOP FOR PROBLEM SOLVING** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/06-The-War-Manual.md`
 - **THE OPEN FRONTIERS (as of mid-2020s)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/10-Recent-Breakthroughs.md`
@@ -4975,6 +5189,7 @@ Each links to the documents that define or teach it.
 - **THE OPENING MANTRA** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/01-The-Eternal-Mindset.md`
 - **THE OPERATORS** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/08-Bit-Manipulation.md`
 - **THE OPTIMIZATION HIERARCHY (PROFESSIONAL)** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/06-Optimization-Thinking.md`
+- **THE OPTIMIZATION LEVELS YOU ACTUALLY USE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **THE OPTIMIZATION ORDER (production)** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/09-Systems-Thinking.md`
 - **THE OPTIMIZATION QUESTIONS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/06-Optimization-Thinking.md`
 - **THE OPTIMIZATION RECIPES** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/06-Optimization-Thinking.md`
@@ -4985,6 +5200,7 @@ Each links to the documents that define or teach it.
 - **THE ORIGIN** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
 - **THE PARADOX** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
 - **THE PARALLEL STRATEGY** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/11-The-Universal-Hiring-Funnel.md`
+- **THE PATH FROM DESIGN TO REALITY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/01-How-to-Design-a-Language.md`
 - **THE PATTERN ENTRY TEMPLATE** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
 - **THE PATTERN HIERARCHY** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
 - **THE PATTERN LIBRARY GROWTH CURVE** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md`
@@ -4995,6 +5211,7 @@ Each links to the documents that define or teach it.
 - **THE PENALTY MANAGEMENT** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/03-ICPC-Systems.md`
 - **THE PENALTY SYSTEM** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/02-ICPC-Contest-Simulation.md`
 - **THE PHILOSOPHY** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/10-Fail-Forward-Lab.md`
+- **THE PHILOSOPHY OF "BORING"** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
 - **THE PHILOSOPHY OF SELF-CERTIFICATION** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/05-Mastery-Certificate-Template.md`
 - **THE PHILOSOPHY YOU CARRY** — `DSA-Grandmaster-Codex/MASTER-INDEX.md`
 - **THE PHYSICAL FOUNDATION** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
@@ -5012,6 +5229,8 @@ Each links to the documents that define or teach it.
 - **THE POST-CONTEST PROTOCOL (THE GOLD)** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/05-Contest-Training-System.md`
 - **THE POWER MOVE** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/10-Probabilistic-Thinking.md`
 - **THE POWER MOVE: LINEARITY OF EXPECTATION** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/06-Mathematical-Thinking.md`
+- **THE POWER OF SAYING NO — GO** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/01-Legendary-Language-Decisions.md`
+- **THE POWER/DANGER BALANCE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **THE PRACTICAL TAKEAWAY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/01-What-Is-a-Programming-Language.md`
 - **THE PRACTICE** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/09-Whiteboard-Lab.md`
 - **THE PRAGMATIC SUMMARY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md`
@@ -5025,6 +5244,7 @@ Each links to the documents that define or teach it.
 - **THE PRIMORDIAL PROBLEM** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md`
 - **THE PROBLEM (IOI 2016 "Aliens")** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/04-IOI-Aliens-and-Beyond.md`
 - **THE PROBLEM ANATOMY** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md`
+- **THE PROBLEM ASYNC SOLVES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **THE PROBLEM CONTEXT SOLVES** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/05-Context-And-State-Management.md`
 - **THE PROBLEM GC SOLVES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/02-Garbage-Collection.md`
 - **THE PROBLEM INDEXES SOLVE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/06-Indexing-And-Query-Optimization.md`
@@ -5062,7 +5282,7 @@ Each links to the documents that define or teach it.
 - **THE RED LIGHTS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md`
 - **THE REDUCTION TOOLKIT** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/02-Algorithmic-Reduction.md`
 - **THE REFERRAL STRATEGY** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/05-Job-Alert-Channels.md`
-- **THE REQUEST LIFECYCLE (HOW IT ALL CONNECTS)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **THE REQUEST LIFECYCLE (HOW IT ALL CONNECTS)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **THE REQUEST–RESPONSE MODEL** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
 - **THE RESPONSE ENVELOPE, AppError, AND asyncHandler** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **THE RESTATE-IN-YOUR-WORDS TEST** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/01-How-To-Read-A-Problem.md`
@@ -5091,11 +5311,12 @@ Each links to the documents that define or teach it.
 - **THE SORTING ZOO** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/02-Sorting.md`
 - **THE SPACED-REPETITION PRINCIPLE** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/06-Re-Verification-Rhythm.md`
 - **THE SPACED-REPETITION SCHEDULE** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/05-Sheet-Tracker-Template.md`
+- **THE SPECTRUM OF EXECUTION** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **THE SPREADSHEET COLUMNS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/05-Sheet-Tracker-Template.md`
 - **THE STACK FRAME** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **THE STACK FRAME (revisited deeper)** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
 - **THE STACK — FAST, AUTOMATIC, SCOPED** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/01-Stack-Heap-and-Layout.md`
-- **THE STACK — JPA, HIBERNATE, SPRING DATA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **THE STACK — JPA, HIBERNATE, SPRING DATA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **THE STAGES IN DETAIL** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/02-The-Master-Roadmap.md`
 - **THE STANDARD WEEK** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/02-Weekly-Training-System.md`
 - **THE STAR-AND-REVISIT SYSTEM** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md`
@@ -5109,7 +5330,7 @@ Each links to the documents that define or teach it.
 - **THE STATE-DESIGN TEMPLATE** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/05-State-Modeling.md`
 - **THE STATE-GRAPH INSIGHT** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/03-Graph-Thinking.md`
 - **THE STATE-MACHINE VIEW** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md`
-- **THE STREAM API — DECLARATIVE DATA PROCESSING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **THE STREAM API — DECLARATIVE DATA PROCESSING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **THE STRESS-RESPONSE TRAINING** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/08-Pressure-Lab.md`
 - **THE STRESS-TEST DISCIPLINE** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/11-Template-Engineering.md`
 - **THE STRING ALGORITHM PROGRESSION** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/01-String-Foundations.md`
@@ -5120,6 +5341,7 @@ Each links to the documents that define or teach it.
 - **THE SUBTASK SYSTEM (the IOI-defining skill)** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/04-IOI-Systems.md`
 - **THE SUNDAY 30-MINUTE SPOT CHECK** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/04-Weekly-Micro-Trials.md`
 - **THE SWITCHING RULE** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/05-Contest-Strategy.md`
+- **THE SYMBOL TABLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **THE SYSTEMATIC EDGE CASE CHECKLIST** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **THE TABULATION TEMPLATE (C++)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md`
 - **THE TAKEUFORWARD ECOSYSTEM** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/01-Striver-Sheets-Guide.md`
@@ -5146,6 +5368,7 @@ Each links to the documents that define or teach it.
 - **THE THREE OFF-CAMPUS PATHS** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/09-Off-Campus-And-Referrals-Track.md`
 - **THE THREE PARTS** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/02-Recursive-Thinking.md`
 - **THE THREE QUESTIONS OF DECOMPOSITION** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
+- **THE THREE RULES OF OWNERSHIP** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
 - **THE THREE SECTIONS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/12-CS-Core-Subjects/05-Aptitude-And-Reasoning.md`
 - **THE THREE STATES OF ASYNC DATA** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/07-Data-Fetching-And-Effects.md`
 - **THE THREE STATES YOU MUST NEVER FORGET** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
@@ -5191,14 +5414,18 @@ Each links to the documents that define or teach it.
 - **THE TWO UNIVERSAL TRAVERSALS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/01-Graph-Foundations.md`
 - **THE TWO-STRING TEMPLATE** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/12-String-DP.md`
 - **THE TYPE-SPECIFIC PLAYBOOKS** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/05-Contest-Strategy.md`
+- **THE UNDEFINED-BEHAVIOR MINEFIELD** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md`
 - **THE UNDO TOOLKIT** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/04-Git-And-Collaboration.md`
 - **THE UNIFIED FRAMEWORK** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/08-Stocks-DP.md`
+- **THE UNIFYING LESSON** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/03-Actors-CSP-and-STM.md`
 - **THE UNIVERSAL LANGUAGE TEMPLATE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/02-The-Polyglot-Mindset.md`
 - **THE UNIVERSAL TRUTH** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/00-Index.md`
 - **THE UPGRADE PATH** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/05-Service-Companies-Track.md`
 - **THE UPSOLVE CADENCE** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md`
 - **THE UPSOLVE DISCIPLINE** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/01-ICPC-Hello-World-of-Hard-Problems.md`
 - **THE UPSOLVE PROTOCOL** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md`
+- **THE VERBOSITY REPUTATION (and its fading)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md`
+- **THE VERDICT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **THE VIRTUAL CONTEST DISCIPLINE** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/05-Contest-Training-System.md`
 - **THE VIRTUAL DOM & RECONCILIATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **THE WALK-RUN-FLY PARABLE** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md`
@@ -5238,6 +5465,7 @@ Each links to the documents that define or teach it.
 - **TIER 5 — INTERVAL & PARTITION** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/20-50-Classic-DP-Problems.md`
 - **TIER 6 — TREE / GRAPH / ADVANCED** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/20-50-Classic-DP-Problems.md`
 - **TIER 7 — HARD / SPECIALIZED** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/20-50-Classic-DP-Problems.md`
+- **TIERED COMPILATION — THE MODERN REALITY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **TIME ALLOCATION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/12-The-Problem-Attack-Protocol.md`
 - **TIME-BLOCKING** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
 - **TIMSORT (Python's & Java's standard)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/02-Sorting.md`
@@ -5257,13 +5485,14 @@ Each links to the documents that define or teach it.
 - **TRACKING** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/03-LeetCode-Strategy.md`
 - **TRAINING PATH (for aspiring olympians)** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/04-IOI-Systems.md`
 - **TRAINING PATTERN RECOGNITION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/04-Pattern-Recognition.md`
-- **TRANSACTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **TRANSACTIONS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **TRANSACTIONS FROM APPLICATION CODE** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **TRAPPING RAIN WATER (the two-pointer legend)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/15-COMPENDIUM-Legendary-Patterns.md`
 - **TRAVELING SALESMAN PROBLEM (TSP) — the flagship** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/12-Bitmask-DP.md`
 - **TREE BFS** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
 - **TREE DFS** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
 - **TREE DP + BITMASK / EXTRA STATE** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md`
+- **TREE-WALKING INTERPRETERS — THE SIMPLEST** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **TREES — THE FUNDAMENTAL STRUCTURE** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/08-Logic-and-Discrete-Math.md`
 - **TRIE** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
 - **TRIE VARIANTS** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md`
@@ -5284,14 +5513,18 @@ Each links to the documents that define or teach it.
 - **TWO-FACTOR (TOTP) IN ~20 LINES** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
 - **TYPE ASSERTIONS & NON-NULL** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **TYPE CASTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
+- **TYPE CHECKING IN PRACTICE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/02-Semantic-Analysis-and-IR.md`
 - **TYPE COERCION — THE RULES BEHIND THE WEIRDNESS** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **TYPE NARROWING** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **TYPE SOUNDNESS — THE PROMISE (AND WHEN IT BREAKS)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/01-Static-vs-Dynamic.md`
+- **TYPE SYSTEMS & THEORY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
+- **TYPED LAMBDA CALCULUS — THE BRIDGE TO TYPES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **TYPES OF INVARIANTS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/08-Invariant-Discovery.md`
 - **TYPES OF INVARIANTS IN ALGORITHM DESIGN** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/04-Discovering-Invariants.md`
 - **TYPES OF LOWER-BOUND ARGUMENTS** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **TYPESCRIPT WITH REACT — TYPING COMPONENTS & PROPS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
 - **TYPESCRIPT — HOOKS, EVENTS, REFS, GENERICS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
+- **TYPESCRIPT — THE FIX THAT CONQUERED** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/07-JavaScript-and-TypeScript.md`
 - **TYPING COMPONENT PROPS** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/04-TypeScript-With-React.md`
 - **TYPING CUSTOM HOOKS** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/04-TypeScript-With-React.md`
 - **TYPING PROPS — PropTypes vs TypeScript** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/02-Components-And-Props.md`
@@ -5330,12 +5563,14 @@ Each links to the documents that define or teach it.
 - **Template discipline** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/11-Tourist-Solutions-Studied.md`
 - **Templates & Implementations** — `DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/00-Index.md`
 - **Templates / Code Libraries** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-07-Elite-CP.md`
+- **Templates — compile-time generics and metaprogramming** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
 - **Temporal locality** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
 - **Ternary — inline if/else** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **Test database — Testcontainers** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
 - **Testing & TypeScript** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md`
 - **Testing async data (with a mocked fetch)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
 - **Text Justification (LC 68)** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/13-Google-Hardest-Problems.md`
+- **Textual macros (crude) — C's preprocessor** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **The "Things That Break" principle** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
 - **The "low-link" value** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/09-The-Story-of-Tarjan.md`
 - **The 11-Level Mastery Ladder** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/00-Index.md`
@@ -5345,7 +5580,7 @@ Each links to the documents that define or teach it.
 - **The 25 Interview Patterns — The Complete Bible** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/02-The-25-Patterns.md`
 - **The 3-Phase Rating Climb** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **The 50 Classic DP Problems** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/20-50-Classic-DP-Problems.md`
-- **The 8 primitive types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **The 8 primitive types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **The Advanced Paradigms Compendium** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/00-Index.md`
 - **The Algorithm Paradigms (Big Picture)** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/00-Index.md`
 - **The Anti-Patterns — What Kills Progress** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/05-The-Anti-Patterns.md`
@@ -5354,30 +5589,38 @@ Each links to the documents that define or teach it.
 - **The Big Truth: Most Languages Are Multi-Paradigm** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/00-Index.md`
 - **The CF rating system** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/12-COMPENDIUM-CP-Wisdom.md`
 - **The Chomsky hierarchy (grammar power)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/03-Grammars-and-Parsing.md`
+- **The Compiler Pipeline** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/00-Index.md`
 - **The Complete Advanced Paradigms Compendium** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/00-Index.md`
 - **The Complete DSA Syllabus — "Nothing Left" Edition** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/01-Complete-DSA-Syllabus-Nothing-Left.md`
 - **The Complete Graph Algorithms Compendium** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
+- **The Complete Library** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/01-The-Complete-Library.md`
 - **The Complete Library — Resources & References** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
+- **The Core Tension** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/00-Index.md`
 - **The DOM & Events** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
 - **The Discipline System — Daily Practice Doctrine** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/08-The-Discipline-System.md`
 - **The Doctrine of First Principles** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/02-The-Doctrine-of-First-Principles.md`
+- **The Eight, Placed on the Dials** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md`
 - **The Engineer's Mindset** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
+- **The Essential Shortlist** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/12-RESOURCES-AND-REFERENCES/00-Index.md`
 - **The Eternal Mindset** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/01-The-Eternal-Mindset.md`
 - **The Four Compendiums** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/00-Index.md`
 - **The Geeta of Problem Solving** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/07-The-Geeta-of-Problem-Solving.md`
 - **The Grandmaster Code — 21 Commandments** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/03-The-Grandmaster-Code.md`
 - **The Great Families** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md`
 - **The Inventor Mindset** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/05-The-Inventor-Mindset.md`
+- **The JIT superpower: speculative optimization** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
 - **The Journey Begins** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/00-Index.md`
 - **The Knapsack Family** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/04-Knapsack-Family.md`
 - **The LCS Family (Longest Common Subsequence)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/06-LCS-Family.md`
 - **The LIS Family (Longest Increasing Subsequence)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/05-LIS-Family.md`
 - **The Ladder** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/00-Index.md`
+- **The Language Tour** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/00-Index.md`
 - **The Library** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md`
 - **The Master Library** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-Index.md`
 - **The Master Roadmap** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/02-The-Master-Roadmap.md`
 - **The Mathematics of Meaning** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/MASTER-INDEX.md`
 - **The Mental Models Compendium** — `DSA-Grandmaster-Codex/16-MENTAL-MODELS-AND-FRAMEWORKS/13-COMPENDIUM-Mental-Models.md`
+- **The Metaprogramming Spectrum** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/00-Index.md`
 - **The Mistake Log — Your Personal Feedback Loop** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
 - **The Paradigms at a Glance** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/00-Index.md`
 - **The Path of Mastery — Stages of Skill Acquisition** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/04-The-Path-of-Mastery.md`
@@ -5408,11 +5651,11 @@ Each links to the documents that define or teach it.
 - **The `res` object — every response shortcut** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
 - **The `sort` gotcha (lexicographic by default)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
 - **The `this` Keyword & Prototypes** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md`
-- **The annotations that make it happen** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **The annotations that make it happen** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **The async wrapper — no more try/catch in every handler** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **The bad schema we will fix** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/01-Relational-Model-And-Design.md`
 - **The boundary-search template (lower/upper bound)** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/05-Binary-Search/00-Index.md`
-- **The built-in functional interfaces (`java.util.function`)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **The built-in functional interfaces (`java.util.function`)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **The canonical example** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
 - **The catch — referential equality** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/08-Performance-Optimization.md`
 - **The cheat sheet** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/18-Bit-Manipulation/00-Index.md`
@@ -5421,26 +5664,28 @@ Each links to the documents that define or teach it.
 - **The classic example** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/03-Browsers-And-Rendering.md`
 - **The classic ordering puzzle** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
 - **The commands you will live in** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/00-Index.md`
-- **The compilation + execution pipeline in detail** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **The compilation + execution pipeline in detail** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **The complete falsy list** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **The concrete benefits** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **The core rules** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/04-HTML-Essentials.md`
 - **The core verbs** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **The create form — a controlled component** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **The critical `box-sizing` gotcha** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
+- **The critical rule: never block the loop** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **The crucial consequence: types can't validate runtime data** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
-- **The decision table** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **The decision table** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **The defense: DOUBLE HASHING** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/02-Hashing.md`
+- **The deliberate omissions** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
 - **The dependency array — the heart of `useEffect`** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/04-Hooks-Deep-Dive.md`
-- **The entry point** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
-- **The essential operations** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **The entry point** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
+- **The essential operations** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **The event object** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/07-The-DOM-And-Events.md`
 - **The famous "center anything"** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **The five flavors of middleware** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **The fix: parameterized queries (prepared statements)** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/08-Advanced-SQL-And-Production.md`
-- **The four relationship types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Data-And-JPA.md`
+- **The four relationship types** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/09-Spring-Boot-Data-And-JPA.md`
 - **The frontend upload — FormData** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/05-State-File-Uploads-And-Realtime.md`
-- **The full set of HTTP verb mappings** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **The full set of HTTP verb mappings** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **The generic solution** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md`
 - **The heap primitives in each language** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/09-Heap-Priority-Queue/00-Index.md`
 - **The honest tradeoffs** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
@@ -5452,7 +5697,7 @@ Each links to the documents that define or teach it.
 - **The leaky abstraction principle** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
 - **The list and item — update + delete** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
 - **The mental model for `+`** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
-- **The modern Map methods that eliminate boilerplate** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **The modern Map methods that eliminate boilerplate** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **The modern alternative: union of literals (often better)** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **The modern default: Vite** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/00-Index.md`
 - **The most important option: `"strict": true`** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
@@ -5490,6 +5735,7 @@ Each links to the documents that define or teach it.
 - **The viewport meta tag (required — in your HTML)** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/05-CSS-Essentials.md`
 - **Theoretical** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md`
 - **These reductions prove NP-completeness** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/02-Algorithmic-Reduction.md`
+- **Threads and Shared Memory** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **Three-phase commit (3PC)** — `DSA-Grandmaster-Codex/11-ADVANCED-PARADIGMS-UNIVERSE/08-COMPENDIUM-Advanced.md`
 - **Three-valued logic table** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/03-Querying-Data-SELECT.md`
 - **Throttle — "at most once every N ms"** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/08-Advanced-JS-Patterns.md`
@@ -5511,6 +5757,7 @@ Each links to the documents that define or teach it.
 - **Top K Frequent Elements** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/01-Arrays-and-Hashing/05-Top-K-Frequent-Elements.md`
 - **Top Problems Per Company** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/10-Top-100-Per-Company.md`
 - **Top-down (memoization)** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/01-DP-Foundations.md`
+- **Top-down (recursive descent, LL)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/01-Lexing-and-Parsing.md`
 - **Top-down decomposition** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/09-Abstraction-and-Decomposition.md`
 - **Topological** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/COMPENDIUM-All-Graph-Algorithms.md`
 - **Topological sort (ordering a DAG / detecting cycles in a directed graph)** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/11-Graphs/00-Index.md`
@@ -5531,7 +5778,7 @@ Each links to the documents that define or teach it.
 - **Tree DP** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md`
 - **Tree DP with re-rooting** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
 - **Tree height / depth** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/10-Tree-DP.md`
-- **TreeSet's superpower — navigation** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **TreeSet's superpower — navigation** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **Trees** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/10-Edge-Case-Analysis.md`
 - **Trees Compendium** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Trees.md`
 - **Trees — Problem Set** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/07-Trees/00-Index.md`
@@ -5571,9 +5818,10 @@ Each links to the documents that define or teach it.
 - **Type E: **Time management mistakes**** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/07-The-Mistake-Log.md`
 - **Type Inference** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/02-Type-Inference.md`
 - **Type Systems — The Science of Preventing Bad Programs** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md`
+- **Type Theory — Programs as Proofs** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **Type alias** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **Type erasure (Java, Haskell)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md`
-- **Type erasure — the catch you must know** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **Type erasure — the catch you must know** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **Type inference — let TypeScript do the work** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/02-Types-And-Interfaces.md`
 - **TypeScript** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/00-Index.md`
 - **TypeScript (compile-time checks — strongly preferred)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/02-Components-And-Props.md`
@@ -5596,7 +5844,7 @@ Each links to the documents that define or teach it.
 - **UPDATE — OPERATORS, NOT REPLACEMENT** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **UPDATING STATE THE RIGHT WAY — IMMUTABILITY** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/03-State-And-Events.md`
 - **USACO GUIDE (olympiad + CP curriculum)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/04-CP-Ladders-And-CSES.md`
-- **UTILITIES, IMMUTABILITY, AND SORTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **UTILITIES, IMMUTABILITY, AND SORTING** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **UTILITY TYPES (THE WEEKLY TOOLKIT)** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/03-Generics-And-Advanced-Types.md`
 - **UUID** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **Unbounded Knapsack** — `DSA-Grandmaster-Codex/06-DYNAMIC-PROGRAMMING-UNIVERSE/COMPENDIUM-Classical-DP.md`
@@ -5629,7 +5877,7 @@ Each links to the documents that define or teach it.
 - **Uses** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/07-Voronoi-Delaunay.md`
 - **Utilities** — `DSA-Grandmaster-Codex/19-TEMPLATES-AND-IMPLEMENTATIONS/00-Index.md`
 - **V8 — THE ENGINE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
-- **VALIDATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **VALIDATION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **VALIDATION AT THE BOUNDARY WITH ZOD** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/02-Building-The-Backend-API.md`
 - **VALIDATION — DO IT, ALWAYS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
 - **VALIDATION — MANUAL FIRST** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/06-Forms-And-Controlled-Components.md`
@@ -5637,11 +5885,12 @@ Each links to the documents that define or teach it.
 - **VALUE RANGE CONSTRAINTS** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/02-Constraint-Analysis.md`
 - **VALUES vs REFERENCES (revisited at the memory level)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/01-Stack-Heap-and-Layout.md`
 - **VALUES vs VARIABLES vs BINDINGS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/04-Values-Bindings-and-Scope.md`
-- **VARIABLES AND DATA TYPES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **VARIABLES AND DATA TYPES** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **VARIABLES: `let`, `const`, `var`** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **VARIANCE** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/03-Probability-Expected-Value.md`
 - **VARIANCE — THE SUBTLE PART** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/03-Polymorphism-and-Generics.md`
 - **VARIANTS & APPLICATIONS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md`
+- **VARIANTS AND LEGACY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **VIEWS & MATERIALIZED VIEWS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
 - **VOLUMES & PERSISTENCE** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md`
 - **Valid Anagram** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/01-Arrays-and-Hashing/02-Valid-Anagram.md`
@@ -5697,9 +5946,10 @@ Each links to the documents that define or teach it.
 - **WHAT A CONTAINER ACTUALLY IS — vs A VM** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/05-Docker-And-Containers.md`
 - **WHAT A LANGUAGE ACTUALLY BUYS YOU** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md`
 - **WHAT A ROUTE HANDLER IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/06-API-Routes-And-Route-Handlers.md`
+- **WHAT A THREAD IS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/01-Threads-and-Shared-Memory.md`
 - **WHAT A TRANSACTION IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/07-Transactions-And-Concurrency.md`
 - **WHAT AN ENGINEER ACTUALLY IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/01-The-Engineer-Mindset.md`
-- **WHAT AN EXCEPTION IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **WHAT AN EXCEPTION IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **WHAT BREAKS WITHOUT AN IDE** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/09-Whiteboard-Lab.md`
 - **WHAT EACH PART DOES** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/03-How-The-Web-Works-Overview.md`
 - **WHAT EACH UNLOCKS** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/02-BFS-and-DFS.md`
@@ -5727,7 +5977,8 @@ Each links to the documents that define or teach it.
 - **WHAT IS `this`?** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/04-The-This-Keyword-And-Prototypes.md`
 - **WHAT IT COMPUTES** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/11-Palindromic-Tree.md`
 - **WHAT IT DOESN'T CATCH** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/10-Stress-Testing.md`
-- **WHAT JAVA ACTUALLY IS (AND WHY IT WON)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **WHAT IT IS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
+- **WHAT JAVA ACTUALLY IS (AND WHY IT WON)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **WHAT MAKES A CF PROBLEM LEGENDARY** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/05-CF-Greatest-Hits.md`
 - **WHAT MAKES A LANGUAGE "TURING COMPLETE"** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/01-What-Is-a-Programming-Language.md`
 - **WHAT MAKES AN ICPC PROBLEM HARD** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/01-ICPC-Hello-World-of-Hard-Problems.md`
@@ -5739,7 +5990,7 @@ Each links to the documents that define or teach it.
 - **WHAT PROBLEM DOES TYPESCRIPT SOLVE?** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **WHAT REACT ACTUALLY IS** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/01-React-Fundamentals-And-JSX.md`
 - **WHAT REST ACTUALLY MEANS** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/05-Building-REST-APIs.md`
-- **WHAT SPRING AND SPRING BOOT ACTUALLY ARE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **WHAT SPRING AND SPRING BOOT ACTUALLY ARE** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **WHAT STATE IS, AND WHY PLAIN VARIABLES FAIL** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/03-State-And-Events.md`
 - **WHAT STRESS TESTING CATCHES** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/10-Stress-Testing.md`
 - **WHAT THE HULL UNLOCKS** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/02-Convex-Hull.md`
@@ -5748,6 +5999,7 @@ Each links to the documents that define or teach it.
 - **WHAT THEY TEST (in order of weight)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/05-Service-Companies-Track.md`
 - **WHAT THEY TEST (very different from FAANG)** — `DSA-Grandmaster-Codex/22-COMPANY-PREP-TRACKS/06-Fintech-And-Trading-Track.md`
 - **WHAT THIS MEANS FOR ALGORITHMS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/02-Memory-Models.md`
+- **WHAT THIS MEANS FOR YOU AS A PROGRAMMER** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **WHAT THIS MEANS FOR YOUR CODE** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
 - **WHAT TO DO WITH THIS** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/03-FAANG-Reality-Check.md`
 - **WHAT TO LEARN FROM HIS CODE** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/11-Tourist-Solutions-Studied.md`
@@ -5757,7 +6009,9 @@ Each links to the documents that define or teach it.
 - **WHAT TO SOLVE WHEN** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/01-Daily-Training-System.md`
 - **WHAT TO STUDY** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/09-System-Design-DSA-Bridge.md`
 - **WHAT TRANSFERS AND WHAT DOESN'T** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/02-The-Polyglot-Mindset.md`
+- **WHAT TYPE THEORY IS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **WHAT WE ARE BUILDING — AND THE SECURITY STAKES** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
+- **WHAT YOU JUST LEARNED (and where to go next)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/02-Build-Your-Own-Language.md`
 - **WHAT YOUR CODE BECOMES** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/10-Compilation-and-Execution.md`
 - **WHAT p[] GIVES YOU** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/07-Manacher.md`
 - **WHEN BRUTE FORCE IS ENOUGH** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/05-Optimization-Narration.md`
@@ -5778,7 +6032,13 @@ Each links to the documents that define or teach it.
 - **WHEN TO REACH FOR A TRIE** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/13-Trie-Applications.md`
 - **WHEN TO REACH FOR IMPERATIVE STYLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/01-Imperative-and-Procedural.md`
 - **WHEN TO REACH FOR SWEEP LINE** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/03-Line-Sweep.md`
+- **WHEN TO USE C** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/01-C.md`
+- **WHEN TO USE C++** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/02-Cpp.md`
 - **WHEN TO USE DSU** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/32-Disjoint-Set-Union.md`
+- **WHEN TO USE GO** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/04-Go.md`
+- **WHEN TO USE JAVA** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/05-Java.md`
+- **WHEN TO USE PYTHON** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md`
+- **WHEN TO USE RUST** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/03-Rust.md`
 - **WHEN YOU CAN'T FIND THE OBSERVATION** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/03-Observation-Extraction.md`
 - **WHEN YOU NEED IT** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/13-General-Matching.md`
 - **WHERE INFERENCE STOPS (and you must annotate)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/02-Type-Inference.md`
@@ -5801,20 +6061,23 @@ Each links to the documents that define or teach it.
 - **WHY BEGINNERS SKIP BRUTE FORCE** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
 - **WHY BLOSSOMS ARE HARD** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/13-General-Matching.md`
 - **WHY BRUTE FORCE?** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/05-Brute-Force-First.md`
-- **WHY COLLECTIONS EXIST** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-Collections-Framework.md`
+- **WHY COLLECTIONS EXIST** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Collections-Framework.md`
 - **WHY COMMUNICATION IS HALF THE INTERVIEW** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/04-Interview-Communication.md`
 - **WHY COMMUNITY MATTERS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/06-Communities.md`
 - **WHY COMPLEXITY MATTERS** — `DSA-Grandmaster-Codex/02-PROGRAMMING-FOUNDATIONS/06-Complexity-Thinking.md`
-- **WHY CONCURRENCY** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
+- **WHY CONCURRENCY** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
 - **WHY CONTESTS?** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/05-Contest-Training-System.md`
 - **WHY DECLARATIVE MATTERS (even if you never write Prolog)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/04-Logic-and-Declarative.md`
 - **WHY EFFECTS ARE THE WRONG DEFAULT FOR FETCHING** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/07-Data-Fetching-And-Effects.md`
 - **WHY ERRICHTO** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/12-Errichto-Editorials-Studied.md`
+- **WHY FORMAL SEMANTICS?** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/02-Operational-and-Denotational-Semantics.md`
 - **WHY GREEDY WORKS — THE CUT PROPERTY** — `DSA-Grandmaster-Codex/07-GRAPH-THEORY-UNIVERSE/07-MST.md`
 - **WHY IT MATTERS IN CP** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/10-Generating-Functions.md`
+- **WHY IT UNDERPINS REAL LANGUAGES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
 - **WHY IT WORKS — THE PROOF** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/08-The-Story-of-Dijkstra.md`
 - **WHY IT'S POWERFUL** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/10-Suffix-Tree.md`
 - **WHY JOINS EXIST** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/04-Joins-And-Relationships.md`
+- **WHY LEARN IT IF YOU WON'T SHIP IT** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md`
 - **WHY LOWER BOUNDS MATTER** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/03-Lower-Bound-Reasoning.md`
 - **WHY MICRO-TRIALS MATTER** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/04-Weekly-Micro-Trials.md`
 - **WHY MOCKS** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/07-Mock-Interview-System.md`
@@ -5831,12 +6094,17 @@ Each links to the documents that define or teach it.
 - **WHY PLATEAUS HAPPEN** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/10-Plateaus-And-Recovery.md`
 - **WHY POLYNOMIAL MULTIPLICATION MATTERS** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/06-The-Story-of-FFT.md`
 - **WHY PROVE?** — `DSA-Grandmaster-Codex/03-PROBLEM-SOLVING-FOUNDATIONS/09-Proof-Construction.md`
+- **WHY PYTHON IS "SLOW" — AND WHY IT DOESN'T MATTER (usually)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/06-Python.md`
 - **WHY ROUTING NEEDS A LIBRARY** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/10-Routing-With-React-Router.md`
+- **WHY SSA MAKES OPTIMIZATION EASY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/03-Code-Generation-and-Optimization.md`
 - **WHY TEACHING IS THE ULTIMATE TEST** — `DSA-Grandmaster-Codex/21-MASTERY-VERIFICATION/03-Teaching-Trial-Bank.md`
 - **WHY THE DISTINCTION MATTERS PRACTICALLY** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/01-LANGUAGE-FOUNDATIONS/02-Syntax-vs-Semantics.md`
 - **WHY THE INDUSTRY IS DRIFTING TOWARD STATIC** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/01-Static-vs-Dynamic.md`
 - **WHY THERE ARE THOUSANDS OF LANGUAGES** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md`
 - **WHY THESE MATTER** — `DSA-Grandmaster-Codex/15-CASE-STUDIES-LEGENDARY/10-Recent-Breakthroughs.md`
+- **WHY THIS ALL MATTERS** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/05-COMPILERS-AND-INTERPRETERS/04-Interpreters-VMs-and-JIT.md`
+- **WHY THIS IS PROFOUND: DATA RACES BECOME IMPOSSIBLE** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/04-MEMORY-AND-RUNTIME/03-Ownership-and-Borrowing.md`
+- **WHY THIS ISN'T JUST Beautiful — IT'S POWERFUL** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/03-Type-Theory.md`
 - **WHY THIS MATTERS** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/10-Curated-Sheets/05-Sheet-Tracker-Template.md`
 - **WHY THIS STACK — AND THE HONEST TRADEOFFS** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/01-The-MERN-Architecture.md`
 - **WHY THIS WORKS** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/08-The-Pattern-Journal.md`
@@ -5844,7 +6112,7 @@ Each links to the documents that define or teach it.
 - **WHY UPSOLVING WORKS** — `DSA-Grandmaster-Codex/12-COMPETITIVE-PROGRAMMING-UNIVERSE/06-Upsolving-Framework.md`
 - **WHY WE TEST — THE COST-OF-A-BUG CURVE** — `FULLSTACK-AI-GRANDMASTER-CODEX/11-FULLSTACK-ENGINEERING/03-Testing-Strategies.md`
 - **WHY WHITEBOARD?** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/09-Whiteboard-Lab.md`
-- **WILDCARDS — `?`, `extends`, `super`, AND PECS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/04-Generics-And-Functional-Java.md`
+- **WILDCARDS — `?`, `extends`, `super`, AND PECS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Generics-And-Functional.md`
 - **WINDOW FUNCTIONS — AGGREGATES WITHOUT COLLAPSING ROWS** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/05-Aggregation-And-Advanced-Queries.md`
 - **WINNING & LOSING POSITIONS (P/N)** — `DSA-Grandmaster-Codex/09-MATHEMATICS-UNIVERSE/09-Game-Theory.md`
 - **WIRE UP PROVIDERS AND THE ROUTER** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/03-Building-The-React-Frontend.md`
@@ -5915,10 +6183,13 @@ Each links to the documents that define or teach it.
 - **Which to pick?** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
 - **Whiteboard Coding** — `DSA-Grandmaster-Codex/13-INTERVIEW-DSA-UNIVERSE/06-Whiteboard-Coding.md`
 - **Whiteboard Lab — Solving Without an IDE** — `DSA-Grandmaster-Codex/18-SIMULATIONS-AND-LABS/09-Whiteboard-Lab.md`
+- **Why Build a Language?** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/10-LANGUAGE-DESIGN/00-Index.md`
+- **Why Case Studies** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/11-CASE-STUDIES/00-Index.md`
 - **Why HTTPS is mandatory now** — `FULLSTACK-AI-GRANDMASTER-CODEX/01-WEB-FOUNDATIONS/02-HTTP-And-HTTPS.md`
 - **Why Languages Exist** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/00-PHILOSOPHY-AND-DOCTRINE/01-Why-Languages-Exist.md`
 - **Why NOT to use them (vs arrays)** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md`
 - **Why TO use them** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Linear-Structures.md`
+- **Why Theory Matters (even for engineers)** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/00-Index.md`
 - **Why This Section Matters Most** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/03-TYPE-SYSTEMS/00-Index.md`
 - **Why TypeScript & Setup** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **Why `i > start` and not `i > 0`** — `DSA-Grandmaster-Codex/23-SOLVED-PROBLEMS-VAULT/10-Backtracking/03-Combination-Sum-II.md`
@@ -5971,7 +6242,7 @@ Each links to the documents that define or teach it.
 - **XOR — THE MAGIC OPERATOR** — `DSA-Grandmaster-Codex/05-ALGORITHMS-UNIVERSE/08-Bit-Manipulation.md`
 - **YOUR FINAL VOW** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-10-Algorithm-Designer.md`
 - **YOUR FIRST COMPONENT TEST** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/11-Testing-And-TypeScript-React.md`
-- **YOUR FIRST SPRING BOOT APP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Spring-Boot-Essentials.md`
+- **YOUR FIRST SPRING BOOT APP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/08-Spring-Boot-Essentials.md`
 - **YOUR LIBRARY (Lifetime Reading)** — `DSA-Grandmaster-Codex/01-LEVELS-PROGRESSION/Level-10-Algorithm-Designer.md`
 - **YOUTUBE CHANNELS (real URLs)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/16-MASTER-LINK-DIRECTORY.md`
 - **Yearly** — `DSA-Grandmaster-Codex/14-ALGORITHM-DESIGN-SCIENCE/05-The-Inventor-Mindset.md`
@@ -5979,7 +6250,7 @@ Each links to the documents that define or teach it.
 - **You'll enjoy it if...** — `FULLSTACK-AI-GRANDMASTER-CODEX/00-ROADMAP-AND-PHILOSOPHY/04-Choosing-Your-Path.md`
 - **YouTube (free, highest value)** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/00-Index.md`
 - **YouTube Channels — The Complete Categorized List** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/11-Channels-And-Communities/01-YouTube-Channels-Complete.md`
-- **Your first program — the manual way** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-Index.md`
+- **Your first program — the manual way** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Getting-Started.md`
 - **Your first project** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md`
 - **Your first script** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/00-Index.md`
 - **Z vs KMP** — `DSA-Grandmaster-Codex/08-STRING-UNIVERSE/04-Z-Algorithm.md`
@@ -5990,7 +6261,7 @@ Each links to the documents that define or teach it.
 - **[`03-FAANG-Reality-Check.md`](./03-FAANG-Reality-Check.md)** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/00-Index.md`
 - **`'error'` events are special** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **`.dockerignore` — keep images lean and safe** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
-- **`==` vs `.equals()` — the most important distinction in Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **`==` vs `.equals()` — the most important distinction in Java** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **`??` vs `||` cheat sheet** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/06-ES6-Plus-Features.md`
 - **`ALTER TABLE` — EVOLVING THE SCHEMA** — `FULLSTACK-AI-GRANDMASTER-CODEX/08-SQL-DATABASES/02-SQL-Basics-DDL-And-DML.md`
 - **`AbortController` — CANCELLING ASYNC WORK** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
@@ -6045,12 +6316,12 @@ Each links to the documents that define or teach it.
 - **`crypto` — HASHING, RANDOM, ENCRYPTION** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **`default.tsx` — the unmatched-slot fallback** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **`docker-compose.yml` for local dev** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/08-Advanced-Node-And-Deployment.md`
-- **`equals()`, `hashCode()`, AND `toString()` — THE OBJECT CONTRACT** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **`equals()`, `hashCode()`, AND `toString()` — THE OBJECT CONTRACT** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **`error.tsx` — segment error boundary** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **`express.Router` — MODULAR ROUTES** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/04-Express-Fundamentals.md`
 - **`fetch` — REAL-WORLD ASYNC** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
 - **`filter` — keep elements that pass a test (n in ≤n out)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
-- **`final` — constants** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **`final` — constants** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **`findOneAndUpdate` — atomic find + update + return** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/02-CRUD-Operations-And-Query-Operators.md`
 - **`global` and `globalThis`** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **`helmet` — sensible HTTP security headers** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/07-Authentication-And-Security.md`
@@ -6079,7 +6350,7 @@ Each links to the documents that define or teach it.
 - **`process` AND `global`** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **`reduce` — fold an array into a single value (n in 1 out)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/03-Objects-And-Arrays.md`
 - **`staleTime` vs `gcTime` (the two timers everyone confuses)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/07-Data-Fetching-And-Effects.md`
-- **`static` — CLASS-LEVEL MEMBERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-OOP-In-Java.md`
+- **`static` — CLASS-LEVEL MEMBERS** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/03-OOP-In-Java.md`
 - **`template.tsx` — when you *want* a re-mount** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/02-App-Router-And-Routing.md`
 - **`tsconfig.json` — THE PROJECT'S BRAIN** — `FULLSTACK-AI-GRANDMASTER-CODEX/03-TYPESCRIPT/01-Why-TypeScript-And-Setup.md`
 - **`typeof` — your inspection tool** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
@@ -6102,25 +6373,29 @@ Each links to the documents that define or teach it.
 - **`useTransition` — mark an update as low-priority** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/08-Performance-Optimization.md`
 - **`util.promisify` for old-school callback APIs** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
 - **`util` — THE QUIET WORKHORSE** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/03-Core-Modules-And-Async.md`
-- **`var` — local type inference (Java 10+)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **`var` — local type inference (Java 10+)** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
 - **`var` — the legacy declaration (avoid)** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/01-JS-Fundamentals.md`
 - **`var`: hoisted but initialized to `undefined`** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/02-Functions-And-Scope.md`
 - **`winston` — flexible, transports galore** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/06-Middleware-And-Error-Handling.md`
-- **break, continue, and labels** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
+- **break, continue, and labels** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
+- **eval — THE ULTIMATE (AND DANGEROUS) META TOOL** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/09-METAPROGRAMMING/01-Macros-Reflection-and-DSLs.md`
 - **fetch vs axios — AND WHY A WRAPPER** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/01-The-MERN-Architecture.md`
 - **httpOnly COOKIE vs localStorage — THE DECISION, SPELLED OUT** — `FULLSTACK-AI-GRANDMASTER-CODEX/10-MERN-STACK/04-Authentication-Across-The-Stack.md`
 - **k-Nearest Neighbors** — `DSA-Grandmaster-Codex/10-GEOMETRY-UNIVERSE/06-KD-Tree.md`
 - **libuv — THE ASYNC HEART** — `FULLSTACK-AI-GRANDMASTER-CODEX/07-NODEJS-EXPRESS/01-The-Nodejs-Runtime.md`
 - **mongosh & shell basics** — `FULLSTACK-AI-GRANDMASTER-CODEX/09-NOSQL-MONGODB/00-Index.md`
 - **styled-components (CSS-in-JS)** — `FULLSTACK-AI-GRANDMASTER-CODEX/05-REACT/09-React-Patterns-And-Best-Practices.md`
-- **switch — classic and modern** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/01-Java-Fundamentals.md`
-- **synchronized methods** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
-- **synchronized — MUTUAL EXCLUSION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Concurrency-And-Multithreading.md`
-- **throw AND throws** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
-- **try / catch / finally** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
-- **try-with-resources — AUTOMATIC CLEANUP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/05-Exceptions-And-IO.md`
+- **switch — classic and modern** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/02-Java-Fundamentals.md`
+- **synchronized methods** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
+- **synchronized — MUTUAL EXCLUSION** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/07-Concurrency.md`
+- **throw AND throws** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
+- **try / catch / finally** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
+- **try-with-resources — AUTOMATIC CLEANUP** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/06-Exceptions-And-IO.md`
 - **vs KD-Tree / R-Tree** — `DSA-Grandmaster-Codex/04-DATA-STRUCTURES-UNIVERSE/COMPENDIUM-Advanced-DS.md`
 - **λ Functional Programming** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/02-PARADIGMS/03-Functional.md`
+- **λ Haskell — The Language That Rewires Your Brain** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/07-LANGUAGE-TOUR/08-Haskell.md`
+- **λ Lambda Calculus — The Essence of Computation** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/08-SEMANTICS-AND-THEORY/01-Lambda-Calculus.md`
+- **λ PHASE 6 — FUNCTIONAL JAVA** — `FULLSTACK-AI-GRANDMASTER-CODEX/04-JAVA-MASTERY/00-COMPLETE-TREE.md`
 - **अध्याय १ — The Chapter of Despair (Arjuna Vishada Yoga)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/07-The-Geeta-of-Problem-Solving.md`
 - **अध्याय २ — The Chapter of Karma (Karma Yoga)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/07-The-Geeta-of-Problem-Solving.md`
 - **अध्याय ३ — The Chapter of Knowledge (Jnana Yoga)** — `DSA-Grandmaster-Codex/00-PHILOSOPHY-AND-DOCTRINE/07-The-Geeta-of-Problem-Solving.md`
@@ -6132,6 +6407,7 @@ Each links to the documents that define or teach it.
 - **⏱ CONTESTS WORTH ATTENDING** — `DSA-Grandmaster-Codex/20-RESOURCES-AND-REFERENCES/00-The-Complete-Library.md`
 - **⏱ TIMELINE SUMMARY** — `DSA-Grandmaster-Codex/24-MASTER-SYLLABUS-AND-ROADMAP/02-The-Sequenced-Path.md`
 - **⏱ Time & Energy Management** — `DSA-Grandmaster-Codex/17-EXECUTION-SYSTEMS/09-Time-And-Energy-Management.md`
+- **⏳ Async and Event Loops** — `PROGRAMMING-LANGUAGES-GRANDMASTER-CODEX/06-CONCURRENCY-MODELS/02-Async-and-Event-Loops.md`
 - **⏳ Asynchronous JavaScript** — `FULLSTACK-AI-GRANDMASTER-CODEX/02-JAVASCRIPT-MASTERY/05-Asynchronous-JavaScript.md`
 - **① Request Memoization** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/04-Rendering-Strategies-SSR-SSG-ISR.md`
 - **② Data Cache** — `FULLSTACK-AI-GRANDMASTER-CODEX/06-NEXTJS/04-Rendering-Strategies-SSR-SSG-ISR.md`

@@ -2,7 +2,7 @@
 
 > *"Before you can build cathedrals, you learn to lay a single brick true. The fundamentals are the brick."*
 
-**Prev:** [`00-Index.md`](./00-Index.md) · **Next:** [`02-OOP-In-Java.md`](./02-OOP-In-Java.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`01-Getting-Started.md`](./01-Getting-Started.md) · **Next:** [`03-OOP-In-Java.md`](./03-OOP-In-Java.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -652,4 +652,4 @@ public class GuessingGame {
 
 ---
 
-**Prev:** [`00-Index.md`](./00-Index.md) · **Next:** [`02-OOP-In-Java.md`](./02-OOP-In-Java.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`01-Getting-Started.md`](./01-Getting-Started.md) · **Next:** [`03-OOP-In-Java.md`](./03-OOP-In-Java.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)

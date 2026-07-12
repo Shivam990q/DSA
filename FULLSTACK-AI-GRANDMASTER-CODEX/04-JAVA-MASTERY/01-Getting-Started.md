@@ -25,15 +25,15 @@
 
 | # | File | What it covers | Priority |
 |---|------|----------------|----------|
-| 00 | [`00-Index.md`](./00-Index.md) | You are here | — |
-| 01 | [`01-Java-Fundamentals.md`](./01-Java-Fundamentals.md) | Syntax, types, variables, operators, control flow, I/O, `main`, compilation & the JVM | Core |
-| 02 | [`02-OOP-In-Java.md`](./02-OOP-In-Java.md) | Classes, objects, constructors, the 4 pillars, interfaces vs abstract classes | ⭐ |
-| 03 | [`03-Collections-Framework.md`](./03-Collections-Framework.md) | List, Set, Map, Queue/Deque, iterators, choosing the right structure | ⭐ |
-| 04 | [`04-Generics-And-Functional-Java.md`](./04-Generics-And-Functional-Java.md) | Generics, bounds, wildcards, lambdas, Stream API, Optional, method references | ⭐ |
-| 05 | [`05-Exceptions-And-IO.md`](./05-Exceptions-And-IO.md) | try/catch/finally, checked vs unchecked, custom exceptions, file I/O, try-with-resources | Core |
-| 06 | [`06-Concurrency-And-Multithreading.md`](./06-Concurrency-And-Multithreading.md) | Threads, Runnable, synchronized, locks, ExecutorService, CompletableFuture, pitfalls | ⭐ |
-| 07 | [`07-Spring-Boot-Essentials.md`](./07-Spring-Boot-Essentials.md) | Spring/Spring Boot, DI, @RestController, REST APIs, @Service/@Repository, config | ⭐ |
-| 08 | [`08-Spring-Boot-Data-And-JPA.md`](./08-Spring-Boot-Data-And-JPA.md) | Spring Data JPA, entities, repositories, relationships, databases, CRUD API | Core |
+| 00 | [`01-Getting-Started.md`](./01-Getting-Started.md) | You are here | — |
+| 01 | [`02-Java-Fundamentals.md`](./02-Java-Fundamentals.md) | Syntax, types, variables, operators, control flow, I/O, `main`, compilation & the JVM | Core |
+| 02 | [`03-OOP-In-Java.md`](./03-OOP-In-Java.md) | Classes, objects, constructors, the 4 pillars, interfaces vs abstract classes | ⭐ |
+| 03 | [`04-Collections-Framework.md`](./04-Collections-Framework.md) | List, Set, Map, Queue/Deque, iterators, choosing the right structure | ⭐ |
+| 04 | [`05-Generics-And-Functional.md`](./05-Generics-And-Functional.md) | Generics, bounds, wildcards, lambdas, Stream API, Optional, method references | ⭐ |
+| 05 | [`06-Exceptions-And-IO.md`](./06-Exceptions-And-IO.md) | try/catch/finally, checked vs unchecked, custom exceptions, file I/O, try-with-resources | Core |
+| 06 | [`07-Concurrency.md`](./07-Concurrency.md) | Threads, Runnable, synchronized, locks, ExecutorService, CompletableFuture, pitfalls | ⭐ |
+| 07 | [`08-Spring-Boot-Essentials.md`](./08-Spring-Boot-Essentials.md) | Spring/Spring Boot, DI, @RestController, REST APIs, @Service/@Repository, config | ⭐ |
+| 08 | [`09-Spring-Boot-Data-And-JPA.md`](./09-Spring-Boot-Data-And-JPA.md) | Spring Data JPA, entities, repositories, relationships, databases, CRUD API | Core |
 
 ---
 
@@ -103,4 +103,4 @@ java Hello           # runs it → "Welcome to Java Mastery."
 
 ---
 
-**→ Begin:** [`01-Java-Fundamentals.md`](./01-Java-Fundamentals.md) | Back to [`../README.md`](../README.md)
+**→ Begin:** [`02-Java-Fundamentals.md`](./02-Java-Fundamentals.md) | Back to [`../README.md`](../README.md)

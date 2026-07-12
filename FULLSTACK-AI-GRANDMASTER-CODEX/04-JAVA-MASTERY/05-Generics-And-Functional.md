@@ -2,7 +2,7 @@
 
 > *"Generics make your code typesafe without repetition. Lambdas and streams make it read like the problem you're solving instead of the loops you're writing. Together they are modern Java."*
 
-**Prev:** [`03-Collections-Framework.md`](./03-Collections-Framework.md) · **Next:** [`05-Exceptions-And-IO.md`](./05-Exceptions-And-IO.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`04-Collections-Framework.md`](./04-Collections-Framework.md) · **Next:** [`06-Exceptions-And-IO.md`](./06-Exceptions-And-IO.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
 
 ---
 
@@ -609,4 +609,4 @@ public class OrderAnalytics {
 
 ---
 
-**Prev:** [`03-Collections-Framework.md`](./03-Collections-Framework.md) · **Next:** [`05-Exceptions-And-IO.md`](./05-Exceptions-And-IO.md) · **Index:** [`00-Index.md`](./00-Index.md)
+**Prev:** [`04-Collections-Framework.md`](./04-Collections-Framework.md) · **Next:** [`06-Exceptions-And-IO.md`](./06-Exceptions-And-IO.md) · **Index:** [`01-Getting-Started.md`](./01-Getting-Started.md)
